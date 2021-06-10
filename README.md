@@ -9,28 +9,28 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (2 days ago)
-- [FriendsOfShopware/platform-plugin-dev-docker](https://github.com/FriendsOfShopware/platform-plugin-dev-docker) - Docker image containing useful stuff for plugin development (2 days ago)
-- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (2 days ago)
-- [shopware/production](https://github.com/shopware/production) - Shopware 6 production template (2 days ago)
-- [shyim/php-dump-server](https://github.com/shyim/php-dump-server) -  (3 days ago)
-- [shopwareDowntown/downtown](https://github.com/shopwareDowntown/downtown) - With our portal, we want to support local authorities and merchants. We want to connect merchants with closed stores to their customers. And we want to keep in mind, that not every merchant has a sophisticated digital strategy - or even a homepage. (3 days ago)
+- [FriendsOfShopware/apps-google-sheet-backend](https://github.com/FriendsOfShopware/apps-google-sheet-backend) - Backend for apps-google-sheet (1 day ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
+- [FriendsOfShopware/status-page](https://github.com/FriendsOfShopware/status-page) - Status Page (1 day ago)
+- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (1 day ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
+- [FriendsOfShopware/platform-plugin-dev-docker](https://github.com/FriendsOfShopware/platform-plugin-dev-docker) - Docker image containing useful stuff for plugin development (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) ([0.3.14](https://github.com/FriendsOfShopware/FroshPluginUploader/releases/tag/0.3.14), 2 days ago) - Tool for uploading new plugin releases to Shopware Store
-- [shopware/development](https://github.com/shopware/development) ([v6.4.1.0](https://github.com/shopware/development/releases/tag/v6.4.1.0), 2 days ago) - 
-- [shopware/production](https://github.com/shopware/production) ([v6.4.1.0](https://github.com/shopware/production/releases/tag/v6.4.1.0), 2 days ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.1.0](https://github.com/shopware/platform/releases/tag/v6.4.1.0), 2 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [shyim/php-dump-server](https://github.com/shyim/php-dump-server) ([0.0.9](https://github.com/shyim/php-dump-server/releases/tag/0.0.9), 3 days ago) - 
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([0.2.1](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/0.2.1), 1 day ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) ([0.3.14](https://github.com/FriendsOfShopware/FroshPluginUploader/releases/tag/0.3.14), 3 days ago) - Tool for uploading new plugin releases to Shopware Store
+- [shopware/development](https://github.com/shopware/development) ([v6.4.1.0](https://github.com/shopware/development/releases/tag/v6.4.1.0), 3 days ago) - 
+- [shopware/production](https://github.com/shopware/production) ([v6.4.1.0](https://github.com/shopware/production/releases/tag/v6.4.1.0), 3 days ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.1.0](https://github.com/shopware/platform/releases/tag/v6.4.1.0), 3 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shyim/php-dump-server](https://github.com/shyim/php-dump-server) ([0.0.9](https://github.com/shyim/php-dump-server/releases/tag/0.0.9), 4 days ago) - 
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.35](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.35), 1 week ago) - Symfony extension for PHPStan
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 1 week ago) - The Symfony PHP framework
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.0.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.0.0), 1 week ago) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
-- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.2.0](https://github.com/shyim/danger-php/releases/tag/0.2.0), 1 week ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
 
 ---
 
