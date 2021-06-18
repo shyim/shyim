@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
+- [FriendsOfShopware/FroshTemplateMailMjml](https://github.com/FriendsOfShopware/FroshTemplateMailMjml) - MJML Extension for FroshTemplateMail (1 day ago)
+- [FriendsOfShopware/FroshTemplateMail](https://github.com/FriendsOfShopware/FroshTemplateMail) - Store mail templates in theme (1 day ago)
+- [FriendsOfShopware/FroshFasterCacheManager](https://github.com/FriendsOfShopware/FroshFasterCacheManager) - faster, harder, ... (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform (1 day ago)
-- [shopware/devdocs](https://github.com/shopware/devdocs) - Shopware 5 Developers Website (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [shopware/recovery](https://github.com/shopware/recovery) -  (3 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
-- [shyim/danger-comment-proxy](https://github.com/shyim/danger-comment-proxy) - Workaround Github Permission to comment on Pull Requests (4 days ago)
-- [shyim/php-dump-server](https://github.com/shyim/php-dump-server) -  (5 days ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (5 days ago)
+- [FriendsOfShopware/FroshShareBasket](https://github.com/FriendsOfShopware/FroshShareBasket) - This plugin allows your customers to save the current basket and share it via link. (1 day ago)
+- [FriendsOfShopware/shopware-plugin-compiler](https://github.com/FriendsOfShopware/shopware-plugin-compiler) -  (1 day ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
+- [FriendsOfShopware/FroshVariantSwitch](https://github.com/FriendsOfShopware/FroshVariantSwitch) - Shopware plugin to switch variants in basket and checkout views (1 day ago)
+- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) - WebP Support for Shopware (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.37](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.37), 1 day ago) - Symfony extension for PHPStan
-- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.0](https://github.com/shopware/shopware/releases/tag/v5.7.0), 3 days ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
-- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) ([0.3.9](https://github.com/FriendsOfShopware/packages/releases/tag/0.3.9), 5 days ago) - Shopware Composer Repository
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([0.2.1](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/0.2.1), 1 week ago) - This plugin allows your customers to save the current basket and share it via link.
-- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) ([0.3.14](https://github.com/FriendsOfShopware/FroshPluginUploader/releases/tag/0.3.14), 1 week ago) - Tool for uploading new plugin releases to Shopware Store
-- [shopware/development](https://github.com/shopware/development) ([v6.4.1.0](https://github.com/shopware/development/releases/tag/v6.4.1.0), 1 week ago) - 
-- [shopware/production](https://github.com/shopware/production) ([v6.4.1.0](https://github.com/shopware/production/releases/tag/v6.4.1.0), 1 week ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.1.0](https://github.com/shopware/platform/releases/tag/v6.4.1.0), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [shyim/php-dump-server](https://github.com/shyim/php-dump-server) ([0.0.9](https://github.com/shyim/php-dump-server/releases/tag/0.0.9), 1 week ago) - 
+- [FriendsOfShopware/FroshFasterCacheManager](https://github.com/FriendsOfShopware/FroshFasterCacheManager) ([1.0.6](https://github.com/FriendsOfShopware/FroshFasterCacheManager/releases/tag/1.0.6), 1 day ago) - faster, harder, ...
+- [FriendsOfShopware/FroshTemplateMail](https://github.com/FriendsOfShopware/FroshTemplateMail) ([1.1.1](https://github.com/FriendsOfShopware/FroshTemplateMail/releases/tag/1.1.1), 1 day ago) - Store mail templates in theme
+- [FriendsOfShopware/FroshTemplateMailMjml](https://github.com/FriendsOfShopware/FroshTemplateMailMjml) ([1.1.3](https://github.com/FriendsOfShopware/FroshTemplateMailMjml/releases/tag/1.1.3), 1 day ago) - MJML Extension for FroshTemplateMail
+- [FriendsOfShopware/FroshShareBasket](https://github.com/FriendsOfShopware/FroshShareBasket) ([1.1.8](https://github.com/FriendsOfShopware/FroshShareBasket/releases/tag/1.1.8), 1 day ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshVariantSwitch](https://github.com/FriendsOfShopware/FroshVariantSwitch) ([1.0.1](https://github.com/FriendsOfShopware/FroshVariantSwitch/releases/tag/1.0.1), 1 day ago) - Shopware plugin to switch variants in basket and checkout views
+- [FriendsOfShopware/FroshProfiler](https://github.com/FriendsOfShopware/FroshProfiler) ([1.4.4](https://github.com/FriendsOfShopware/FroshProfiler/releases/tag/1.4.4), 1 day ago) - Profiling for Shopware
+- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) ([1.1.4](https://github.com/FriendsOfShopware/FroshWebP/releases/tag/1.1.4), 1 day ago) - WebP Support for Shopware
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 1 day ago) - The Symfony PHP framework
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.37](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.37), 2 days ago) - Symfony extension for PHPStan
 
 ---
 
