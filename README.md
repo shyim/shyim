@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
-- [shopware/composer-project](https://github.com/shopware/composer-project) - Skeleton for Shopware projects with composer (1 day ago)
+- [FriendsOfShopware/status-page](https://github.com/FriendsOfShopware/status-page) - Status Page (1 day ago)
+- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (1 day ago)
+- [FriendsOfShopware/FroshAdminer](https://github.com/FriendsOfShopware/FroshAdminer) - Adminer for Shopware (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform (1 day ago)
-- [shopware/devdocs](https://github.com/shopware/devdocs) - Shopware 5 Developers Website (1 day ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (1 day ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (1 day ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
+- [FriendsOfShopware/.github](https://github.com/FriendsOfShopware/.github) -  (1 day ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (1 day ago)
+- [FriendsOfShopware/apps-google-sheet-backend](https://github.com/FriendsOfShopware/apps-google-sheet-backend) - Backend for apps-google-sheet (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.2.2](https://github.com/shyim/danger-php/releases/tag/0.2.2), 1 day ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
-- [shopware/development](https://github.com/shopware/development) ([v6.4.1.1](https://github.com/shopware/development/releases/tag/v6.4.1.1), 2 days ago) - 
-- [shopware/production](https://github.com/shopware/production) ([v6.4.1.1](https://github.com/shopware/production/releases/tag/v6.4.1.1), 2 days ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.1.1](https://github.com/shopware/platform/releases/tag/v6.4.1.1), 2 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.1](https://github.com/shopware/shopware/releases/tag/v5.7.1), 2 days ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
-- [FriendsOfShopware/FroshFasterCacheManager](https://github.com/FriendsOfShopware/FroshFasterCacheManager) ([1.0.6](https://github.com/FriendsOfShopware/FroshFasterCacheManager/releases/tag/1.0.6), 6 days ago) - faster, harder, ...
-- [FriendsOfShopware/FroshTemplateMail](https://github.com/FriendsOfShopware/FroshTemplateMail) ([1.1.1](https://github.com/FriendsOfShopware/FroshTemplateMail/releases/tag/1.1.1), 6 days ago) - Store mail templates in theme
-- [FriendsOfShopware/FroshTemplateMailMjml](https://github.com/FriendsOfShopware/FroshTemplateMailMjml) ([1.1.3](https://github.com/FriendsOfShopware/FroshTemplateMailMjml/releases/tag/1.1.3), 6 days ago) - MJML Extension for FroshTemplateMail
-- [FriendsOfShopware/FroshShareBasket](https://github.com/FriendsOfShopware/FroshShareBasket) ([1.1.8](https://github.com/FriendsOfShopware/FroshShareBasket/releases/tag/1.1.8), 6 days ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.1](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.1), 1 day ago) - Helpful development tools
+- [FriendsOfShopware/FroshPlatformFilterSearch](https://github.com/FriendsOfShopware/FroshPlatformFilterSearch) ([1.0.3](https://github.com/FriendsOfShopware/FroshPlatformFilterSearch/releases/tag/1.0.3), 1 day ago) - 
+- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.2.2](https://github.com/shyim/danger-php/releases/tag/0.2.2), 2 days ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+- [shopware/development](https://github.com/shopware/development) ([v6.4.1.1](https://github.com/shopware/development/releases/tag/v6.4.1.1), 3 days ago) - 
+- [shopware/production](https://github.com/shopware/production) ([v6.4.1.1](https://github.com/shopware/production/releases/tag/v6.4.1.1), 3 days ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.1.1](https://github.com/shopware/platform/releases/tag/v6.4.1.1), 3 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.1](https://github.com/shopware/shopware/releases/tag/v5.7.1), 3 days ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
+- [FriendsOfShopware/FroshFasterCacheManager](https://github.com/FriendsOfShopware/FroshFasterCacheManager) ([1.0.6](https://github.com/FriendsOfShopware/FroshFasterCacheManager/releases/tag/1.0.6), 1 week ago) - faster, harder, ...
+- [FriendsOfShopware/FroshTemplateMail](https://github.com/FriendsOfShopware/FroshTemplateMail) ([1.1.1](https://github.com/FriendsOfShopware/FroshTemplateMail/releases/tag/1.1.1), 1 week ago) - Store mail templates in theme
 
 ---
 
