@@ -45,4 +45,4 @@ Curious what I've been working on recently?
 #### 📫 How to reach me
 
 - Twitter: [@shyim97](https://twitter.com/shyim97)
-- Email: [github@shyim.de](mailto://github.shyim.de)
+- Email: [github@shyim.de](mailto://github@shyim.de)
