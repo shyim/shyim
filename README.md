@@ -8,25 +8,25 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform (2 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (2 days ago)
-- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (2 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (2 days ago)
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (3 days ago)
-- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (4 days ago)
+- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (1 day ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (3 days ago)
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (4 days ago)
+- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.38](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.38), 1 day ago) - Symfony extension for PHPStan
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 2 days ago) - The Symfony PHP framework
-- [danger/danger-js](https://github.com/danger/danger-js) ([10.6.6](https://github.com/danger/danger-js/releases/tag/10.6.6), 2 days ago) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review
-- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([0.2.2](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/0.2.2), 4 days ago) - This plugin allows your customers to save the current basket and share it via link.
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) ([0.3.1](https://github.com/FriendsOfShopware/FroshPlatformAdminer/releases/tag/0.3.1), 6 days ago) - Adminer plugin for Shopware Platform
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.38](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.38), 2 days ago) - Symfony extension for PHPStan
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 3 days ago) - The Symfony PHP framework
+- [danger/danger-js](https://github.com/danger/danger-js) ([10.6.6](https://github.com/danger/danger-js/releases/tag/10.6.6), 3 days ago) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review
+- [FriendsOfShopware/FroshPlatformShareBasket](https://github.com/FriendsOfShopware/FroshPlatformShareBasket) ([0.2.2](https://github.com/FriendsOfShopware/FroshPlatformShareBasket/releases/tag/0.2.2), 5 days ago) - This plugin allows your customers to save the current basket and share it via link.
+- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) ([0.3.1](https://github.com/FriendsOfShopware/FroshPlatformAdminer/releases/tag/0.3.1), 1 week ago) - Adminer plugin for Shopware Platform
 - [shopware/development](https://github.com/shopware/development) ([v6.4.1.2](https://github.com/shopware/development/releases/tag/v6.4.1.2), 1 week ago) - 
 - [shopware/production](https://github.com/shopware/production) ([v6.4.1.2](https://github.com/shopware/production/releases/tag/v6.4.1.2), 1 week ago) - Shopware 6 production template
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.1.2](https://github.com/shopware/platform/releases/tag/v6.4.1.2), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
