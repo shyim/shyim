@@ -9,24 +9,24 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (today)
-- [shopware/administration](https://github.com/shopware/administration) -  (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
+- [shopware/development](https://github.com/shopware/development) -  (2 days ago)
 - [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (3 days ago)
-- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (5 days ago)
-- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (6 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (1 week ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (2 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (2 days ago)
+- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (4 days ago)
+- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (6 days ago)
+- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) ([v1.2.1](https://github.com/JetBrains/projector-installer/releases/tag/v1.2.1), 1 day ago) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
-- [shopware/production](https://github.com/shopware/production) ([v6.4.2.0](https://github.com/shopware/production/releases/tag/v6.4.2.0), 1 day ago) - Shopware 6 production template
-- [shopware/development](https://github.com/shopware/development) ([v6.4.2.0](https://github.com/shopware/development/releases/tag/v6.4.2.0), 1 day ago) - 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.2.0](https://github.com/shopware/platform/releases/tag/v6.4.2.0), 1 day ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.2](https://github.com/shopware/shopware/releases/tag/v5.7.2), 3 days ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
+- [shopware/development](https://github.com/shopware/development) ([v6.4.2.1](https://github.com/shopware/development/releases/tag/v6.4.2.1), 1 day ago) - 
+- [shopware/production](https://github.com/shopware/production) ([v6.4.2.1](https://github.com/shopware/production/releases/tag/v6.4.2.1), 1 day ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.2.1](https://github.com/shopware/platform/releases/tag/v6.4.2.1), 1 day ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) ([v1.2.1](https://github.com/JetBrains/projector-installer/releases/tag/v1.2.1), 2 days ago) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
+- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.2](https://github.com/shopware/shopware/releases/tag/v5.7.2), 4 days ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.38](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.38), 1 week ago) - Symfony extension for PHPStan
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 1 week ago) - The Symfony PHP framework
 - [danger/danger-js](https://github.com/danger/danger-js) ([10.6.6](https://github.com/danger/danger-js/releases/tag/10.6.6), 1 week ago) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review
