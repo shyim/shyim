@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (today)
 - [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (1 day ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (1 day ago)
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (2 days ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (2 days ago)
 - [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [FriendsOfShopware/status-page](https://github.com/FriendsOfShopware/status-page) - Status Page (2 days ago)
-- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (2 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
+- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (2 days ago)
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (3 days ago)
+- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (3 days ago)
+- [FriendsOfShopware/status-page](https://github.com/FriendsOfShopware/status-page) - Status Page (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.39](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.39), 1 day ago) - Symfony extension for PHPStan
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.18](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.18), 2 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.40](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.40), 1 day ago) - Symfony extension for PHPStan
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.18](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.18), 3 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [shopware/development](https://github.com/shopware/development) ([v6.4.2.1](https://github.com/shopware/development/releases/tag/v6.4.2.1), 1 week ago) - 
 - [shopware/production](https://github.com/shopware/production) ([v6.4.2.1](https://github.com/shopware/production/releases/tag/v6.4.2.1), 1 week ago) - Shopware 6 production template
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.2.1](https://github.com/shopware/platform/releases/tag/v6.4.2.1), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
