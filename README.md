@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (3 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (4 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (4 days ago)
-- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (5 days ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (5 days ago)
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (5 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (4 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (4 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (5 days ago)
+- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (5 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (5 days ago)
+- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (6 days ago)
+- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (6 days ago)
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.41](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.41), 1 day ago) - Symfony extension for PHPStan
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.18](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.18), 5 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.41](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.41), 2 days ago) - Symfony extension for PHPStan
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.18](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.18), 6 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [shopware/development](https://github.com/shopware/development) ([v6.4.2.1](https://github.com/shopware/development/releases/tag/v6.4.2.1), 1 week ago) - 
 - [shopware/production](https://github.com/shopware/production) ([v6.4.2.1](https://github.com/shopware/production/releases/tag/v6.4.2.1), 1 week ago) - Shopware 6 production template
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.2.1](https://github.com/shopware/platform/releases/tag/v6.4.2.1), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
