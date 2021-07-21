@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (1 day ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (1 day ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (4 days ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (4 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (5 days ago)
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (5 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (5 days ago)
-- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (6 days ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (6 days ago)
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (6 days ago)
+- [shopware/production](https://github.com/shopware/production) - Shopware 6 production template (1 day ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (5 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (5 days ago)
+- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (6 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (6 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.41](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.41), 2 days ago) - Symfony extension for PHPStan
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.18](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.18), 6 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.2), 1 day ago) - Helpful development tools
+- [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.41](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.41), 3 days ago) - Symfony extension for PHPStan
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.18](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.18), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [shopware/development](https://github.com/shopware/development) ([v6.4.2.1](https://github.com/shopware/development/releases/tag/v6.4.2.1), 1 week ago) - 
 - [shopware/production](https://github.com/shopware/production) ([v6.4.2.1](https://github.com/shopware/production/releases/tag/v6.4.2.1), 1 week ago) - Shopware 6 production template
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.2.1](https://github.com/shopware/platform/releases/tag/v6.4.2.1), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) ([v1.2.1](https://github.com/JetBrains/projector-installer/releases/tag/v1.2.1), 1 week ago) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
+- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) ([v1.2.1](https://github.com/JetBrains/projector-installer/releases/tag/v1.2.1), 2 weeks ago) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.2](https://github.com/shopware/shopware/releases/tag/v5.7.2), 2 weeks ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 2 weeks ago) - The Symfony PHP framework
-- [danger/danger-js](https://github.com/danger/danger-js) ([10.6.6](https://github.com/danger/danger-js/releases/tag/10.6.6), 2 weeks ago) - ⚠️ Stop saying &#34;you forgot to …&#34; in code review
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 3 weeks ago) - The Symfony PHP framework
 
 ---
 
