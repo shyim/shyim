@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (today)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (2 days ago)
-- [shopwareLabs/AppTemplate](https://github.com/shopwareLabs/AppTemplate) -  (2 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
-- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) - Shopware Composer Repository (3 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (3 days ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (4 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
+- [shopware/core](https://github.com/shopware/core) -  (1 day ago)
+- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (1 day ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
+- [shopwareLabs/AppTemplate](https://github.com/shopwareLabs/AppTemplate) -  (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (4 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (4 days ago)
+- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) - Shopware Composer Repository (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 day ago) - The Symfony PHP framework
-- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) ([0.3.15](https://github.com/FriendsOfShopware/FroshPluginUploader/releases/tag/0.3.15), 5 days ago) - Tool for uploading new plugin releases to Shopware Store
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 2 days ago) - The Symfony PHP framework
+- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) ([0.3.15](https://github.com/FriendsOfShopware/FroshPluginUploader/releases/tag/0.3.15), 6 days ago) - Tool for uploading new plugin releases to Shopware Store
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.2), 1 week ago) - Helpful development tools
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([0.12.41](https://github.com/phpstan/phpstan-symfony/releases/tag/0.12.41), 1 week ago) - Symfony extension for PHPStan
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.18](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.18), 2 weeks ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
