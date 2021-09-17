@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [shopware/core](https://github.com/shopware/core) -  (1 day ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 day ago)
-- [vlang/vls](https://github.com/vlang/vls) - V language server (2 days ago)
-- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) - Shopware Composer Repository (2 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (2 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (2 days ago)
+- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (2 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
+- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) - Shopware Composer Repository (3 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/development](https://github.com/shopware/development) ([v6.4.4.1](https://github.com/shopware/development/releases/tag/v6.4.4.1), 2 days ago) - 
-- [shopware/production](https://github.com/shopware/production) ([v6.4.4.1](https://github.com/shopware/production/releases/tag/v6.4.4.1), 2 days ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.4.1](https://github.com/shopware/platform/releases/tag/v6.4.4.1), 2 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shopware/development](https://github.com/shopware/development) ([v6.4.4.1](https://github.com/shopware/development/releases/tag/v6.4.4.1), 3 days ago) - 
+- [shopware/production](https://github.com/shopware/production) ([v6.4.4.1](https://github.com/shopware/production/releases/tag/v6.4.4.1), 3 days ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.4.1](https://github.com/shopware/platform/releases/tag/v6.4.4.1), 3 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([0.3.1](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/0.3.1), 1 week ago) - 
 - [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.3](https://github.com/shopware/shopware/releases/tag/v5.7.3), 1 week ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.1.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.1.0), 1 week ago) - 
