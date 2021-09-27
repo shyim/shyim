@@ -9,21 +9,21 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shyim/shopware6-phpstorm-plugin](https://github.com/shyim/shopware6-phpstorm-plugin) -  (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (2 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [shopware/recovery](https://github.com/shopware/recovery) -  (3 days ago)
-- [FriendsOfShopware/FroshProfiler](https://github.com/FriendsOfShopware/FroshProfiler) - Profiling for Shopware (4 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (4 days ago)
-- [shyim/app-server-sdk-typescript](https://github.com/shyim/app-server-sdk-typescript) - Shopware App Server SDK written in Typescript (4 days ago)
-- [shyim/shopware6-live-templates](https://github.com/shyim/shopware6-live-templates) - Shopware 6 Live templates for PhpStorm (5 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (3 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
+- [shopware/recovery](https://github.com/shopware/recovery) -  (4 days ago)
+- [FriendsOfShopware/FroshProfiler](https://github.com/FriendsOfShopware/FroshProfiler) - Profiling for Shopware (5 days ago)
+- [shyim/app-server-sdk-typescript](https://github.com/shyim/app-server-sdk-typescript) - Shopware App Server SDK written in Typescript (5 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (5 days ago)
+- [shyim/shopware6-live-templates](https://github.com/shyim/shopware6-live-templates) - Shopware 6 Live templates for PhpStorm (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) ([0.3.11](https://github.com/FriendsOfShopware/packages/releases/tag/0.3.11), 2 days ago) - Shopware Composer Repository
-- [shyim/shopware6-phpstorm-plugin](https://github.com/shyim/shopware6-phpstorm-plugin) ([0.0.6](https://github.com/shyim/shopware6-phpstorm-plugin/releases/tag/0.0.6), 3 days ago) - 
+- [shyim/shopware6-phpstorm-plugin](https://github.com/shyim/shopware6-phpstorm-plugin) ([0.0.7](https://github.com/shyim/shopware6-phpstorm-plugin/releases/tag/0.0.7), 1 day ago) - 
+- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) ([0.3.11](https://github.com/FriendsOfShopware/packages/releases/tag/0.3.11), 3 days ago) - Shopware Composer Repository
 - [shopware/development](https://github.com/shopware/development) ([v6.4.4.1](https://github.com/shopware/development/releases/tag/v6.4.4.1), 1 week ago) - 
 - [shopware/production](https://github.com/shopware/production) ([v6.4.4.1](https://github.com/shopware/production/releases/tag/v6.4.4.1), 1 week ago) - Shopware 6 production template
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.4.1](https://github.com/shopware/platform/releases/tag/v6.4.4.1), 1 week ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
