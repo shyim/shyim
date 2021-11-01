@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) - Shopware Composer Repository (5 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (5 days ago)
+- [FriendsOfShopware/packages](https://github.com/FriendsOfShopware/packages) - Shopware Composer Repository (6 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (6 days ago)
 - [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (1 week ago)
 - [shyim/shopware6-phpstorm-plugin](https://github.com/shyim/shopware6-phpstorm-plugin) -  (1 week ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 week ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 2 days ago) - The Symfony PHP framework
-- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.6](https://github.com/shopware/shopware/releases/tag/v5.7.6), 5 days ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.10](https://github.com/symfony/symfony/releases/tag/v5.3.10), 3 days ago) - The Symfony PHP framework
+- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.6](https://github.com/shopware/shopware/releases/tag/v5.7.6), 6 days ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
 - [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) ([0.3.18](https://github.com/FriendsOfShopware/FroshPluginUploader/releases/tag/0.3.18), 1 week ago) - Tool for uploading new plugin releases to Shopware Store
 - [shyim/shopware6-phpstorm-plugin](https://github.com/shyim/shopware6-phpstorm-plugin) ([0.0.19](https://github.com/shyim/shopware6-phpstorm-plugin/releases/tag/0.0.19), 1 week ago) - 
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.19](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.19), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
