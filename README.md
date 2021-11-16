@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/FroshSmartInputLabel](https://github.com/FriendsOfShopware/FroshSmartInputLabel) - Create animated input labels on all bootstrap form and input groups in Shopware 6 (5 days ago)
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (1 week ago)
+- [shyim/ShyimPizza](https://github.com/shyim/ShyimPizza) -  (1 day ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
+- [FriendsOfShopware/FroshSmartInputLabel](https://github.com/FriendsOfShopware/FroshSmartInputLabel) - Create animated input labels on all bootstrap form and input groups in Shopware 6 (6 days ago)
 - [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (1 week ago)
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (1 week ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (1 week ago)
 - [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (1 week ago)
 - [FriendsOfShopware/status-page](https://github.com/FriendsOfShopware/status-page) - Status Page (1 week ago)
 - [FriendsOfShopware/FroshProfiler](https://github.com/FriendsOfShopware/FroshProfiler) - Profiling for Shopware (1 week ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (1 week ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), 1 day ago) - The Symfony PHP framework
-- [FriendsOfShopware/FroshSmartInputLabel](https://github.com/FriendsOfShopware/FroshSmartInputLabel) ([1.0.0](https://github.com/FriendsOfShopware/FroshSmartInputLabel/releases/tag/1.0.0), 3 days ago) - Create animated input labels on all bootstrap form and input groups in Shopware 6
-- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) ([v1.5.2](https://github.com/JetBrains/projector-installer/releases/tag/v1.5.2), 5 days ago) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA2), 2 days ago) - The Symfony PHP framework
+- [FriendsOfShopware/FroshSmartInputLabel](https://github.com/FriendsOfShopware/FroshSmartInputLabel) ([1.0.0](https://github.com/FriendsOfShopware/FroshSmartInputLabel/releases/tag/1.0.0), 4 days ago) - Create animated input labels on all bootstrap form and input groups in Shopware 6
+- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) ([v1.5.2](https://github.com/JetBrains/projector-installer/releases/tag/v1.5.2), 6 days ago) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([0.4.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/0.4.2), 1 week ago) - 
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 1 week ago) - Helpful development tools
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.1.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.1.1), 1 week ago) - 
