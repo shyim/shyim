@@ -8,12 +8,12 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (1 day ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (5 days ago)
-- [shyim/ShyimPizza](https://github.com/shyim/ShyimPizza) -  (5 days ago)
-- [shopware/recovery](https://github.com/shopware/recovery) -  (5 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community. (2 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (6 days ago)
+- [shyim/ShyimPizza](https://github.com/shyim/ShyimPizza) -  (6 days ago)
+- [shopware/recovery](https://github.com/shopware/recovery) -  (6 days ago)
 - [FriendsOfShopware/FroshSmartInputLabel](https://github.com/FriendsOfShopware/FroshSmartInputLabel) - Create animated input labels on all bootstrap form and input groups in Shopware 6 (1 week ago)
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (1 week ago)
 - [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (1 week ago)
@@ -22,13 +22,13 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([1.0.0](https://github.com/opensearch-project/opensearch-php/releases/tag/1.0.0), 1 day ago) - Official PHP Client for OpenSearch
-- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) ([1.2.0](https://github.com/FriendsOfShopware/FroshProductCompare/releases/tag/1.2.0), 2 days ago) - A Plugin for Shopware 6 - Ecommerce Platform
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 2 days ago) - The Symfony PHP framework
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([1.0.0](https://github.com/opensearch-project/opensearch-php/releases/tag/1.0.0), 2 days ago) - Official PHP Client for OpenSearch
+- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) ([1.2.0](https://github.com/FriendsOfShopware/FroshProductCompare/releases/tag/1.2.0), 3 days ago) - A Plugin for Shopware 6 - Ecommerce Platform
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 3 days ago) - The Symfony PHP framework
 - [FriendsOfShopware/FroshSmartInputLabel](https://github.com/FriendsOfShopware/FroshSmartInputLabel) ([1.0.0](https://github.com/FriendsOfShopware/FroshSmartInputLabel/releases/tag/1.0.0), 1 week ago) - Create animated input labels on all bootstrap form and input groups in Shopware 6
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) ([v1.5.2](https://github.com/JetBrains/projector-installer/releases/tag/v1.5.2), 1 week ago) - Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([0.4.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/0.4.2), 1 week ago) - 
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 1 week ago) - Helpful development tools
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([0.4.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/0.4.2), 2 weeks ago) - 
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.3](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.3), 2 weeks ago) - Helpful development tools
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.1.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.1.1), 2 weeks ago) - 
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.20](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.20), 2 weeks ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 
