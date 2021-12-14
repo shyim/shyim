@@ -8,25 +8,25 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (4 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (4 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (4 days ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (5 days ago)
-- [FriendsOfShopware/status-page](https://github.com/FriendsOfShopware/status-page) - Status Page (5 days ago)
-- [FriendsOfShopware/default-plugin-repo](https://github.com/FriendsOfShopware/default-plugin-repo) - This repository holds all files that should be present in our plugin repositories. (6 days ago)
-- [tinect/TinectMediaStaging](https://github.com/tinect/TinectMediaStaging) -  (6 days ago)
-- [FriendsOfShopware/actions](https://github.com/FriendsOfShopware/actions) - Collection of reusable workflows (1 week ago)
+- [FriendsOfShopware/shopware](https://github.com/FriendsOfShopware/shopware) - A Symfony flex based template for Shopware 6 (1 day ago)
+- [FriendsOfShopware/default-plugin-repo](https://github.com/FriendsOfShopware/default-plugin-repo) - This repository holds all files that should be present in our plugin repositories. (1 day ago)
+- [FriendsOfShopware/recipes](https://github.com/FriendsOfShopware/recipes) - Flex Recipes (1 day ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (5 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (5 days ago)
+- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (5 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (5 days ago)
+- [FriendsOfShopware/status-page](https://github.com/FriendsOfShopware/status-page) - Status Page (6 days ago)
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 4 days ago) - The Symfony PHP framework
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 4 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
-- [shopware/development](https://github.com/shopware/development) ([v6.4.7.0](https://github.com/shopware/development/releases/tag/v6.4.7.0), 4 days ago) - 
-- [shopware/production](https://github.com/shopware/production) ([v6.4.7.0](https://github.com/shopware/production/releases/tag/v6.4.7.0), 4 days ago) - Shopware 6 production template
-- [tinect/TinectMediaStaging](https://github.com/tinect/TinectMediaStaging) ([1.0.0](https://github.com/tinect/TinectMediaStaging/releases/tag/1.0.0), 5 days ago) - 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.1](https://github.com/symfony/symfony/releases/tag/v6.0.1), 5 days ago) - The Symfony PHP framework
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.7.0](https://github.com/shopware/platform/releases/tag/v6.4.7.0), 5 days ago) - Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.
+- [shopware/development](https://github.com/shopware/development) ([v6.4.7.0](https://github.com/shopware/development/releases/tag/v6.4.7.0), 5 days ago) - 
+- [shopware/production](https://github.com/shopware/production) ([v6.4.7.0](https://github.com/shopware/production/releases/tag/v6.4.7.0), 5 days ago) - Shopware 6 production template
+- [tinect/TinectMediaStaging](https://github.com/tinect/TinectMediaStaging) ([1.0.0](https://github.com/tinect/TinectMediaStaging/releases/tag/1.0.0), 6 days ago) - 
 - [phpstan/phpstan-symfony](https://github.com/phpstan/phpstan-symfony) ([1.0.3](https://github.com/phpstan/phpstan-symfony/releases/tag/1.0.3), 1 week ago) - Symfony extension for PHPStan
 - [FriendsOfShopware/FroshAdminer](https://github.com/FriendsOfShopware/FroshAdminer) ([1.3.5](https://github.com/FriendsOfShopware/FroshAdminer/releases/tag/1.3.5), 1 week ago) - Adminer for Shopware
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) ([v10.3.0](https://github.com/docker-mailserver/docker-mailserver/releases/tag/v10.3.0), 2 weeks ago) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
