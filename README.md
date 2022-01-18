@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Soner Sayakci, I'm a software developer at shopware AG and love contributing to open-source projects.
+My name is Soner Sayakci, I'm a sofware developer at shopware AG and love contributing to open-source projects.
 
 Curious what I've been working on recently?
 
@@ -8,15 +8,15 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions (1 day ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (today)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions (today)
+- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (today)
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (1 day ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
+- [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (1 day ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 day ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (1 day ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (2 days ago)
-- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (3 days ago)
-- [FriendsOfShopware/shopware-admin-vue-standalone](https://github.com/FriendsOfShopware/shopware-admin-vue-standalone) - Standalone Shopware administration components for Vue (3 days ago)
-- [shyim/shopware-admin-api-node](https://github.com/shyim/shopware-admin-api-node) - a Shopware Admin API Client for NodeJs (4 days ago)
 
 ---
 
