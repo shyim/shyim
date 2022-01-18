@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Soner Sayakci, I'm a sofware developer at shopware AG and love contributing to open-source projects.
+My name is Soner Sayakci, I'm a software developer at shopware AG and love contributing to open-source projects.
 
 Curious what I've been working on recently?
 
