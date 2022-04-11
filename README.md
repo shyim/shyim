@@ -8,26 +8,26 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopware](https://github.com/FriendsOfShopware/shopware) - A Symfony flex based template for Shopware 6 (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions (2 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 days ago)
-- [FriendsOfShopware/redis-meta](https://github.com/FriendsOfShopware/redis-meta) - Redis Package for Symfony Flex (3 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [FriendsOfShopware/recipes](https://github.com/FriendsOfShopware/recipes) - Flex Recipes (3 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (5 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (5 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions (1 day ago)
+- [FriendsOfShopware/platform-plugin-dev-docker](https://github.com/FriendsOfShopware/platform-plugin-dev-docker) - Docker image containing useful stuff for plugin development (1 day ago)
+- [FriendsOfShopware/shopware](https://github.com/FriendsOfShopware/shopware) - A Symfony flex based template for Shopware 6 (2 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (4 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
+- [FriendsOfShopware/redis-meta](https://github.com/FriendsOfShopware/redis-meta) - Redis Package for Symfony Flex (4 days ago)
+- [FriendsOfShopware/recipes](https://github.com/FriendsOfShopware/recipes) - Flex Recipes (4 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.3.4](https://github.com/composer/composer/releases/tag/2.3.4), 3 days ago) - Dependency Manager for PHP
-- [FriendsOfShopware/redis-meta](https://github.com/FriendsOfShopware/redis-meta) ([1.0.0](https://github.com/FriendsOfShopware/redis-meta/releases/tag/1.0.0), 3 days ago) - Redis Package for Symfony Flex
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.26](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.26), 5 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
-- [shopware/production](https://github.com/shopware/production) ([v6.4.10.0](https://github.com/shopware/production/releases/tag/v6.4.10.0), 5 days ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.10.0](https://github.com/shopware/platform/releases/tag/v6.4.10.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
-- [shopware/development](https://github.com/shopware/development) ([v6.4.10.0](https://github.com/shopware/development/releases/tag/v6.4.10.0), 5 days ago) - 
+- [composer/composer](https://github.com/composer/composer) ([2.3.4](https://github.com/composer/composer/releases/tag/2.3.4), 4 days ago) - Dependency Manager for PHP
+- [FriendsOfShopware/redis-meta](https://github.com/FriendsOfShopware/redis-meta) ([1.0.0](https://github.com/FriendsOfShopware/redis-meta/releases/tag/1.0.0), 4 days ago) - Redis Package for Symfony Flex
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.26](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.26), 6 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [shopware/production](https://github.com/shopware/production) ([v6.4.10.0](https://github.com/shopware/production/releases/tag/v6.4.10.0), 6 days ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.10.0](https://github.com/shopware/platform/releases/tag/v6.4.10.0), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
+- [shopware/development](https://github.com/shopware/development) ([v6.4.10.0](https://github.com/shopware/development/releases/tag/v6.4.10.0), 6 days ago) - 
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.3.3](https://github.com/muety/wakapi/releases/tag/2.3.3), 1 week ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.7](https://github.com/symfony/symfony/releases/tag/v6.0.7), 1 week ago) - The Symfony PHP framework
 - [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.1.1](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.1.1), 1 week ago) - Removes ads from OP.GG client
