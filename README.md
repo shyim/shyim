@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (1 day ago)
+- [FriendsOfShopware/apps-google-sheet-backend](https://github.com/FriendsOfShopware/apps-google-sheet-backend) - Backend for apps-google-sheet (1 day ago)
+- [FriendsOfShopware/.github](https://github.com/FriendsOfShopware/.github) -  (1 day ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (1 day ago)
+- [shyim/shopware-docker-images](https://github.com/shyim/shopware-docker-images) - Contains all Docker images for https://github.com/shyim/shopware-docker (1 day ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (1 day ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions (1 day ago)
-- [FriendsOfShopware/platform-plugin-dev-docker](https://github.com/FriendsOfShopware/platform-plugin-dev-docker) - Docker image containing useful stuff for plugin development (2 days ago)
-- [FriendsOfShopware/shopware](https://github.com/FriendsOfShopware/shopware) - A Symfony flex based template for Shopware 6 (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (4 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (4 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (5 days ago)
-- [FriendsOfShopware/recipes](https://github.com/FriendsOfShopware/recipes) - Flex Recipes (5 days ago)
-- [FriendsOfShopware/redis-meta](https://github.com/FriendsOfShopware/redis-meta) - Redis Package for Symfony Flex (5 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [JetBrains/qodana-action](https://github.com/JetBrains/qodana-action) ([v5.0.4](https://github.com/JetBrains/qodana-action/releases/tag/v5.0.4), today) - ⚙️ Scan your Java, Kotlin, PHP, Python, JavaScript, TypeScript projects at GitHub with Qodana
-- [composer/composer](https://github.com/composer/composer) ([2.3.4](https://github.com/composer/composer/releases/tag/2.3.4), 5 days ago) - Dependency Manager for PHP
-- [FriendsOfShopware/redis-meta](https://github.com/FriendsOfShopware/redis-meta) ([1.0.0](https://github.com/FriendsOfShopware/redis-meta/releases/tag/1.0.0), 5 days ago) - Redis Package for Symfony Flex
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([0.3.2](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/0.3.2), 1 day ago) - 
+- [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.8](https://github.com/shopware/shopware/releases/tag/v5.7.8), 1 day ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
+- [JetBrains/qodana-action](https://github.com/JetBrains/qodana-action) ([v5.0.4](https://github.com/JetBrains/qodana-action/releases/tag/v5.0.4), 1 day ago) - ⚙️ Scan your Java, Kotlin, PHP, Python, JavaScript, TypeScript projects at GitHub with Qodana
+- [composer/composer](https://github.com/composer/composer) ([2.3.4](https://github.com/composer/composer/releases/tag/2.3.4), 6 days ago) - Dependency Manager for PHP
+- [FriendsOfShopware/redis-meta](https://github.com/FriendsOfShopware/redis-meta) ([1.0.0](https://github.com/FriendsOfShopware/redis-meta/releases/tag/1.0.0), 6 days ago) - Redis Package for Symfony Flex
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.26](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.26), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [shopware/production](https://github.com/shopware/production) ([v6.4.10.0](https://github.com/shopware/production/releases/tag/v6.4.10.0), 1 week ago) - Shopware 6 production template
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.10.0](https://github.com/shopware/platform/releases/tag/v6.4.10.0), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more then 1.500 community extensions
 - [shopware/development](https://github.com/shopware/development) ([v6.4.10.0](https://github.com/shopware/development/releases/tag/v6.4.10.0), 1 week ago) - 
-- [muety/wakapi](https://github.com/muety/wakapi) ([2.3.3](https://github.com/muety/wakapi/releases/tag/2.3.3), 1 week ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.7](https://github.com/symfony/symfony/releases/tag/v6.0.7), 1 week ago) - The Symfony PHP framework
 
 ---
 
