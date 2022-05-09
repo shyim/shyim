@@ -8,26 +8,26 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (1 day ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (2 days ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (2 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (4 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (5 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (6 days ago)
-- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) - Removes ads from OP.GG client (6 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (1 day ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (2 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (5 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (6 days ago)
+- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/production](https://github.com/shopware/production) ([v6.4.11.1](https://github.com/shopware/production/releases/tag/v6.4.11.1), 3 days ago) - Shopware 6 production template
-- [shopware/development](https://github.com/shopware/development) ([v6.4.11.1](https://github.com/shopware/development/releases/tag/v6.4.11.1), 3 days ago) - 
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.11.1](https://github.com/shopware/platform/releases/tag/v6.4.11.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([0.0.26](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/0.0.26), 5 days ago) - 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.1.7](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.1.7), 5 days ago) - 
-- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.1.3](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.1.3), 6 days ago) - Removes ads from OP.GG client
+- [shopware/production](https://github.com/shopware/production) ([v6.4.11.1](https://github.com/shopware/production/releases/tag/v6.4.11.1), 4 days ago) - Shopware 6 production template
+- [shopware/development](https://github.com/shopware/development) ([v6.4.11.1](https://github.com/shopware/development/releases/tag/v6.4.11.1), 4 days ago) - 
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.11.1](https://github.com/shopware/platform/releases/tag/v6.4.11.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([0.0.26](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/0.0.26), 6 days ago) - 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.1.7](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.1.7), 6 days ago) - 
+- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.1.3](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.1.3), 1 week ago) - Removes ads from OP.GG client
 - [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.10](https://github.com/shopware/shopware/releases/tag/v5.7.10), 1 week ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.1.28](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.1.28), 1 week ago) - CLI for Shopware Account
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 1 week ago) - The Symfony PHP framework
