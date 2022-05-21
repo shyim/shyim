@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/development](https://github.com/shopware/development) -  (1 day ago)
-- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (1 day ago)
-- [shyim/aelia](https://github.com/shyim/aelia) - My personal server automated with NixOS (2 days ago)
-- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (2 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
-- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (2 days ago)
-- [FriendsOfShopware/shopware-admin-vue-standalone](https://github.com/FriendsOfShopware/shopware-admin-vue-standalone) - Standalone Shopware administration components for Vue (2 days ago)
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 day ago)
+- [shyim/nix-darwin-modules](https://github.com/shyim/nix-darwin-modules) - Some Nix Darwin Modules which I use daily (1 day ago)
+- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (2 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shopware/development](https://github.com/shopware/development) -  (2 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (2 days ago)
+- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
+- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [scssphp/scssphp](https://github.com/scssphp/scssphp) ([v1.10.3](https://github.com/scssphp/scssphp/releases/tag/v1.10.3), 4 days ago) - SCSS compiler written in PHP
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.1.0-RC1), 6 days ago) - The Symfony PHP framework
+- [scssphp/scssphp](https://github.com/scssphp/scssphp) ([v1.10.3](https://github.com/scssphp/scssphp/releases/tag/v1.10.3), 5 days ago) - SCSS compiler written in PHP
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.1.0-RC1), 1 week ago) - The Symfony PHP framework
 - [JetBrains/qodana-action](https://github.com/JetBrains/qodana-action) ([v5.1.0](https://github.com/JetBrains/qodana-action/releases/tag/v5.1.0), 1 week ago) - ⚙️ Scan your Java, Kotlin, PHP, Python, JavaScript, TypeScript projects at GitHub with Qodana
 - [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.1.4](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.1.4), 1 week ago) - Removes ads from OP.GG client
 - [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.11](https://github.com/shopware/shopware/releases/tag/v5.7.11), 1 week ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
