@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
 - [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (1 day ago)
-- [FriendsOfShopware/apps-google-sheet-backend](https://github.com/FriendsOfShopware/apps-google-sheet-backend) - Backend for apps-google-sheet (1 day ago)
-- [FriendsOfShopware/FroshProfiler](https://github.com/FriendsOfShopware/FroshProfiler) - Profiling for Shopware (1 day ago)
-- [shopwareDowntown/downtown](https://github.com/shopwareDowntown/downtown) - With our portal, we want to support local authorities and merchants. We want to connect merchants with closed stores to their customers. And we want to keep in mind, that not every merchant has a sophisticated digital strategy - or even a homepage. (2 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
-- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (5 days ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) -  (5 days ago)
+- [shopware/paas](https://github.com/shopware/paas) - PaaS template based on production template (1 day ago)
+- [FriendsOfShopware/FroshProfiler](https://github.com/FriendsOfShopware/FroshProfiler) - Profiling for Shopware (2 days ago)
+- [FriendsOfShopware/apps-google-sheet-backend](https://github.com/FriendsOfShopware/apps-google-sheet-backend) - Backend for apps-google-sheet (2 days ago)
+- [shopwareDowntown/downtown](https://github.com/shopwareDowntown/downtown) - With our portal, we want to support local authorities and merchants. We want to connect merchants with closed stores to their customers. And we want to keep in mind, that not every merchant has a sophisticated digital strategy - or even a homepage. (3 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (5 days ago)
+- [FriendsOfShopware/.github](https://github.com/FriendsOfShopware/.github) -  (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.3.6](https://github.com/composer/composer/releases/tag/2.3.6), 2 days ago) - Dependency Manager for PHP
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([0.3.3](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/0.3.3), 5 days ago) - 
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([0.0.29](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/0.0.29), 6 days ago) - 
+- [composer/composer](https://github.com/composer/composer) ([2.3.6](https://github.com/composer/composer/releases/tag/2.3.6), 3 days ago) - Dependency Manager for PHP
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([0.3.3](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/0.3.3), 6 days ago) - 
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([0.0.29](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/0.0.29), 1 week ago) - 
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0](https://github.com/symfony/symfony/releases/tag/v6.1.0), 1 week ago) - The Symfony PHP framework
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.0.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.0.0), 1 week ago) - Official PHP Client for OpenSearch
 - [scssphp/scssphp](https://github.com/scssphp/scssphp) ([v1.10.3](https://github.com/scssphp/scssphp/releases/tag/v1.10.3), 2 weeks ago) - SCSS compiler written in PHP
