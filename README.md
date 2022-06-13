@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (1 day ago)
-- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (2 days ago)
-- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) - Removes ads from OP.GG client (2 days ago)
-- [shyim/darwin-nix](https://github.com/shyim/darwin-nix) - My Nix &#43; Nix-darwin &#43; Nix Home Manager Setup (2 days ago)
-- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) - WebP Support for Shopware (3 days ago)
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (3 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (4 days ago)
-- [FriendsOfShopware/apps-google-sheet-backend](https://github.com/FriendsOfShopware/apps-google-sheet-backend) - Backend for apps-google-sheet (6 days ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (2 days ago)
+- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (3 days ago)
+- [shyim/darwin-nix](https://github.com/shyim/darwin-nix) - My Nix &#43; Nix-darwin &#43; Nix Home Manager Setup (3 days ago)
+- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) - Removes ads from OP.GG client (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection (3 days ago)
+- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) - WebP Support for Shopware (4 days ago)
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (4 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (5 days ago)
+- [FriendsOfShopware/FroshBoard](https://github.com/FriendsOfShopware/FroshBoard) - Lists all issues of the Github Organization (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.2.0](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.2.0), 2 days ago) - Removes ads from OP.GG client
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 3 days ago) - The Symfony PHP framework
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.28](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.28), 3 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
-- [composer/composer](https://github.com/composer/composer) ([2.3.7](https://github.com/composer/composer/releases/tag/2.3.7), 6 days ago) - Dependency Manager for PHP
-- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) ([1.1.5](https://github.com/FriendsOfShopware/FroshWebP/releases/tag/1.1.5), 6 days ago) - WebP Support for Shopware
+- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.2.0](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.2.0), 3 days ago) - Removes ads from OP.GG client
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.1](https://github.com/symfony/symfony/releases/tag/v6.1.1), 4 days ago) - The Symfony PHP framework
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.0.28](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.0.28), 4 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [composer/composer](https://github.com/composer/composer) ([2.3.7](https://github.com/composer/composer/releases/tag/2.3.7), 1 week ago) - Dependency Manager for PHP
+- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) ([1.1.5](https://github.com/FriendsOfShopware/FroshWebP/releases/tag/1.1.5), 1 week ago) - WebP Support for Shopware
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([0.3.3](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/0.3.3), 2 weeks ago) - 
 - [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([0.0.29](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/0.0.29), 2 weeks ago) - 
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.0.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.0.0), 2 weeks ago) - Official PHP Client for OpenSearch
-- [scssphp/scssphp](https://github.com/scssphp/scssphp) ([v1.10.3](https://github.com/scssphp/scssphp/releases/tag/v1.10.3), 3 weeks ago) - SCSS compiler written in PHP
+- [scssphp/scssphp](https://github.com/scssphp/scssphp) ([v1.10.3](https://github.com/scssphp/scssphp/releases/tag/v1.10.3), 4 weeks ago) - SCSS compiler written in PHP
 
 ---
 
