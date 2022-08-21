@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [FriendsOfShopware/shopware-storefront-sdk](https://github.com/FriendsOfShopware/shopware-storefront-sdk) -  (1 day ago)
-- [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (2 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (2 days ago)
-- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (2 days ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (3 days ago)
-- [shyim/shopware-docker-images](https://github.com/shyim/shopware-docker-images) - Contains all Docker images for https://github.com/shyim/shopware-docker (3 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (1 day ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [FriendsOfShopware/shopware-storefront-sdk](https://github.com/FriendsOfShopware/shopware-storefront-sdk) -  (2 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (2 days ago)
+- [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (3 days ago)
+- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (3 days ago)
+- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.1.36](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.1.36), 2 days ago) - CLI for Shopware Account
-- [FriendsOfShopware/shopware-storefront-sdk](https://github.com/FriendsOfShopware/shopware-storefront-sdk) ([0.0.2](https://github.com/FriendsOfShopware/shopware-storefront-sdk/releases/tag/0.0.2), 2 days ago) - 
-- [composer/composer](https://github.com/composer/composer) ([2.4.0](https://github.com/composer/composer/releases/tag/2.4.0), 4 days ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([2.4.1](https://github.com/composer/composer/releases/tag/2.4.1), 1 day ago) - Dependency Manager for PHP
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.1.36](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.1.36), 3 days ago) - CLI for Shopware Account
+- [FriendsOfShopware/shopware-storefront-sdk](https://github.com/FriendsOfShopware/shopware-storefront-sdk) ([0.0.2](https://github.com/FriendsOfShopware/shopware-storefront-sdk/releases/tag/0.0.2), 3 days ago) - 
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.0.2](https://github.com/opensearch-project/opensearch-php/releases/tag/2.0.2), 1 week ago) - Official PHP Client for OpenSearch
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.2.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.2.4), 1 week ago) - 
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([1.1.1](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/1.1.1), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
