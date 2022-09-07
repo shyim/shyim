@@ -8,21 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (1 day ago)
+- [shyim/stackoverflow](https://github.com/shyim/stackoverflow) - Stackoverflow Scraper (1 day ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (4 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (4 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (5 days ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (5 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (2 days ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (5 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (5 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (6 days ago)
+- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (6 days ago)
 - [shyim/idea-phpstan-toolbox](https://github.com/shyim/idea-phpstan-toolbox) - PhpStan baseline helper for PhpStorm (1 week ago)
 - [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (1 week ago)
-- [shyim/composer-registry](https://github.com/shyim/composer-registry) - Composer v2 Registry (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [scssphp/scssphp](https://github.com/scssphp/scssphp) ([v1.11.0](https://github.com/scssphp/scssphp/releases/tag/v1.11.0), 4 days ago) - SCSS compiler written in PHP
+- [muety/wakapi](https://github.com/muety/wakapi) ([2.3.8](https://github.com/muety/wakapi/releases/tag/2.3.8), 1 day ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [scssphp/scssphp](https://github.com/scssphp/scssphp) ([v1.11.0](https://github.com/scssphp/scssphp/releases/tag/v1.11.0), 5 days ago) - SCSS compiler written in PHP
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.4](https://github.com/symfony/symfony/releases/tag/v6.1.4), 1 week ago) - The Symfony PHP framework
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.6.3](https://github.com/paratestphp/paratest/releases/tag/v6.6.3), 1 week ago) - :computer: Parallel testing for PHPUnit
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.2.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.2.5), 2 weeks ago) - 
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [shyim/danger-php](https://github.com/shyim/danger-php) ([0.2.5](https://github.com/shyim/danger-php/releases/tag/0.2.5), 2 weeks ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
 - [shyim/app-server-sdk-typescript](https://github.com/shyim/app-server-sdk-typescript) ([0.0.15](https://github.com/shyim/app-server-sdk-typescript/releases/tag/0.0.15), 2 weeks ago) - Shopware App Server SDK written in Typescript
 - [composer/composer](https://github.com/composer/composer) ([2.4.1](https://github.com/composer/composer/releases/tag/2.4.1), 2 weeks ago) - Dependency Manager for PHP
-- [FriendsOfShopware/shopware-storefront-sdk](https://github.com/FriendsOfShopware/shopware-storefront-sdk) ([0.0.2](https://github.com/FriendsOfShopware/shopware-storefront-sdk/releases/tag/0.0.2), 2 weeks ago) - 
 
 ---
 
