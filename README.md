@@ -8,24 +8,24 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (1 day ago)
-- [FriendsOfShopware/recipes](https://github.com/FriendsOfShopware/recipes) - Flex Recipes (1 day ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (1 day ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 day ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (1 day ago)
 - [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (3 days ago)
-- [shyim/http-smtp-gateway](https://github.com/shyim/http-smtp-gateway) - Simple SMTP Gateway using HTTP (4 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [shyim/darwin-nix](https://github.com/shyim/darwin-nix) - My Nix &#43; Nix-darwin &#43; Nix Home Manager Setup (1 day ago)
+- [shopware/development](https://github.com/shopware/development) -  (1 day ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (2 days ago)
+- [FriendsOfShopware/recipes](https://github.com/FriendsOfShopware/recipes) - Flex Recipes (2 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (2 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [vitejs/vite](https://github.com/vitejs/vite) ([v3.1.3](https://github.com/vitejs/vite/releases/tag/v3.1.3), 1 day ago) - Next generation frontend tooling. It&#39;s fast!
-- [shopware/production](https://github.com/shopware/production) ([v6.4.15.0](https://github.com/shopware/production/releases/tag/v6.4.15.0), 1 day ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.15.0](https://github.com/shopware/platform/releases/tag/v6.4.15.0), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [composer/composer](https://github.com/composer/composer) ([2.4.2](https://github.com/composer/composer/releases/tag/2.4.2), 6 days ago) - Dependency Manager for PHP
+- [vitejs/vite](https://github.com/vitejs/vite) ([v3.1.3](https://github.com/vitejs/vite/releases/tag/v3.1.3), 2 days ago) - Next generation frontend tooling. It&#39;s fast!
+- [shopware/production](https://github.com/shopware/production) ([v6.4.15.0](https://github.com/shopware/production/releases/tag/v6.4.15.0), 2 days ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.15.0](https://github.com/shopware/platform/releases/tag/v6.4.15.0), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [composer/composer](https://github.com/composer/composer) ([2.4.2](https://github.com/composer/composer/releases/tag/2.4.2), 1 week ago) - Dependency Manager for PHP
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.6.4](https://github.com/paratestphp/paratest/releases/tag/v6.6.4), 1 week ago) - :computer: Parallel testing for PHPUnit
 - [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.15](https://github.com/shopware/shopware/releases/tag/v5.7.15), 1 week ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.3.8](https://github.com/muety/wakapi/releases/tag/2.3.8), 2 weeks ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
