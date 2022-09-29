@@ -8,26 +8,26 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/docs](https://github.com/shopware/docs) -  (1 day ago)
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (1 day ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 day ago)
-- [shopware/paas](https://github.com/shopware/paas) - PaaS template based on production template (1 day ago)
-- [shopware/paas-meta](https://github.com/shopware/paas-meta) - Meta Package for Shopware PaaS (2 days ago)
-- [FriendsOfShopware/shopware](https://github.com/FriendsOfShopware/shopware) - A Symfony flex based template for Shopware 6 (2 days ago)
-- [shopware/fastly-meta](https://github.com/shopware/fastly-meta) - Meta Package for Fastly support in Shopware (2 days ago)
-- [shyim/idea-1password](https://github.com/shyim/idea-1password) - Integrate 1Password into Intellij based IDEs (3 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (1 day ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) -  (1 day ago)
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (2 days ago)
+- [shopware/paas](https://github.com/shopware/paas) - PaaS template based on production template (2 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (2 days ago)
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (2 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
+- [FriendsOfShopware/shopware](https://github.com/FriendsOfShopware/shopware) - A Symfony flex based template for Shopware 6 (3 days ago)
+- [shopware/fastly-meta](https://github.com/shopware/fastly-meta) - Meta Package for Fastly support in Shopware (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/fastly-meta](https://github.com/shopware/fastly-meta) ([6.4.15.0](https://github.com/shopware/fastly-meta/releases/tag/6.4.15.0), 2 days ago) - Meta Package for Fastly support in Shopware
-- [shopware/paas-meta](https://github.com/shopware/paas-meta) ([6.4.15.0](https://github.com/shopware/paas-meta/releases/tag/6.4.15.0), 2 days ago) - Meta Package for Shopware PaaS
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([0.0.33](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/0.0.33), 3 days ago) - 
+- [vitejs/vite](https://github.com/vitejs/vite) ([v3.1.4](https://github.com/vitejs/vite/releases/tag/v3.1.4), 1 day ago) - Next generation frontend tooling. It&#39;s fast!
+- [shopware/fastly-meta](https://github.com/shopware/fastly-meta) ([6.4.15.0](https://github.com/shopware/fastly-meta/releases/tag/6.4.15.0), 3 days ago) - Meta Package for Fastly support in Shopware
+- [shopware/paas-meta](https://github.com/shopware/paas-meta) ([6.4.15.0](https://github.com/shopware/paas-meta/releases/tag/6.4.15.0), 3 days ago) - Meta Package for Shopware PaaS
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([0.0.33](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/0.0.33), 4 days ago) - 
 - [shopware/production](https://github.com/shopware/production) ([v6.4.15.1](https://github.com/shopware/production/releases/tag/v6.4.15.1), 1 week ago) - Shopware 6 production template
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.15.1](https://github.com/shopware/platform/releases/tag/v6.4.15.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [vitejs/vite](https://github.com/vitejs/vite) ([v3.1.3](https://github.com/vitejs/vite/releases/tag/v3.1.3), 1 week ago) - Next generation frontend tooling. It&#39;s fast!
 - [composer/composer](https://github.com/composer/composer) ([2.4.2](https://github.com/composer/composer/releases/tag/2.4.2), 2 weeks ago) - Dependency Manager for PHP
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.6.4](https://github.com/paratestphp/paratest/releases/tag/v6.6.4), 2 weeks ago) - :computer: Parallel testing for PHPUnit
 - [shopware/shopware](https://github.com/shopware/shopware) ([v5.7.15](https://github.com/shopware/shopware/releases/tag/v5.7.15), 2 weeks ago) - Shopware 5 Repository - For Shopware 6 visit https://github.com/shopware/platform
