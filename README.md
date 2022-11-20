@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (1 day ago)
-- [shyim/composer-registry](https://github.com/shyim/composer-registry) - Composer v2 Registry (1 day ago)
-- [shopware/paas](https://github.com/shopware/paas) - PaaS template based on production template (1 day ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (2 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (3 days ago)
-- [FriendsOfShopware/api.friendsofshopware.com](https://github.com/FriendsOfShopware/api.friendsofshopware.com) -  (3 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 days ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (2 days ago)
+- [shyim/composer-registry](https://github.com/shyim/composer-registry) - Composer v2 Registry (2 days ago)
+- [shopware/paas](https://github.com/shopware/paas) - PaaS template based on production template (2 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (3 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
+- [FriendsOfShopware/api.friendsofshopware.com](https://github.com/FriendsOfShopware/api.friendsofshopware.com) -  (4 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [cachix/devenv](https://github.com/cachix/devenv) ([v0.3](https://github.com/cachix/devenv/releases/tag/v0.3), 2 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [vitejs/vite](https://github.com/vitejs/vite) ([v4.0.0-alpha.4](https://github.com/vitejs/vite/releases/tag/v4.0.0-alpha.4), 2 days ago) - Next generation frontend tooling. It&#39;s fast!
-- [coder/coder](https://github.com/coder/coder) ([v0.12.8](https://github.com/coder/coder/releases/tag/v0.12.8), 3 days ago) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
-- [shopware/production](https://github.com/shopware/production) ([v6.4.17.2](https://github.com/shopware/production/releases/tag/v6.4.17.2), 3 days ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.17.2](https://github.com/shopware/platform/releases/tag/v6.4.17.2), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [muety/wakapi](https://github.com/muety/wakapi) ([2.5.3](https://github.com/muety/wakapi/releases/tag/2.5.3), 4 days ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.6](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.6), 4 days ago) - Helpful development tools
-- [doutorfinancas/go-mad](https://github.com/doutorfinancas/go-mad) ([0.3.1](https://github.com/doutorfinancas/go-mad/releases/tag/0.3.1), 4 days ago) - Go MySQL Anonymized Dump
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) ([0.3.4](https://github.com/FriendsOfShopware/FroshPlatformAdminer/releases/tag/0.3.4), 5 days ago) - Adminer plugin for Shopware Platform
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.2.0-BETA3), 1 day ago) - The Symfony PHP framework
+- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) ([v5.4.19](https://github.com/symfony-cli/symfony-cli/releases/tag/v5.4.19), 1 day ago) - The Symfony CLI tool
+- [cachix/devenv](https://github.com/cachix/devenv) ([v0.3](https://github.com/cachix/devenv/releases/tag/v0.3), 3 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [vitejs/vite](https://github.com/vitejs/vite) ([v4.0.0-alpha.4](https://github.com/vitejs/vite/releases/tag/v4.0.0-alpha.4), 3 days ago) - Next generation frontend tooling. It&#39;s fast!
+- [coder/coder](https://github.com/coder/coder) ([v0.12.8](https://github.com/coder/coder/releases/tag/v0.12.8), 4 days ago) - Coder provisions software development environments via Terraform on Linux, macOS, Windows, X86, ARM, and of course, Kubernetes.
+- [shopware/production](https://github.com/shopware/production) ([v6.4.17.2](https://github.com/shopware/production/releases/tag/v6.4.17.2), 4 days ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.17.2](https://github.com/shopware/platform/releases/tag/v6.4.17.2), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [muety/wakapi](https://github.com/muety/wakapi) ([2.5.3](https://github.com/muety/wakapi/releases/tag/2.5.3), 5 days ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([0.3.6](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/0.3.6), 5 days ago) - Helpful development tools
 
 ---
 
