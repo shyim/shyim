@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments (1 day ago)
-- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (1 day ago)
-- [shopwareLabs/shopware-shared-project-cache-generator](https://github.com/shopwareLabs/shopware-shared-project-cache-generator) - Generates shared project cache for PhpStorm (2 days ago)
-- [shopware/conflicts](https://github.com/shopware/conflicts) - Shopware 6 conflicting packages (2 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (3 days ago)
-- [shyim/nix-darwin-modules](https://github.com/shyim/nix-darwin-modules) - Some Nix Darwin Modules which I use daily (3 days ago)
-- [Sironheart/macbook-setup-nix](https://github.com/Sironheart/macbook-setup-nix) - my personal macbook setup with nix. Highly experimental at this point! (3 days ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (3 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (2 days ago)
+- [shopwareLabs/shopware-shared-project-cache-generator](https://github.com/shopwareLabs/shopware-shared-project-cache-generator) - Generates shared project cache for PhpStorm (3 days ago)
+- [shopware/conflicts](https://github.com/shopware/conflicts) - Shopware 6 conflicting packages (3 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (4 days ago)
+- [shyim/nix-darwin-modules](https://github.com/shyim/nix-darwin-modules) - Some Nix Darwin Modules which I use daily (4 days ago)
+- [Sironheart/macbook-setup-nix](https://github.com/Sironheart/macbook-setup-nix) - my personal macbook setup with nix. Highly experimental at this point! (4 days ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0), 2 days ago) - :computer: Parallel testing for PHPUnit
-- [shopware/conflicts](https://github.com/shopware/conflicts) ([0.0.2](https://github.com/shopware/conflicts/releases/tag/0.0.2), 2 days ago) - Shopware 6 conflicting packages
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.8.0](https://github.com/paratestphp/paratest/releases/tag/v6.8.0), 3 days ago) - :computer: Parallel testing for PHPUnit
+- [shopware/conflicts](https://github.com/shopware/conflicts) ([0.0.2](https://github.com/shopware/conflicts/releases/tag/0.0.2), 3 days ago) - Shopware 6 conflicting packages
 - [FriendsOfShopware/devenv-meta](https://github.com/FriendsOfShopware/devenv-meta) ([0.1.0](https://github.com/FriendsOfShopware/devenv-meta/releases/tag/0.1.0), 1 week ago) - Adds devenv.sh files to Shopware Flex project
 - [cachix/devenv](https://github.com/cachix/devenv) ([v0.5](https://github.com/cachix/devenv/releases/tag/v0.5), 1 week ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [coder/coder](https://github.com/coder/coder) ([v0.13.6](https://github.com/coder/coder/releases/tag/v0.13.6), 1 week ago) - A tool that provisions remote development environments via Terraform
