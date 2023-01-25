@@ -8,24 +8,24 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
-- [shyim/lol-scraper](https://github.com/shyim/lol-scraper) - Downloads all match data from League Of Legends API (1 day ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (3 days ago)
-- [shyim/shopware-docker](https://github.com/shyim/shopware-docker) - Easy to use Docker Installation for Shopware 5 and Shopware 6 (4 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account (5 days ago)
-- [FriendsOfShopware/homepage](https://github.com/FriendsOfShopware/homepage) -  (5 days ago)
-- [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (5 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 day ago)
+- [shopware/development](https://github.com/shopware/development) -  (1 day ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
+- [shyim/lol-scraper](https://github.com/shyim/lol-scraper) - Downloads all match data from League Of Legends API (2 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/coder](https://github.com/coder/coder) ([v0.15.2](https://github.com/coder/coder/releases/tag/v0.15.2), 1 day ago) - A tool that provisions remote development environments via Terraform
-- [muety/wakapi](https://github.com/muety/wakapi) ([2.6.1](https://github.com/muety/wakapi/releases/tag/2.6.1), 4 days ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.1.49](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.1.49), 5 days ago) - CLI for Shopware Account
-- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) ([1.1.7](https://github.com/FriendsOfShopware/FroshWebP/releases/tag/1.1.7), 6 days ago) - WebP Support for Shopware
+- [coder/coder](https://github.com/coder/coder) ([v0.15.2](https://github.com/coder/coder/releases/tag/v0.15.2), 2 days ago) - A tool that provisions remote development environments via Terraform
+- [muety/wakapi](https://github.com/muety/wakapi) ([2.6.1](https://github.com/muety/wakapi/releases/tag/2.6.1), 5 days ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.1.49](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.1.49), 6 days ago) - CLI for Shopware Account
+- [FriendsOfShopware/FroshWebP](https://github.com/FriendsOfShopware/FroshWebP) ([1.1.7](https://github.com/FriendsOfShopware/FroshWebP/releases/tag/1.1.7), 1 week ago) - WebP Support for Shopware
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.18.1](https://github.com/shopware/platform/releases/tag/v6.4.18.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/production](https://github.com/shopware/production) ([v6.4.18.1](https://github.com/shopware/production/releases/tag/v6.4.18.1), 1 week ago) - Shopware 6 production template
 - [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v6.8.1](https://github.com/paratestphp/paratest/releases/tag/v6.8.1), 1 week ago) - :computer: Parallel testing for PHPUnit
