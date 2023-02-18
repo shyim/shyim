@@ -32,3 +32,4 @@ Curious what I've been working on recently?
 
 - Twitter: [@shyim97](https://twitter.com/shyim97)
 - Email: [github@shyim.de](mailto://github@shyim.de)
+- Mastodon: <a rel="me" href="https://phpc.social/@shyim">shyim@phpc.social</a>
