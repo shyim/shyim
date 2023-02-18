@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [shyim/composer-registry](https://github.com/shyim/composer-registry) - Composer v2 Registry (today)
 - [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
-- [shyim/composer-registry](https://github.com/shyim/composer-registry) - Composer v2 Registry (1 day ago)
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
 - [FriendsOfShopware/FroshAppWebDav](https://github.com/FriendsOfShopware/FroshAppWebDav) -  (2 days ago)
@@ -46,3 +46,4 @@ Curious what I've been working on recently?
 
 - Twitter: [@shyim97](https://twitter.com/shyim97)
 - Email: [github@shyim.de](mailto://github@shyim.de)
+- Mastodon: <a rel="me" href="https://phpc.social/@shyim">shyim@phpc.social</a>
