@@ -9,26 +9,26 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [FriendsOfShopware/shopwaretherightway.com](https://github.com/FriendsOfShopware/shopwaretherightway.com) - Shopware the right way (1 day ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 day ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (2 days ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (1 day ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
+- [FriendsOfShopware/shopwaretherightway.com](https://github.com/FriendsOfShopware/shopwaretherightway.com) - Shopware the right way (2 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (2 days ago)
 - [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (2 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (5 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [vitejs/vite](https://github.com/vitejs/vite) ([v3.2.6](https://github.com/vitejs/vite/releases/tag/v3.2.6), 1 day ago) - Next generation frontend tooling. It&#39;s fast!
-- [coder/coder](https://github.com/coder/coder) ([v0.22.2](https://github.com/coder/coder/releases/tag/v0.22.2), 2 days ago) - A tool that provisions remote development environments via Terraform
-- [shopware/production](https://github.com/shopware/production) ([v6.4.20.1](https://github.com/shopware/production/releases/tag/v6.4.20.1), 2 days ago) - Shopware 6 production template
-- [shopware/platform](https://github.com/shopware/platform) ([v6.4.20.1](https://github.com/shopware/platform/releases/tag/v6.4.20.1), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0), 3 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.2.16](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.2.16), 5 days ago) - A collection of useful tools for Shopware 6
-- [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v7.1.3](https://github.com/paratestphp/paratest/releases/tag/v7.1.3), 5 days ago) - :computer: Parallel testing for PHPUnit
+- [vitejs/vite](https://github.com/vitejs/vite) ([v4.3.0-beta.8](https://github.com/vitejs/vite/releases/tag/v4.3.0-beta.8), 1 day ago) - Next generation frontend tooling. It&#39;s fast!
+- [coder/coder](https://github.com/coder/coder) ([v0.22.2](https://github.com/coder/coder/releases/tag/v0.22.2), 3 days ago) - A tool that provisions remote development environments via Terraform
+- [shopware/production](https://github.com/shopware/production) ([v6.4.20.1](https://github.com/shopware/production/releases/tag/v6.4.20.1), 3 days ago) - Shopware 6 production template
+- [shopware/platform](https://github.com/shopware/platform) ([v6.4.20.1](https://github.com/shopware/platform/releases/tag/v6.4.20.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.2.16](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.2.16), 6 days ago) - A collection of useful tools for Shopware 6
+- [paratestphp/paratest](https://github.com/paratestphp/paratest) ([v7.1.3](https://github.com/paratestphp/paratest/releases/tag/v7.1.3), 6 days ago) - :computer: Parallel testing for PHPUnit
 - [shopware/e2e-testsuite-platform](https://github.com/shopware/e2e-testsuite-platform) ([7.0.5](https://github.com/shopware/e2e-testsuite-platform/releases/tag/7.0.5), 1 week ago) - This package contains the e2e platform test suite for Shopware 6 using Cypress
 - [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([1.0.2](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/1.0.2), 2 weeks ago) - This plugin allows you to use lazy loading for your images.
 
