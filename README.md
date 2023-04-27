@@ -8,27 +8,27 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/shopware-docker-images](https://github.com/shyim/shopware-docker-images) - Contains all Docker images for https://github.com/shyim/shopware-docker (1 day ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
 - [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (1 day ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
-- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (2 days ago)
-- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) - Removes ads from OP.GG client (4 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (5 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (5 days ago)
+- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) - Shopware APP SDK Independent of Frameworks (1 day ago)
+- [shyim/shopware-docker-images](https://github.com/shyim/shopware-docker-images) - Contains all Docker images for https://github.com/shyim/shopware-docker (2 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (3 days ago)
+- [shyim/devenv-intelij](https://github.com/shyim/devenv-intelij) - Add support for Devenv in Intelij (3 days ago)
+- [shyim/cloud-dev](https://github.com/shyim/cloud-dev) - My personal Cloud Development environment (3 days ago)
+- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) - Removes ads from OP.GG client (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) ([v5.5.3](https://github.com/symfony-cli/symfony-cli/releases/tag/v5.5.3), 1 day ago) - The Symfony CLI tool
-- [vitejs/vite](https://github.com/vitejs/vite) ([create-vite@4.3.1](https://github.com/vitejs/vite/releases/tag/create-vite%404.3.1), 1 day ago) - Next generation frontend tooling. It&#39;s fast!
-- [coder/coder](https://github.com/coder/coder) ([v0.23.0](https://github.com/coder/coder/releases/tag/v0.23.0), 1 day ago) - A tool that provisions remote development environments via Terraform
-- [shopware/AppBundle](https://github.com/shopware/AppBundle) ([v0.1.1](https://github.com/shopware/AppBundle/releases/tag/v0.1.1), 2 days ago) - 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.2.17](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.2.17), 4 days ago) - A collection of useful tools for Shopware 6
-- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.2.4](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.2.4), 4 days ago) - Removes ads from OP.GG client
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.1.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.1.62), 5 days ago) - CLI for Shopware Account and Shopware 6
+- [vitejs/vite](https://github.com/vitejs/vite) ([v4.3.3](https://github.com/vitejs/vite/releases/tag/v4.3.3), 1 day ago) - Next generation frontend tooling. It&#39;s fast!
+- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) ([v5.5.3](https://github.com/symfony-cli/symfony-cli/releases/tag/v5.5.3), 2 days ago) - The Symfony CLI tool
+- [coder/coder](https://github.com/coder/coder) ([v0.23.0](https://github.com/coder/coder/releases/tag/v0.23.0), 2 days ago) - A tool that provisions remote development environments via Terraform
+- [shopware/AppBundle](https://github.com/shopware/AppBundle) ([v0.1.1](https://github.com/shopware/AppBundle/releases/tag/v0.1.1), 3 days ago) - 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([0.2.17](https://github.com/FriendsOfShopware/FroshTools/releases/tag/0.2.17), 5 days ago) - A collection of useful tools for Shopware 6
+- [shyim/op-gg-remove-ads](https://github.com/shyim/op-gg-remove-ads) ([0.2.4](https://github.com/shyim/op-gg-remove-ads/releases/tag/0.2.4), 5 days ago) - Removes ads from OP.GG client
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.1.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.1.62), 6 days ago) - CLI for Shopware Account and Shopware 6
 - [shopware/platform](https://github.com/shopware/platform) ([v6.4.20.1](https://github.com/shopware/platform/releases/tag/v6.4.20.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.9.0](https://github.com/Roave/BetterReflection/releases/tag/6.9.0), 1 week ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 
