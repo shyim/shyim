@@ -8,13 +8,13 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (1 day ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
-- [shyim/swdc-go](https://github.com/shyim/swdc-go) - A prototype to port shopware-docker to go (3 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (4 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (4 days ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (2 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (4 days ago)
+- [shyim/swdc-go](https://github.com/shyim/swdc-go) - A prototype to port shopware-docker to go (4 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (5 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (5 days ago)
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 week ago)
 - [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (1 week ago)
 
@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muety/wakapi](https://github.com/muety/wakapi) ([2.8.0](https://github.com/muety/wakapi/releases/tag/2.8.0), 1 day ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.2](https://github.com/vitejs/vite/releases/tag/v4.4.2), 2 days ago) - Next generation frontend tooling. It&#39;s fast!
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.1](https://github.com/shopware/platform/releases/tag/v6.5.3.1), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [coder/coder](https://github.com/coder/coder) ([v0.25.0](https://github.com/coder/coder/releases/tag/v0.25.0), 4 days ago) - A tool that provisions remote development environments via Terraform
+- [muety/wakapi](https://github.com/muety/wakapi) ([2.8.1](https://github.com/muety/wakapi/releases/tag/2.8.1), 1 day ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.2](https://github.com/vitejs/vite/releases/tag/v4.4.2), 3 days ago) - Next generation frontend tooling. It&#39;s fast!
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.1](https://github.com/shopware/platform/releases/tag/v6.5.3.1), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [coder/coder](https://github.com/coder/coder) ([v0.25.0](https://github.com/coder/coder/releases/tag/v0.25.0), 5 days ago) - A tool that provisions remote development environments via Terraform
 - [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([2.1.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/2.1.0), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) ([2.0.0-beta1](https://github.com/cweagans/composer-patches/releases/tag/2.0.0-beta1), 1 week ago) - Simple patches plugin for Composer
 - [rclone/rclone](https://github.com/rclone/rclone) ([v1.63.0](https://github.com/rclone/rclone/releases/tag/v1.63.0), 1 week ago) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
