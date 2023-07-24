@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
-- [FriendsOfShopware/FroshImagePlaceholder](https://github.com/FriendsOfShopware/FroshImagePlaceholder) -  (3 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (3 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (4 days ago)
-- [shyim/danger-comment-proxy](https://github.com/shyim/danger-comment-proxy) - Workaround Github Permission to comment on Pull Requests (4 days ago)
-- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) - Shopware APP SDK Independent of Frameworks (5 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (5 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (today)
+- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (1 day ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (2 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (4 days ago)
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (4 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (4 days ago)
+- [FriendsOfShopware/FroshImagePlaceholder](https://github.com/FriendsOfShopware/FroshImagePlaceholder) -  (4 days ago)
+- [shyim/danger-comment-proxy](https://github.com/shyim/danger-comment-proxy) - Workaround Github Permission to comment on Pull Requests (5 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/coder](https://github.com/coder/coder) ([v0.27.1](https://github.com/coder/coder/releases/tag/v0.27.1), 2 days ago) - A tool that provisions remote development environments via Terraform
-- [symfony/demo](https://github.com/symfony/demo) ([v2.3.0](https://github.com/symfony/demo/releases/tag/v2.3.0), 2 days ago) - Symfony Demo Application
-- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) ([v5.5.7](https://github.com/symfony-cli/symfony-cli/releases/tag/v5.5.7), 2 days ago) - The Symfony CLI tool
-- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.6](https://github.com/vitejs/vite/releases/tag/v4.4.6), 2 days ago) - Next generation frontend tooling. It&#39;s fast!
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.2.2](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.2.2), 3 days ago) - Rector rules for Shopware 6
-- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.4), 3 days ago) - DevPod on Hetzner
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 4 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
-- [rclone/rclone](https://github.com/rclone/rclone) ([v1.63.1](https://github.com/rclone/rclone/releases/tag/v1.63.1), 5 days ago) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.3](https://github.com/shopware/platform/releases/tag/v6.5.3.3), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [coder/coder](https://github.com/coder/coder) ([v0.27.1](https://github.com/coder/coder/releases/tag/v0.27.1), 3 days ago) - A tool that provisions remote development environments via Terraform
+- [symfony/demo](https://github.com/symfony/demo) ([v2.3.0](https://github.com/symfony/demo/releases/tag/v2.3.0), 3 days ago) - Symfony Demo Application
+- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) ([v5.5.7](https://github.com/symfony-cli/symfony-cli/releases/tag/v5.5.7), 3 days ago) - The Symfony CLI tool
+- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.6](https://github.com/vitejs/vite/releases/tag/v4.4.6), 3 days ago) - Next generation frontend tooling. It&#39;s fast!
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.2.2](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.2.2), 4 days ago) - Rector rules for Shopware 6
+- [mrsimonemms/devpod-provider-hetzner](https://github.com/mrsimonemms/devpod-provider-hetzner) ([v0.1.4](https://github.com/mrsimonemms/devpod-provider-hetzner/releases/tag/v0.1.4), 4 days ago) - DevPod on Hetzner
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/4.0.0), 5 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly. Including lazy loading.
+- [rclone/rclone](https://github.com/rclone/rclone) ([v1.63.1](https://github.com/rclone/rclone/releases/tag/v1.63.1), 6 days ago) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.3.3](https://github.com/shopware/platform/releases/tag/v6.5.3.3), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 
 ---
 
