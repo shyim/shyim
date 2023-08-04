@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/api.friendsofshopware.com](https://github.com/FriendsOfShopware/api.friendsofshopware.com) - Basic data aggregation for the Friends of Shopware API (2 days ago)
-- [shopwareLabs/php-extension-nix-cache](https://github.com/shopwareLabs/php-extension-nix-cache) - Generates for PHP extensions pre-built macOS caches (2 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (3 days ago)
-- [shopware/docs](https://github.com/shopware/docs) -  (5 days ago)
+- [shopware/docs](https://github.com/shopware/docs) -  (1 day ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) - Symfony Bundle for Shopware App Backend (1 day ago)
+- [shopwareLabs/php-extension-nix-cache](https://github.com/shopwareLabs/php-extension-nix-cache) - Generates for PHP extensions pre-built macOS caches (3 days ago)
+- [FriendsOfShopware/api.friendsofshopware.com](https://github.com/FriendsOfShopware/api.friendsofshopware.com) - Basic data aggregation for the Friends of Shopware API (3 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (4 days ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (4 days ago)
 - [FriendsOfShopware/actions](https://github.com/FriendsOfShopware/actions) - Collection of reusable workflows (1 week ago)
 - [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) - Shopware App Server SDK written in Typescript (1 week ago)
-- [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) - Symfony Bundle for Shopware App Backend (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/coder](https://github.com/coder/coder) ([v0.27.3](https://github.com/coder/coder/releases/tag/v0.27.3), 2 days ago) - A tool that provisions remote development environments via Terraform
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0), 3 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 3 days ago) - The Symfony PHP framework
-- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.8](https://github.com/vitejs/vite/releases/tag/v4.4.8), 3 days ago) - Next generation frontend tooling. It&#39;s fast!
-- [screego/server](https://github.com/screego/server) ([v1.10.0](https://github.com/screego/server/releases/tag/v1.10.0), 5 days ago) - screen sharing for developers https://screego.net/
+- [coder/coder](https://github.com/coder/coder) ([v2.0.0](https://github.com/coder/coder/releases/tag/v2.0.0), 1 day ago) - A tool that provisions remote development environments via Terraform
+- [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) ([v5.5.8](https://github.com/symfony-cli/symfony-cli/releases/tag/v5.5.8), 1 day ago) - The Symfony CLI tool
+- [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) ([2.0.0](https://github.com/shopware/app-bundle-symfony/releases/tag/2.0.0), 1 day ago) - Symfony Bundle for Shopware App Backend
+- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([2.0.0](https://github.com/shopware/app-php-sdk/releases/tag/2.0.0), 1 day ago) - Shopware APP SDK Independent of Frameworks
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.11.0](https://github.com/Roave/BetterReflection/releases/tag/6.11.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 4 days ago) - The Symfony PHP framework
+- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.8](https://github.com/vitejs/vite/releases/tag/v4.4.8), 4 days ago) - Next generation frontend tooling. It&#39;s fast!
+- [screego/server](https://github.com/screego/server) ([v1.10.0](https://github.com/screego/server/releases/tag/v1.10.0), 6 days ago) - screen sharing for developers https://screego.net/
 - [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) ([0.0.44](https://github.com/FriendsOfShopware/app-server-sdk-js/releases/tag/0.0.44), 1 week ago) - Shopware App Server SDK written in Typescript
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([2.0.2](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/2.0.2), 1 week ago) - This plugin allows you to use twig mails in Shopware 6.
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) ([2.9.0](https://github.com/opensearch-project/OpenSearch/releases/tag/2.9.0), 1 week ago) - 🔎 Open source distributed and RESTful search engine.
-- [symfony/demo](https://github.com/symfony/demo) ([v2.3.0](https://github.com/symfony/demo/releases/tag/v2.3.0), 1 week ago) - Symfony Demo Application
 
 ---
 
