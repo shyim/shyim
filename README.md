@@ -8,26 +8,26 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [FriendsOfShopware/production-docker](https://github.com/FriendsOfShopware/production-docker) - Running Shopware in Docker for Production (3 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (3 days ago)
-- [shyim/example-shopware-docker-project](https://github.com/shyim/example-shopware-docker-project) - Example Shopware Docker Project using FriendsOfShopware/production-docker (3 days ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 days ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (3 days ago)
-- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (3 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 day ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (1 day ago)
+- [FriendsOfShopware/production-docker](https://github.com/FriendsOfShopware/production-docker) - Running Shopware in Docker for Production (1 day ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
+- [shyim/example-shopware-docker-project](https://github.com/shyim/example-shopware-docker-project) - Example Shopware Docker Project using FriendsOfShopware/production-docker (4 days ago)
+- [shopwareLabs/testenv-platform](https://github.com/shopwareLabs/testenv-platform) - Environment for Testing Plugins (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [coder/coder](https://github.com/coder/coder) ([v2.0.2](https://github.com/coder/coder/releases/tag/v2.0.2), 1 day ago) - A tool that provisions remote development environments via Terraform
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.2.4](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.2.4), 3 days ago) - CLI for Shopware Account and Shopware 6
-- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0), 4 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
-- [shopware/platform](https://github.com/shopware/platform) ([v6.5.4.0](https://github.com/shopware/platform/releases/tag/v6.5.4.0), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.9](https://github.com/vitejs/vite/releases/tag/v4.4.9), 4 days ago) - Next generation frontend tooling. It&#39;s fast!
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.3](https://github.com/caddyserver/caddy/releases/tag/v2.7.3), 5 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [coder/coder](https://github.com/coder/coder) ([v2.0.2](https://github.com/coder/coder/releases/tag/v2.0.2), 2 days ago) - A tool that provisions remote development environments via Terraform
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.2.4](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.2.4), 4 days ago) - CLI for Shopware Account and Shopware 6
+- [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.12.0](https://github.com/Roave/BetterReflection/releases/tag/6.12.0), 5 days ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
+- [shopware/platform](https://github.com/shopware/platform) ([v6.5.4.0](https://github.com/shopware/platform/releases/tag/v6.5.4.0), 5 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [vitejs/vite](https://github.com/vitejs/vite) ([v4.4.9](https://github.com/vitejs/vite/releases/tag/v4.4.9), 5 days ago) - Next generation frontend tooling. It&#39;s fast!
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) ([v2.7.3](https://github.com/caddyserver/caddy/releases/tag/v2.7.3), 6 days ago) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [symfony-cli/symfony-cli](https://github.com/symfony-cli/symfony-cli) ([v5.5.8](https://github.com/symfony-cli/symfony-cli/releases/tag/v5.5.8), 1 week ago) - The Symfony CLI tool
 - [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) ([2.0.0](https://github.com/shopware/app-bundle-symfony/releases/tag/2.0.0), 1 week ago) - Symfony Bundle for Shopware App Backend
 - [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([2.0.0](https://github.com/shopware/app-php-sdk/releases/tag/2.0.0), 1 week ago) - Shopware APP SDK Independent of Frameworks
