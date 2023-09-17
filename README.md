@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (2 days ago)
-- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (2 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
-- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shopware/administration](https://github.com/shopware/administration) -  (2 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
+- [FriendsOfShopware/gitpod-shopware-workspace-image](https://github.com/FriendsOfShopware/gitpod-shopware-workspace-image) - Gitpod Workspace Image for Shopware (1 day ago)
+- [shyim/idea-1password](https://github.com/shyim/idea-1password) - Integrate 1Password into Intellij based IDEs (1 day ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (2 days ago)
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (3 days ago)
+- [shopware/platform](https://github.com/shopware/platform) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (3 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
+- [shopware/administration](https://github.com/shopware/administration) -  (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.3.0-rc.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.3.0-rc.1), 2 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [rclone/rclone](https://github.com/rclone/rclone) ([v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0), 5 days ago) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2023.3.0-rc.1](https://github.com/roadrunner-server/roadrunner/releases/tag/v2023.3.0-rc.1), 3 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [rclone/rclone](https://github.com/rclone/rclone) ([v1.64.0](https://github.com/rclone/rclone/releases/tag/v1.64.0), 6 days ago) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [Roave/BetterReflection](https://github.com/Roave/BetterReflection) ([6.14.0](https://github.com/Roave/BetterReflection/releases/tag/6.14.0), 1 week ago) - :crystal_ball: Better Reflection is a reflection API that aims to improve and provide more features than PHP&#39;s built-in reflection API.
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([2.0.4](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/2.0.4), 1 week ago) - This plugin allows you to archive your mails.
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.12.0](https://github.com/laminas/laminas-code/releases/tag/4.12.0), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
