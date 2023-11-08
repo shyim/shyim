@@ -8,21 +8,21 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
-- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (1 day ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (4 days ago)
-- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (6 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (6 days ago)
-- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) - Shopware APP SDK Independent of Frameworks (1 week ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (1 week ago)
+- [shopware/community-slack-redirect](https://github.com/shopware/community-slack-redirect) - Community Slack Invite Page (1 day ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (2 days ago)
+- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (2 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (5 days ago)
+- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (1 week ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.3.9](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.3.9), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.3.9](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.3.9), 2 days ago) - CLI for Shopware Account and Shopware 6
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.6.1](https://github.com/shopware/shopware/releases/tag/v6.5.6.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [symfony/flex](https://github.com/symfony/flex) ([v2.4.1](https://github.com/symfony/flex/releases/tag/v2.4.1), 1 week ago) - Composer plugin for Symfony
 - [shopware/dev-tools](https://github.com/shopware/dev-tools) ([1.2.0](https://github.com/shopware/dev-tools/releases/tag/1.2.0), 1 week ago) - 
