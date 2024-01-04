@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/phpstan-docker](https://github.com/shyim/phpstan-docker) -  (1 day ago)
-- [shopwareLabs/opentelemetry](https://github.com/shopwareLabs/opentelemetry) -  (1 day ago)
-- [shyim/bun-docker](https://github.com/shyim/bun-docker) - Smallest Bun Docker image using Ubuntu Chisel (1 day ago)
-- [FriendsOfShopware/FroshImagePlaceholder](https://github.com/FriendsOfShopware/FroshImagePlaceholder) -  (2 days ago)
-- [shyim/vps](https://github.com/shyim/vps) - My private VPS with Docker (2 days ago)
-- [FriendsOfShopware/api.friendsofshopware.com](https://github.com/FriendsOfShopware/api.friendsofshopware.com) - Basic data aggregation for the Friends of Shopware API (2 days ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (5 days ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (5 days ago)
-- [shyim/shopware-app-example-cloudflare](https://github.com/shyim/shopware-app-example-cloudflare) - Shopware App Server Example using Cloudflare (5 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) - Shopware App Server SDK written in Typescript (1 day ago)
+- [symfony/flex](https://github.com/symfony/flex) - Composer plugin for Symfony (2 days ago)
+- [shyim/phpstan-docker](https://github.com/shyim/phpstan-docker) -  (2 days ago)
+- [shopwareLabs/opentelemetry](https://github.com/shopwareLabs/opentelemetry) -  (2 days ago)
+- [shyim/bun-docker](https://github.com/shyim/bun-docker) - Smallest Bun Docker image using Ubuntu Chisel (2 days ago)
+- [shyim/vps](https://github.com/shyim/vps) - My private VPS with Docker (3 days ago)
+- [FriendsOfShopware/api.friendsofshopware.com](https://github.com/FriendsOfShopware/api.friendsofshopware.com) - Basic data aggregation for the Friends of Shopware API (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopwareLabs/opentelemetry](https://github.com/shopwareLabs/opentelemetry) ([0.1.3](https://github.com/shopwareLabs/opentelemetry/releases/tag/0.1.3), 1 day ago) - 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 4 days ago) - The Symfony PHP framework
+- [shopwareLabs/opentelemetry](https://github.com/shopwareLabs/opentelemetry) ([0.1.3](https://github.com/shopwareLabs/opentelemetry/releases/tag/0.1.3), 2 days ago) - 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.0.2](https://github.com/symfony/symfony/releases/tag/v7.0.2), 5 days ago) - The Symfony PHP framework
 - [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) ([2.0.3](https://github.com/shopware/app-bundle-symfony/releases/tag/2.0.3), 1 week ago) - Symfony Bundle for Shopware App Backend
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.0.2](https://github.com/dunglas/frankenphp/releases/tag/v1.0.2), 1 week ago) - The modern PHP app server 🧟
 - [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.0](https://github.com/shyim/danger-php/releases/tag/0.3.0), 1 week ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
