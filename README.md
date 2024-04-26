@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [shopware/opentelemetry](https://github.com/shopware/opentelemetry) -  (1 day ago)
 - [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (2 days ago)
-- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) - Shopware App Server SDK written in Typescript (2 days ago)
+- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (1 day ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (3 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
-- [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images (4 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
+- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) - Shopware App Server SDK written in Typescript (3 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (3 days ago)
+- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (4 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@3.6.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%403.6.0), 1 day ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.40](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.40), 2 days ago) - CLI for Shopware Account and Shopware 6
-- [FriendsOfShopware/FroshRobotsTxt](https://github.com/FriendsOfShopware/FroshRobotsTxt) ([0.2.0](https://github.com/FriendsOfShopware/FroshRobotsTxt/releases/tag/0.2.0), 3 days ago) - This plugin allows you to manage your robots.txt file.
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.2](https://github.com/shopware/deployment-helper/releases/tag/0.0.2), 6 days ago) - 
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.3.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.3.0), 6 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.1.4](https://github.com/dunglas/frankenphp/releases/tag/v1.1.4), 1 day ago) - 🧟 The modern PHP app server
+- [shopware/opentelemetry](https://github.com/shopware/opentelemetry) ([0.1.4](https://github.com/shopware/opentelemetry/releases/tag/0.1.4), 1 day ago) - 
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.0.2](https://github.com/doctrine/dbal/releases/tag/4.0.2), 1 day ago) - Doctrine Database Abstraction Layer
+- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@3.6.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%403.6.0), 2 days ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.40](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.40), 3 days ago) - CLI for Shopware Account and Shopware 6
+- [FriendsOfShopware/FroshRobotsTxt](https://github.com/FriendsOfShopware/FroshRobotsTxt) ([0.2.0](https://github.com/FriendsOfShopware/FroshRobotsTxt/releases/tag/0.2.0), 4 days ago) - This plugin allows you to manage your robots.txt file.
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.2](https://github.com/shopware/deployment-helper/releases/tag/0.0.2), 1 week ago) - 
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.3.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.3.0), 1 week ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.1.1](https://github.com/shopware/shopware/releases/tag/v6.6.1.1), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([3.0.1](https://github.com/shopware/SwagExtensionStore/releases/tag/3.0.1), 1 week ago) - The integrated Shopware Store for Shopware 6
-- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.0.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.0.0), 1 week ago) - This plugin allows you to use lazy loading for your images.
-- [shopware/conflicts](https://github.com/shopware/conflicts) ([0.1.7](https://github.com/shopware/conflicts/releases/tag/0.1.7), 1 week ago) - Shopware 6 conflicting packages
 
 ---
 
