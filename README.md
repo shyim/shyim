@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (2 days ago)
-- [FriendsOfShopware/devcontainer](https://github.com/FriendsOfShopware/devcontainer) - Devcontainer Image for Shopware (2 days ago)
-- [shyim/adminerevo-docker](https://github.com/shyim/adminerevo-docker) - Adminerevo Docker Image (2 days ago)
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (4 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (4 days ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) - Shopware App Server SDK written in Typescript (1 day ago)
+- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (1 day ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
+- [shopware/opentelemetry](https://github.com/shopware/opentelemetry) -  (1 day ago)
+- [FriendsOfShopware/devcontainer](https://github.com/FriendsOfShopware/devcontainer) - Devcontainer Image for Shopware (1 day ago)
+- [shyim/shopware-docker-images](https://github.com/shyim/shopware-docker-images) - Contains all Docker images for https://github.com/shyim/shopware-docker (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.48](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.48), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [symfony/demo](https://github.com/symfony/demo) ([v2.6.0](https://github.com/symfony/demo/releases/tag/v2.6.0), 3 days ago) - Symfony Demo Application
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2024.1.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2024.1.4), 4 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.0.7](https://github.com/cachix/devenv/releases/tag/v1.0.7), 4 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-icon-kit@5.4.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-icon-kit%405.4.0), 4 days ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
-- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([3.0.4](https://github.com/shopware/SwagExtensionStore/releases/tag/3.0.4), 5 days ago) - The integrated Shopware Store for Shopware 6
-- [shopware/conflicts](https://github.com/shopware/conflicts) ([0.2.0](https://github.com/shopware/conflicts/releases/tag/0.2.0), 5 days ago) - Shopware 6 conflicting packages
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3), 5 days ago) - Doctrine Database Abstraction Layer
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.11](https://github.com/shopware/shopware/releases/tag/v6.5.8.11), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([2.1.2](https://github.com/shopware/SwagExtensionStore/releases/tag/2.1.2), 1 day ago) - The integrated Shopware Store for Shopware 6
+- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@3.9.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%403.9.0), 1 day ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
+- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) ([0.0.53](https://github.com/FriendsOfShopware/app-server-sdk-js/releases/tag/0.0.53), 1 day ago) - Shopware App Server SDK written in Typescript
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.48](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.48), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [symfony/demo](https://github.com/symfony/demo) ([v2.6.0](https://github.com/symfony/demo/releases/tag/v2.6.0), 4 days ago) - Symfony Demo Application
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2024.1.4](https://github.com/roadrunner-server/roadrunner/releases/tag/v2024.1.4), 5 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.0.7](https://github.com/cachix/devenv/releases/tag/v1.0.7), 5 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [shopware/conflicts](https://github.com/shopware/conflicts) ([0.2.0](https://github.com/shopware/conflicts/releases/tag/0.2.0), 6 days ago) - Shopware 6 conflicting packages
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.0.3](https://github.com/doctrine/dbal/releases/tag/4.0.3), 6 days ago) - Doctrine Database Abstraction Layer
 
 ---
 
