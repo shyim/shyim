@@ -8,24 +8,24 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (3 days ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (3 days ago)
-- [shyim/ShopwareSanctionsApp](https://github.com/shyim/ShopwareSanctionsApp) -  (4 days ago)
-- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (4 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
-- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) - Shopware App Server SDK written in Typescript (5 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (4 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (4 days ago)
+- [shyim/ShopwareSanctionsApp](https://github.com/shyim/ShopwareSanctionsApp) -  (5 days ago)
+- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (5 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (6 days ago)
+- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) - Shopware App Server SDK written in Typescript (6 days ago)
 - [shyim/composer-registry](https://github.com/shyim/composer-registry) - Composer v2 Registry (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 1 day ago) - The Symfony PHP framework
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.1](https://github.com/dunglas/frankenphp/releases/tag/v1.2.1), 4 days ago) - 🧟 The modern PHP app server
-- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) ([0.0.56](https://github.com/FriendsOfShopware/app-server-sdk-js/releases/tag/0.0.56), 5 days ago) - Shopware App Server SDK written in Typescript
-- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.1](https://github.com/shyim/danger-php/releases/tag/0.3.1), 5 days ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.2](https://github.com/symfony/symfony/releases/tag/v7.1.2), 2 days ago) - The Symfony PHP framework
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.1](https://github.com/dunglas/frankenphp/releases/tag/v1.2.1), 5 days ago) - 🧟 The modern PHP app server
+- [FriendsOfShopware/app-server-sdk-js](https://github.com/FriendsOfShopware/app-server-sdk-js) ([0.0.56](https://github.com/FriendsOfShopware/app-server-sdk-js/releases/tag/0.0.56), 6 days ago) - Shopware App Server SDK written in Typescript
+- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.1](https://github.com/shyim/danger-php/releases/tag/0.3.1), 6 days ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2024.1.5](https://github.com/roadrunner-server/roadrunner/releases/tag/v2024.1.5), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.0.4](https://github.com/doctrine/dbal/releases/tag/4.0.4), 1 week ago) - Doctrine Database Abstraction Layer
 - [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.4.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.4.0), 1 week ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
