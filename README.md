@@ -8,24 +8,24 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shyim/devcontainers-features](https://github.com/shyim/devcontainers-features) - Provides some devcontainers features for PHP (2 days ago)
-- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (2 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 days ago)
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (2 days ago)
-- [shyim/composer-rs](https://github.com/shyim/composer-rs) -  (2 days ago)
-- [FriendsOfShopware/devcontainer](https://github.com/FriendsOfShopware/devcontainer) - Devcontainer Image for Shopware (3 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 week ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
+- [shyim/devcontainers-features](https://github.com/shyim/devcontainers-features) - Provides some devcontainers features for PHP (3 days ago)
+- [shyim/composer-rs](https://github.com/shyim/composer-rs) -  (3 days ago)
+- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (3 days ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (3 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.0.8](https://github.com/cachix/devenv/releases/tag/v1.0.8), 1 day ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.4), 2 days ago) - A collection of useful tools for Shopware 6
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.6.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.6.0), 5 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
-- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@3.10.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%403.10.0), 1 week ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
+- [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@3.11.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%403.11.0), 1 day ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.0.8](https://github.com/cachix/devenv/releases/tag/v1.0.8), 2 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.4), 3 days ago) - A collection of useful tools for Shopware 6
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.6.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.6.0), 6 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.50](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.50), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [kiegroup/git-backporting](https://github.com/kiegroup/git-backporting) ([v4.8.1](https://github.com/kiegroup/git-backporting/releases/tag/v4.8.1), 1 week ago) - Git backporting is a CLI tool to execute pull request backporting.
 - [shyim/testcontainer](https://github.com/shyim/testcontainer) ([0.1.4](https://github.com/shyim/testcontainer/releases/tag/0.1.4), 1 week ago) - https://www.testcontainers.org implementation for PHP
