@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (1 day ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
-- [FriendsOfShopware/devcontainer](https://github.com/FriendsOfShopware/devcontainer) - Devcontainer Image for Shopware (1 day ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (5 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (6 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [FriendsOfShopware/shopware-cli-action](https://github.com/FriendsOfShopware/shopware-cli-action) - GitHub Action to Install Shopware CLI (2 days ago)
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (2 days ago)
+- [FriendsOfShopware/devcontainer](https://github.com/FriendsOfShopware/devcontainer) - Devcontainer Image for Shopware (2 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (6 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 5 days ago) - The Symfony PHP framework
-- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2024.2.0](https://github.com/roadrunner-server/roadrunner/releases/tag/v2024.2.0), 6 days ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.3](https://github.com/symfony/symfony/releases/tag/v7.1.3), 6 days ago) - The Symfony PHP framework
+- [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) ([v2024.2.0](https://github.com/roadrunner-server/roadrunner/releases/tag/v2024.2.0), 1 week ago) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-component-library@3.11.0](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-component-library%403.11.0), 1 week ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.0.8](https://github.com/cachix/devenv/releases/tag/v1.0.8), 1 week ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.4), 1 week ago) - A collection of useful tools for Shopware 6
