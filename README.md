@@ -8,24 +8,24 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (1 day ago)
-- [shyim/adminerevo-docker](https://github.com/shyim/adminerevo-docker) - Adminerevo Docker Image (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) - Shopware App SDK written in Typescript. (2 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (2 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shyim/adminerevo-docker](https://github.com/shyim/adminerevo-docker) - Adminerevo Docker Image (2 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (2 days ago)
+- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (2 days ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (3 days ago)
+- [shopware/elasticsearch](https://github.com/shopware/elasticsearch) - Elasticsearch implementation for Shopware 6 (3 days ago)
+- [shyim/wolfi-docker-buildpack](https://github.com/shyim/wolfi-docker-buildpack) - Dockerfile generator using Wolfi based docker images (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/opentelemetry](https://github.com/shopware/opentelemetry) ([0.1.5](https://github.com/shopware/opentelemetry/releases/tag/0.1.5), 3 days ago) - 
-- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.1.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.1.0), 6 days ago) - This plugin allows you to use lazy loading for your images.
-- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([5.2.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/5.2.0), 6 days ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
-- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) ([2.0.1](https://github.com/FriendsOfShopware/FroshProductCompare/releases/tag/2.0.1), 6 days ago) - This plugin allows your customers to compare products.
+- [shopware/opentelemetry](https://github.com/shopware/opentelemetry) ([0.1.5](https://github.com/shopware/opentelemetry/releases/tag/0.1.5), 4 days ago) - 
+- [FriendsOfShopware/FroshLazySizes](https://github.com/FriendsOfShopware/FroshLazySizes) ([3.1.0](https://github.com/FriendsOfShopware/FroshLazySizes/releases/tag/3.1.0), 1 week ago) - This plugin allows you to use lazy loading for your images.
+- [FriendsOfShopware/FroshPlatformThumbnailProcessor](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor) ([5.2.0](https://github.com/FriendsOfShopware/FroshPlatformThumbnailProcessor/releases/tag/5.2.0), 1 week ago) - This shopware6 plugin allows you to use variable thumbnails - on the fly.
+- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) ([2.0.1](https://github.com/FriendsOfShopware/FroshProductCompare/releases/tag/2.0.1), 1 week ago) - This plugin allows your customers to compare products.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.3.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.3.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.2.4](https://github.com/dunglas/frankenphp/releases/tag/v1.2.4), 1 week ago) - 🧟 The modern PHP app server
 - [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.13](https://github.com/shopware/shopware/releases/tag/v6.5.8.13), 2 weeks ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
