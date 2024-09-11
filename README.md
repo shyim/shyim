@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/varnish-shopware](https://github.com/shopware/varnish-shopware) - Ready to go Varnish image for Shopware 6 (1 day ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
+- [shyim/adminerevo-docker](https://github.com/shyim/adminerevo-docker) - Adminerevo Docker Image (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (3 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
-- [shopware/release-notes](https://github.com/shopware/release-notes) -  (4 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (4 days ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (4 days ago)
-- [shopware/storefront](https://github.com/shopware/storefront) -  (5 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (5 days ago)
+- [shopware/varnish-shopware](https://github.com/shopware/varnish-shopware) - Ready to go Varnish image for Shopware 6 (1 day ago)
+- [shopware/storefront](https://github.com/shopware/storefront) -  (2 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
+- [rize/UriTemplate](https://github.com/rize/UriTemplate) - PHP URI Template (RFC 6570) supports both URI expansion &amp; extraction (2 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
+- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([3.1.1](https://github.com/shopware/app-php-sdk/releases/tag/3.1.1), 4 days ago) - Shopware APP SDK Independent of Frameworks
-- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.3](https://github.com/shopware/app-sdk-js/releases/tag/1.1.3), 4 days ago) - Shopware App SDK written in Typescript.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.14](https://github.com/shopware/shopware/releases/tag/v6.5.8.14), 6 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.1](https://github.com/cachix/devenv/releases/tag/v1.1), 1 day ago) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [cocur/slugify](https://github.com/cocur/slugify) ([v4.6.0](https://github.com/cocur/slugify/releases/tag/v4.6.0), 1 day ago) - Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.
+- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([3.1.1](https://github.com/shopware/app-php-sdk/releases/tag/3.1.1), 5 days ago) - Shopware APP SDK Independent of Frameworks
+- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.3](https://github.com/shopware/app-sdk-js/releases/tag/1.1.3), 5 days ago) - Shopware App SDK written in Typescript.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.5.8.14](https://github.com/shopware/shopware/releases/tag/v6.5.8.14), 1 week ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
 - [shopware/meteor](https://github.com/shopware/meteor) ([@shopware-ag/meteor-admin-sdk@5.4.6](https://github.com/shopware/meteor/releases/tag/%40shopware-ag/meteor-admin-sdk%405.4.6), 1 week ago) - Meteor is Shopware’s open-source design system that drives our commerce solutions. Extend and customise every aspect of Shopware – create elegant, delightful, and accessible experiences. There are no limits to your imagination.
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.53](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.53), 1 week ago) - CLI for Shopware Account and Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.1.4](https://github.com/symfony/symfony/releases/tag/v7.1.4), 1 week ago) - The Symfony PHP framework
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.6](https://github.com/shopware/deployment-helper/releases/tag/0.0.6), 1 week ago) - 
-- [rize/UriTemplate](https://github.com/rize/UriTemplate) ([0.3.8](https://github.com/rize/UriTemplate/releases/tag/0.3.8), 1 week ago) - PHP URI Template (RFC 6570) supports both URI expansion &amp; extraction
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.3.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.3.1), 1 week ago) - Official PHP Client for OpenSearch
 
 ---
 
