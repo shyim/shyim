@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (1 day ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
 - [shyim/tanjun](https://github.com/shyim/tanjun) - Simple Dockerized Deployment (1 day ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 day ago)
-- [FriendsOfShopware/FroshImagePlaceholder](https://github.com/FriendsOfShopware/FroshImagePlaceholder) -  (1 day ago)
+- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 day ago)
+- [shyim/shopware-app-example-cloudflare](https://github.com/shyim/shopware-app-example-cloudflare) - Shopware App Server Example using Cloudflare (1 day ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (2 days ago)
-- [shopware/release-notes](https://github.com/shopware/release-notes) -  (2 days ago)
-- [shyim/homebrew-tap](https://github.com/shyim/homebrew-tap) - Homebrew Tap for Tanjun (3 days ago)
-- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (5 days ago)
+- [FriendsOfShopware/FroshImagePlaceholder](https://github.com/FriendsOfShopware/FroshImagePlaceholder) -  (2 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (2 days ago)
+- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (2 days ago)
+- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/shopware-operator](https://github.com/shopware/shopware-operator) ([0.0.22](https://github.com/shopware/shopware-operator/releases/tag/0.0.22), 2 days ago) - Operator manages Shopware installations in a Kubernetes cluster.
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0), 2 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.0), 2 days ago) - 
-- [shyim/tanjun](https://github.com/shyim/tanjun) ([0.0.4](https://github.com/shyim/tanjun/releases/tag/0.0.4), 3 days ago) - Simple Dockerized Deployment
-- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.9](https://github.com/shopware/app-sdk-js/releases/tag/1.1.9), 5 days ago) - Shopware App SDK written in Typescript.
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.10.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.10.0), 5 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
-- [kiegroup/git-backporting](https://github.com/kiegroup/git-backporting) ([v4.8.3](https://github.com/kiegroup/git-backporting/releases/tag/v4.8.3), 6 days ago) - Git backporting is a CLI tool to execute pull request backporting.
+- [shopware/opentelemetry](https://github.com/shopware/opentelemetry) ([0.2.0-alpha](https://github.com/shopware/opentelemetry/releases/tag/0.2.0-alpha), 1 day ago) - 
+- [shopware/shopware-operator](https://github.com/shopware/shopware-operator) ([0.0.23](https://github.com/shopware/shopware-operator/releases/tag/0.0.23), 1 day ago) - Operator manages Shopware installations in a Kubernetes cluster.
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.7.0](https://github.com/shopware/shopware/releases/tag/v6.6.7.0), 3 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.0), 3 days ago) - 
+- [shyim/tanjun](https://github.com/shyim/tanjun) ([0.0.4](https://github.com/shyim/tanjun/releases/tag/0.0.4), 4 days ago) - Simple Dockerized Deployment
+- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.9](https://github.com/shopware/app-sdk-js/releases/tag/1.1.9), 6 days ago) - Shopware App SDK written in Typescript.
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.10.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.10.0), 6 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
+- [kiegroup/git-backporting](https://github.com/kiegroup/git-backporting) ([v4.8.3](https://github.com/kiegroup/git-backporting/releases/tag/v4.8.3), 1 week ago) - Git backporting is a CLI tool to execute pull request backporting.
 - [canonical/chisel](https://github.com/canonical/chisel) ([v1.0.0](https://github.com/canonical/chisel/releases/tag/v1.0.0), 1 week ago) - 
-- [FriendsOfShopware/FroshRobotsTxt](https://github.com/FriendsOfShopware/FroshRobotsTxt) ([0.2.1](https://github.com/FriendsOfShopware/FroshRobotsTxt/releases/tag/0.2.1), 1 week ago) - This plugin allows you to manage your robots.txt file.
 
 ---
 
