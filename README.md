@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/k6-shopware](https://github.com/shopware/k6-shopware) - E2E Performance Testing with Grafana K6 (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (2 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
-- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (2 days ago)
-- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (3 days ago)
-- [shopwareLabs/jira-issue-bot](https://github.com/shopwareLabs/jira-issue-bot) -  (3 days ago)
-- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (3 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
+- [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
+- [shopware/k6-shopware](https://github.com/shopware/k6-shopware) - E2E Performance Testing with Grafana K6 (3 days ago)
+- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (3 days ago)
+- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (4 days ago)
+- [shopwareLabs/jira-issue-bot](https://github.com/shopwareLabs/jira-issue-bot) -  (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.16.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.16.0), 1 day ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.29.7699-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.29.7699-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.14](https://github.com/shopware/deployment-helper/releases/tag/0.0.14), 3 days ago) - Simplify Shopware Deployments
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.60](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.60), 4 days ago) - CLI for Shopware Account and Shopware 6
-- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.10](https://github.com/shopware/app-sdk-js/releases/tag/1.1.10), 5 days ago) - Shopware App SDK written in Typescript.
-- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([3.1.3](https://github.com/shopware/app-php-sdk/releases/tag/3.1.3), 5 days ago) - Shopware APP SDK Independent of Frameworks
-- [shopware/conflicts](https://github.com/shopware/conflicts) ([0.3.0](https://github.com/shopware/conflicts/releases/tag/0.3.0), 5 days ago) - Shopware 6 conflicting packages
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.2](https://github.com/dunglas/frankenphp/releases/tag/v1.3.2), 1 day ago) - 🧟 The modern PHP app server
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.29.7767-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.29.7767-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.16.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.16.0), 2 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.14](https://github.com/shopware/deployment-helper/releases/tag/0.0.14), 4 days ago) - Simplify Shopware Deployments
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.60](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.60), 5 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.10](https://github.com/shopware/app-sdk-js/releases/tag/1.1.10), 6 days ago) - Shopware App SDK written in Typescript.
+- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([3.1.3](https://github.com/shopware/app-php-sdk/releases/tag/3.1.3), 6 days ago) - Shopware APP SDK Independent of Frameworks
+- [shopware/conflicts](https://github.com/shopware/conflicts) ([0.3.0](https://github.com/shopware/conflicts/releases/tag/0.3.0), 6 days ago) - Shopware 6 conflicting packages
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.3), 1 week ago) - A collection of useful tools for Shopware 6
-- [shopware/paas-meta](https://github.com/shopware/paas-meta) ([6.6.4](https://github.com/shopware/paas-meta/releases/tag/6.6.4), 1 week ago) - Meta Package for Shopware PaaS
 
 ---
 
