@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 day ago)
-- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) - Shopware App SDK written in Typescript. (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
-- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (1 day ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shopware/paas-meta](https://github.com/shopware/paas-meta) - Meta Package for Shopware PaaS (2 days ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
-- [shopware/core](https://github.com/shopware/core) -  (3 days ago)
-- [shopwareLabs/devcontainer](https://github.com/shopwareLabs/devcontainer) - Devcontainer Image for Shopware (4 days ago)
+- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (2 days ago)
+- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) - Shopware App SDK written in Typescript. (2 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (2 days ago)
+- [shopware/github-actions](https://github.com/shopware/github-actions) - Reuseable GitHub Actions Workflows (2 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
+- [shopware/paas-meta](https://github.com/shopware/paas-meta) - Meta Package for Shopware PaaS (3 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (3 days ago)
+- [shopware/core](https://github.com/shopware/core) -  (4 days ago)
+- [shopwareLabs/devcontainer](https://github.com/shopwareLabs/devcontainer) - Devcontainer Image for Shopware (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 1 day ago) - 🧟 The modern PHP app server
-- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.14](https://github.com/shopware/app-sdk-js/releases/tag/1.1.14), 1 day ago) - Shopware App SDK written in Typescript.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 1 day ago) - The Symfony PHP framework
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.17.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.17.0), 1 day ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.29.7830-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.29.7830-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shopware/paas-meta](https://github.com/shopware/paas-meta) ([6.4.16.5](https://github.com/shopware/paas-meta/releases/tag/6.4.16.5), 2 days ago) - Meta Package for Shopware PaaS
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.4), 2 days ago) - A collection of useful tools for Shopware 6
-- [rize/UriTemplate](https://github.com/rize/UriTemplate) ([0.4.0](https://github.com/rize/UriTemplate/releases/tag/0.4.0), 3 days ago) - PHP URI Template (RFC 6570) supports both URI expansion &amp; extraction
-- [shopwareLabs/copilot-extension](https://github.com/shopwareLabs/copilot-extension) ([0.0.1](https://github.com/shopwareLabs/copilot-extension/releases/tag/0.0.1), 5 days ago) - GitHub Copilot Extension
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.29.7840-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.29.7840-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.3](https://github.com/dunglas/frankenphp/releases/tag/v1.3.3), 2 days ago) - 🧟 The modern PHP app server
+- [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) ([1.1.14](https://github.com/shopware/app-sdk-js/releases/tag/1.1.14), 2 days ago) - Shopware App SDK written in Typescript.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.0](https://github.com/symfony/symfony/releases/tag/v7.2.0), 2 days ago) - The Symfony PHP framework
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.17.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.17.0), 2 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
+- [shopware/paas-meta](https://github.com/shopware/paas-meta) ([6.4.16.5](https://github.com/shopware/paas-meta/releases/tag/6.4.16.5), 3 days ago) - Meta Package for Shopware PaaS
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.4.4), 3 days ago) - A collection of useful tools for Shopware 6
+- [rize/UriTemplate](https://github.com/rize/UriTemplate) ([0.4.0](https://github.com/rize/UriTemplate/releases/tag/0.4.0), 4 days ago) - PHP URI Template (RFC 6570) supports both URI expansion &amp; extraction
+- [shopwareLabs/copilot-extension](https://github.com/shopwareLabs/copilot-extension) ([0.0.1](https://github.com/shopwareLabs/copilot-extension/releases/tag/0.0.1), 6 days ago) - GitHub Copilot Extension
 
 ---
 
