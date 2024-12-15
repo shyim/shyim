@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) - Simplify Shopware Deployments (1 day ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
-- [shyim/homebrew-tap](https://github.com/shyim/homebrew-tap) - Homebrew Tap for Tanjun (1 day ago)
-- [shopwareLabs/shopware-nightly](https://github.com/shopwareLabs/shopware-nightly) - Shopware deployed nightly to an Server for performance testing (1 day ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (2 days ago)
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (2 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (2 days ago)
+- [shyim/homebrew-tap](https://github.com/shyim/homebrew-tap) - Homebrew Tap for Tanjun (2 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (2 days ago)
+- [shopwareLabs/shopware-nightly](https://github.com/shopwareLabs/shopware-nightly) - Shopware deployed nightly to an Server for performance testing (2 days ago)
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) - Simplify Shopware Deployments (2 days ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (2 days ago)
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (3 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/tanjun](https://github.com/shyim/tanjun) ([0.0.9](https://github.com/shyim/tanjun/releases/tag/0.0.9), 1 day ago) - Dockerized Deployment
-- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.62), 1 day ago) - CLI for Shopware Account and Shopware 6
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.18](https://github.com/shopware/deployment-helper/releases/tag/0.0.18), 1 day ago) - Simplify Shopware Deployments
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.19.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.19.0), 1 day ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.29.8156-231-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.29.8156-231-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shopware/paas-meta](https://github.com/shopware/paas-meta) ([6.5.0](https://github.com/shopware/paas-meta/releases/tag/6.5.0), 2 days ago) - Meta Package for Shopware PaaS
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 3 days ago) - The Symfony PHP framework
-- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([3.1.0](https://github.com/shopware/SwagExtensionStore/releases/tag/3.1.0), 3 days ago) - The integrated Shopware Store for Shopware 6
-- [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) ([1.1.10](https://github.com/Mic92/ssh-to-age/releases/tag/1.1.10), 4 days ago) - Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.29.8180-242-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.29.8180-242-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/tanjun](https://github.com/shyim/tanjun) ([0.0.9](https://github.com/shyim/tanjun/releases/tag/0.0.9), 2 days ago) - Dockerized Deployment
+- [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) ([0.4.62](https://github.com/FriendsOfShopware/shopware-cli/releases/tag/0.4.62), 2 days ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.18](https://github.com/shopware/deployment-helper/releases/tag/0.0.18), 2 days ago) - Simplify Shopware Deployments
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.19.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.19.0), 2 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
+- [shopware/paas-meta](https://github.com/shopware/paas-meta) ([6.5.0](https://github.com/shopware/paas-meta/releases/tag/6.5.0), 3 days ago) - Meta Package for Shopware PaaS
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.1](https://github.com/symfony/symfony/releases/tag/v7.2.1), 4 days ago) - The Symfony PHP framework
+- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([3.1.0](https://github.com/shopware/SwagExtensionStore/releases/tag/3.1.0), 4 days ago) - The integrated Shopware Store for Shopware 6
+- [Mic92/ssh-to-age](https://github.com/Mic92/ssh-to-age) ([1.1.10](https://github.com/Mic92/ssh-to-age/releases/tag/1.1.10), 5 days ago) - Convert SSH Ed25519 keys to age keys. This is useful for usage in sops-nix and sops
 
 ---
 
