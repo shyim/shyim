@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (5 days ago)
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (6 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (6 days ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (6 days ago)
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 week ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 week ago)
 - [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 week ago)
 - [shopwareLabs/shopware-nightly](https://github.com/shopwareLabs/shopware-nightly) - Shopware deployed nightly to an Server for performance testing (1 week ago)
 - [shyim/adminerevo-docker](https://github.com/shyim/adminerevo-docker) - Adminerevo Docker Image (1 week ago)
 - [shopware/app-sdk-js](https://github.com/shopware/app-sdk-js) - Shopware App SDK written in Typescript. (1 week ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 week ago)
 - [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) -  (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.30.8390-242-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.30.8390-242-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.21.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.21.0), 3 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.1](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.1), 6 days ago) - 
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.30.8391-242-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.30.8391-242-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.21.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.21.0), 4 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.2.1](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.2.1), 1 week ago) - 
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.3.6](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6), 1 week ago) - 🧟 The modern PHP app server
 - [shopwareLabs/shopware6-phpstorm-plugin](https://github.com/shopwareLabs/shopware6-phpstorm-plugin) ([v0.0.46](https://github.com/shopwareLabs/shopware6-phpstorm-plugin/releases/tag/v0.0.46), 1 week ago) - 
 - [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.0.19](https://github.com/shopware/deployment-helper/releases/tag/0.0.19), 1 week ago) - Simplify Shopware Deployments
-- [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) ([4.1.0](https://github.com/shopware/app-bundle-symfony/releases/tag/4.1.0), 1 week ago) - Symfony Bundle for Shopware App Backend
-- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([4.0.1](https://github.com/shopware/app-php-sdk/releases/tag/4.0.1), 1 week ago) - Shopware APP SDK Independent of Frameworks
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.5), 1 week ago) - A collection of useful tools for Shopware 6
+- [shopware/app-bundle-symfony](https://github.com/shopware/app-bundle-symfony) ([4.1.0](https://github.com/shopware/app-bundle-symfony/releases/tag/4.1.0), 2 weeks ago) - Symfony Bundle for Shopware App Backend
+- [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([4.0.1](https://github.com/shopware/app-php-sdk/releases/tag/4.0.1), 2 weeks ago) - Shopware APP SDK Independent of Frameworks
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.3.5](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.3.5), 2 weeks ago) - A collection of useful tools for Shopware 6
 
 ---
 
