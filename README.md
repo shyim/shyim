@@ -8,25 +8,25 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shopware/homebrew-tap](https://github.com/shopware/homebrew-tap) - This repository contains released private homebrew taps (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
-- [shopware/core](https://github.com/shopware/core) -  (1 day ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 1.500 community extensions (1 day ago)
 - [FriendsOfShopware/shopware-cli](https://github.com/FriendsOfShopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 day ago)
-- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (2 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (1 week ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (1 day ago)
+- [shopware/core](https://github.com/shopware/core) -  (2 days ago)
+- [shopware/homebrew-tap](https://github.com/shopware/homebrew-tap) - This repository contains released private homebrew taps (2 days ago)
+- [shopware/recipes](https://github.com/shopware/recipes) - Flex Recipes (3 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.30.8514-231-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.30.8514-231-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.8](https://github.com/shyim/danger-php/releases/tag/0.3.8), 2 days ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.0](https://github.com/dunglas/frankenphp/releases/tag/v1.4.0), 5 days ago) - 🧟 The modern PHP app server
-- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.23.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.23.0), 5 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 6 days ago) - A collection of useful tools for Shopware 6
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.30.8532-231-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.30.8532-231-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.8](https://github.com/shyim/danger-php/releases/tag/0.3.8), 3 days ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.0](https://github.com/dunglas/frankenphp/releases/tag/v1.4.0), 6 days ago) - 🧟 The modern PHP app server
+- [shopware/SwagLanguagePack](https://github.com/shopware/SwagLanguagePack) ([4.23.0](https://github.com/shopware/SwagLanguagePack/releases/tag/4.23.0), 6 days ago) - The Shopware language pack combines all translations offered by Shopware, as well as associated country flags for a language selection in our storefront.
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([1.4.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/1.4.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [shopware/setup-shopware](https://github.com/shopware/setup-shopware) ([v2](https://github.com/shopware/setup-shopware/releases/tag/v2), 1 week ago) - Setup Shopware in GitHub Actions
 - [shopware/app-php-sdk](https://github.com/shopware/app-php-sdk) ([4.0.2](https://github.com/shopware/app-php-sdk/releases/tag/4.0.2), 1 week ago) - Shopware APP SDK Independent of Frameworks
 - [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) ([3.0.1](https://github.com/FriendsOfShopware/FroshProductCompare/releases/tag/3.0.1), 1 week ago) - This plugin allows your customers to compare products.
