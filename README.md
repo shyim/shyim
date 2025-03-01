@@ -9,21 +9,21 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (3 days ago)
-- [shyim/tanjun-website](https://github.com/shyim/tanjun-website) -  (3 days ago)
-- [shyim/go-version](https://github.com/shyim/go-version) -  (4 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
+- [shyim/tanjun-website](https://github.com/shyim/tanjun-website) -  (4 days ago)
+- [shyim/go-version](https://github.com/shyim/go-version) -  (5 days ago)
 - [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) - Helpful development tools (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) - Rector rules for Shopware 6 (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.36.9068-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.36.9068-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 2 days ago) - The Symfony PHP framework
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.37.9131-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.37.9131-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.2.4](https://github.com/symfony/symfony/releases/tag/v7.2.4), 3 days ago) - The Symfony PHP framework
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([2.0.0](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/2.0.0), 1 week ago) - Helpful development tools
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.4.2](https://github.com/opensearch-project/opensearch-php/releases/tag/2.4.2), 1 week ago) - Official PHP Client for OpenSearch
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) ([v1.4.4](https://github.com/dunglas/frankenphp/releases/tag/v1.4.4), 1 week ago) - 🧟 The modern PHP app server
