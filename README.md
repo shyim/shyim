@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
 - [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (2 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (4 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (5 days ago)
-- [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (5 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (6 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (3 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 days ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (5 days ago)
+- [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (6 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
 - [shyim/go-htmlprinter](https://github.com/shyim/go-htmlprinter) -  (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.39.9547-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.39.9547-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.9](https://github.com/shyim/danger-php/releases/tag/0.3.9), 1 day ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.6.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.6.1), 2 days ago) - A collection of useful tools for Shopware 6
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.39.9564-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.39.9564-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.10](https://github.com/shyim/danger-php/releases/tag/0.3.10), 1 day ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([2.6.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/2.6.1), 3 days ago) - A collection of useful tools for Shopware 6
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.4.3](https://github.com/opensearch-project/opensearch-php/releases/tag/2.4.3), 1 week ago) - Official PHP Client for OpenSearch
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.1](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.1), 2 weeks ago) - https://www.testcontainers.org implementation for PHP
 - [FriendsOfShopware/code-quality-meta](https://github.com/FriendsOfShopware/code-quality-meta) ([0.5.0](https://github.com/FriendsOfShopware/code-quality-meta/releases/tag/0.5.0), 2 weeks ago) - Meta repository for Shopware 6 code quality tools
