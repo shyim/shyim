@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/RefundOrderButton](https://github.com/shyim/RefundOrderButton) - A Shopware 6 plugin that adds a refund button to the account order history page (1 day ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (3 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (5 days ago)
-- [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal. (6 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (6 days ago)
-- [shyim/idea-1password](https://github.com/shyim/idea-1password) - Integrate 1Password into Intellij based IDEs (1 week ago)
+- [shyim/RefundOrderButton](https://github.com/shyim/RefundOrderButton) - A Shopware 6 plugin that adds a refund button to the account order history page (2 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (6 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
+- [1Password/shell-plugins](https://github.com/1Password/shell-plugins) - Seamless authentication for every tool in your terminal. (1 week ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 week ago)
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (1 week ago)
+- [shyim/idea-1password](https://github.com/shyim/idea-1password) - Integrate 1Password into Intellij based IDEs (1 week ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.42.10017-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.42.10017-243-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.6](https://github.com/cachix/devenv/releases/tag/v1.6), 3 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.43.10051-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.43.10051-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.6](https://github.com/cachix/devenv/releases/tag/v1.6), 4 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [shyim/idea-1password](https://github.com/shyim/idea-1password) ([0.0.10](https://github.com/shyim/idea-1password/releases/tag/0.0.10), 1 week ago) - Integrate 1Password into Intellij based IDEs
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([3.0.6](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/3.0.6), 1 week ago) - This plugin allows you to use twig mails in Shopware 6.
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([3.0.0](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/3.0.0), 1 week ago) - Helpful development tools
 - [FriendsOfShopware/FroshPlatformFilterSearch](https://github.com/FriendsOfShopware/FroshPlatformFilterSearch) ([3.0.1](https://github.com/FriendsOfShopware/FroshPlatformFilterSearch/releases/tag/3.0.1), 1 week ago) - This plugin allows you to filter search results.
 - [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) ([2.2.0](https://github.com/FriendsOfShopware/FroshPlatformAdminer/releases/tag/2.2.0), 1 week ago) - Adminer plugin for Shopware Platform
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.5.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.5.0), 1 week ago) - This plugin allows you to archive your mails.
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.5](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.5), 1 week ago) - Rector rules for Shopware 6
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.5](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.5), 2 weeks ago) - Rector rules for Shopware 6
 
 ---
 
