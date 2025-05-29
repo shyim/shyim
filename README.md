@@ -8,28 +8,28 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
+- [shyim/setup-opkssh](https://github.com/shyim/setup-opkssh) - A GitHub Action to setup opkssh (1 day ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (1 day ago)
-- [shyim/opkssh-test](https://github.com/shyim/opkssh-test) -  (1 day ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (2 days ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (3 days ago)
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (5 days ago)
+- [shyim/opkssh-test](https://github.com/shyim/opkssh-test) -  (2 days ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (3 days ago)
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (4 days ago)
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (5 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), 3 days ago) - The Symfony PHP framework
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.45.10484-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.45.10484-243-nightly), 4 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [symfony/flex](https://github.com/symfony/flex) ([v2.7.0](https://github.com/symfony/flex/releases/tag/v2.7.0), 5 days ago) - Composer plugin for Symfony
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.49.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.49.0), 6 days ago) - Spell check action
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.45.10538-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.45.10538-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [symfony/flex](https://github.com/symfony/flex) ([v2.7.1](https://github.com/symfony/flex/releases/tag/v2.7.1), 1 day ago) - Composer plugin for Symfony
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v7.3.0-RC1), 4 days ago) - The Symfony PHP framework
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.49.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.49.0), 1 week ago) - Spell check action
 - [shyim/go-version](https://github.com/shyim/go-version) ([0.2.2](https://github.com/shyim/go-version/releases/tag/0.2.2), 1 week ago) - 
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 1 week ago) - https://www.testcontainers.org implementation for PHP
-- [elastic/elastic-transport-php](https://github.com/elastic/elastic-transport-php) ([v9.0.1](https://github.com/elastic/elastic-transport-php/releases/tag/v9.0.1), 2 weeks ago) - 
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.6.1](https://github.com/cachix/devenv/releases/tag/v1.6.1), 2 weeks ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 2 weeks ago) - https://www.testcontainers.org implementation for PHP
+- [elastic/elastic-transport-php](https://github.com/elastic/elastic-transport-php) ([v9.0.1](https://github.com/elastic/elastic-transport-php/releases/tag/v9.0.1), 3 weeks ago) - 
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.6.1](https://github.com/cachix/devenv/releases/tag/v1.6.1), 3 weeks ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) ([v1.0.1](https://github.com/shyim/1password-load-secrets-action/releases/tag/v1.0.1), 3 weeks ago) - 
 
 ---
