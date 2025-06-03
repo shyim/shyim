@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (3 days ago)
-- [shyim/setup-opkssh](https://github.com/shyim/setup-opkssh) - A GitHub Action to setup opkssh (3 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (4 days ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (5 days ago)
-- [shyim/opkssh-test](https://github.com/shyim/opkssh-test) -  (6 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (1 day ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (4 days ago)
+- [Aicuaboom-AI9/setup-opkssh](https://github.com/Aicuaboom-AI9/setup-opkssh) - A GitHub Action to setup opkssh (4 days ago)
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (5 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.45.10593-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.45.10593-243-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 4 days ago) - The Symfony PHP framework
-- [symfony/flex](https://github.com/symfony/flex) ([v2.7.1](https://github.com/symfony/flex/releases/tag/v2.7.1), 5 days ago) - Composer plugin for Symfony
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.7.0](https://github.com/openpubkey/opkssh/releases/tag/v0.7.0), 5 days ago) - opkssh (OpenPubkey SSH)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.0), 1 day ago) - A collection of useful tools for Shopware 6
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.45.10593-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.45.10593-243-nightly), 3 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 5 days ago) - The Symfony PHP framework
+- [symfony/flex](https://github.com/symfony/flex) ([v2.7.1](https://github.com/symfony/flex/releases/tag/v2.7.1), 6 days ago) - Composer plugin for Symfony
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.7.0](https://github.com/openpubkey/opkssh/releases/tag/v0.7.0), 6 days ago) - opkssh (OpenPubkey SSH)
 - [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.49.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.49.0), 1 week ago) - Spell check action
-- [shyim/go-version](https://github.com/shyim/go-version) ([0.2.2](https://github.com/shyim/go-version/releases/tag/0.2.2), 1 week ago) - 
+- [shyim/go-version](https://github.com/shyim/go-version) ([0.2.2](https://github.com/shyim/go-version/releases/tag/0.2.2), 2 weeks ago) - 
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 2 weeks ago) - https://www.testcontainers.org implementation for PHP
 - [elastic/elastic-transport-php](https://github.com/elastic/elastic-transport-php) ([v9.0.1](https://github.com/elastic/elastic-transport-php/releases/tag/v9.0.1), 3 weeks ago) - 
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.6.1](https://github.com/cachix/devenv/releases/tag/v1.6.1), 3 weeks ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 
 ---
 
