@@ -11,26 +11,26 @@ Curious what I've been working on recently?
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (5 days ago)
-- [Aicuaboom-AI9/setup-opkssh](https://github.com/Aicuaboom-AI9/setup-opkssh) - A GitHub Action to setup opkssh (5 days ago)
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (6 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (6 days ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (6 days ago)
+- [Aicuaboom-AI9/setup-opkssh](https://github.com/Aicuaboom-AI9/setup-opkssh) - A GitHub Action to setup opkssh (6 days ago)
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 week ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.1), 1 day ago) - A collection of useful tools for Shopware 6
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.45.10593-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.45.10593-243-nightly), 4 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 6 days ago) - The Symfony PHP framework
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.2), 1 day ago) - A collection of useful tools for Shopware 6
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.45.10593-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.45.10593-243-nightly), 5 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 1 week ago) - The Symfony PHP framework
 - [symfony/flex](https://github.com/symfony/flex) ([v2.7.1](https://github.com/symfony/flex/releases/tag/v2.7.1), 1 week ago) - Composer plugin for Symfony
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.7.0](https://github.com/openpubkey/opkssh/releases/tag/v0.7.0), 1 week ago) - opkssh (OpenPubkey SSH)
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.49.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.49.0), 1 week ago) - Spell check action
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.49.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.49.0), 2 weeks ago) - Spell check action
 - [shyim/go-version](https://github.com/shyim/go-version) ([0.2.2](https://github.com/shyim/go-version/releases/tag/0.2.2), 2 weeks ago) - 
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 2 weeks ago) - https://www.testcontainers.org implementation for PHP
-- [elastic/elastic-transport-php](https://github.com/elastic/elastic-transport-php) ([v9.0.1](https://github.com/elastic/elastic-transport-php/releases/tag/v9.0.1), 3 weeks ago) - 
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 3 weeks ago) - https://www.testcontainers.org implementation for PHP
+- [elastic/elastic-transport-php](https://github.com/elastic/elastic-transport-php) ([v9.0.1](https://github.com/elastic/elastic-transport-php/releases/tag/v9.0.1), 4 weeks ago) - 
 
 ---
 
