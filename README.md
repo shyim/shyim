@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shyim/go-version](https://github.com/shyim/go-version) -  (1 day ago)
 - [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (1 day ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 day ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (2 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (2 days ago)
-- [FriendsOfShopware/FroshShopmon](https://github.com/FriendsOfShopware/FroshShopmon) -  (4 days ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (4 days ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (5 days ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (6 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (3 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (3 days ago)
+- [FriendsOfShopware/FroshShopmon](https://github.com/FriendsOfShopware/FroshShopmon) -  (5 days ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.46.10810-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.46.10810-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.46.10834-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.46.10834-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/go-version](https://github.com/shyim/go-version) ([0.2.3](https://github.com/shyim/go-version/releases/tag/0.2.3), 1 day ago) - 
+- [muety/wakapi](https://github.com/muety/wakapi) ([2.14.0](https://github.com/muety/wakapi/releases/tag/2.14.0), 1 day ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.1.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.1.2), 1 week ago) - A collection of useful tools for Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.0](https://github.com/symfony/symfony/releases/tag/v7.3.0), 2 weeks ago) - The Symfony PHP framework
 - [symfony/flex](https://github.com/symfony/flex) ([v2.7.1](https://github.com/symfony/flex/releases/tag/v2.7.1), 2 weeks ago) - Composer plugin for Symfony
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.7.0](https://github.com/openpubkey/opkssh/releases/tag/v0.7.0), 2 weeks ago) - opkssh (OpenPubkey SSH)
 - [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.49.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.49.0), 3 weeks ago) - Spell check action
-- [shyim/go-version](https://github.com/shyim/go-version) ([0.2.2](https://github.com/shyim/go-version/releases/tag/0.2.2), 3 weeks ago) - 
 - [shopwareArchive/extension-verifier](https://github.com/shopwareArchive/extension-verifier) ([0.1.11](https://github.com/shopwareArchive/extension-verifier/releases/tag/0.1.11), 3 weeks ago) - 
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.3](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.3), 4 weeks ago) - https://www.testcontainers.org implementation for PHP
 
 ---
 
