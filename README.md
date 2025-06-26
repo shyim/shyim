@@ -8,24 +8,24 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (1 day ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (2 days ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
-- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (4 days ago)
-- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) - OpenTelemetry better-sqlite3 automatic instrumentation package (4 days ago)
-- [shyim/prometheus-docker-collector](https://github.com/shyim/prometheus-docker-collector) - Prometheus Docker Collector (6 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [FriendsOfShopware/go-shopware-admin-api-sdk](https://github.com/FriendsOfShopware/go-shopware-admin-api-sdk) - Go SDK for the Shopware 6 Admin API (1 day ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (2 days ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (3 days ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
+- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) - OpenTelemetry better-sqlite3 automatic instrumentation package (5 days ago)
+- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (5 days ago)
+- [shyim/prometheus-docker-collector](https://github.com/shyim/prometheus-docker-collector) - Prometheus Docker Collector (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.47.11073-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.47.11073-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.1](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.1), 2 days ago) - Shopware Shop Monitoring
-- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.10.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.10.0), 3 days ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.51.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.51.0), 5 days ago) - Spell check action
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.47.11101-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.47.11101-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.2.1](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.2.1), 3 days ago) - Shopware Shop Monitoring
+- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.10.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.10.0), 4 days ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.51.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.51.0), 6 days ago) - Spell check action
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.5.1](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.5.1), 1 week ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/FroshShopmon](https://github.com/FriendsOfShopware/FroshShopmon) ([0.1.1](https://github.com/FriendsOfShopware/FroshShopmon/releases/tag/0.1.1), 1 week ago) - 
 - [shyim/go-version](https://github.com/shyim/go-version) ([0.2.3](https://github.com/shyim/go-version/releases/tag/0.2.3), 1 week ago) - 
