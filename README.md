@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (1 day ago)
 - [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 day ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 days ago)
-- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (3 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [shyim/jetbrains-flake](https://github.com/shyim/jetbrains-flake) -  (4 days ago)
 - [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (1 week ago)
 - [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (1 week ago)
 - [shyim/composer-registry](https://github.com/shyim/composer-registry) - Composer v2 Registry (1 week ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (2 weeks ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.8.1](https://github.com/cachix/devenv/releases/tag/v1.8.1), 1 day ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.51.11755-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.51.11755-241-nightly), 5 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.52.11789-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.52.11789-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.8.1](https://github.com/cachix/devenv/releases/tag/v1.8.1), 2 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.1](https://github.com/doctrine/dbal/releases/tag/4.3.1), 1 week ago) - Doctrine Database Abstraction Layer
 - [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.11.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.11.0), 1 week ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.14.1](https://github.com/muety/wakapi/releases/tag/2.14.1), 1 week ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
