@@ -9,22 +9,22 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
-- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (6 days ago)
+- [shyim/devcontainers-features](https://github.com/shyim/devcontainers-features) - Provides some devcontainers features for PHP (1 day ago)
+- [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (1 day ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (5 days ago)
+- [shyim/tanjun](https://github.com/shyim/tanjun) - Dockerized Deployment (1 week ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 week ago)
 - [FriendsOfShopware/FroshShopmon](https://github.com/FriendsOfShopware/FroshShopmon) -  (1 week ago)
 - [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (1 week ago)
 - [shyim/examples-hello-world](https://github.com/shyim/examples-hello-world) -  (1 week ago)
-- [shyim/nixcfg](https://github.com/shyim/nixcfg) - My Nix config for my Macbook and Server (2 weeks ago)
-- [shyim/go-version](https://github.com/shyim/go-version) -  (2 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.56.12704-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.56.12704-241-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.10.0](https://github.com/openpubkey/opkssh/releases/tag/v0.10.0), 3 days ago) - opkssh (OpenPubkey SSH)
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.52.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.52.0), 4 days ago) - Spell check action
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.56.12740-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.56.12740-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.10.0](https://github.com/openpubkey/opkssh/releases/tag/v0.10.0), 4 days ago) - opkssh (OpenPubkey SSH)
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.52.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.52.0), 5 days ago) - Spell check action
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.3](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.3), 1 week ago) - Shopware Shop Monitoring
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.15.0](https://github.com/muety/wakapi/releases/tag/2.15.0), 1 week ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.3](https://github.com/doctrine/dbal/releases/tag/4.3.3), 1 week ago) - Doctrine Database Abstraction Layer
