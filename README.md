@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (3 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (5 days ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (6 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (6 days ago)
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (1 week ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 week ago)
 - [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (2 weeks ago)
 - [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (3 weeks ago)
 - [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 weeks ago)
-- [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (4 weeks ago)
 - [shyim/devcontainers-features](https://github.com/shyim/devcontainers-features) - Provides some devcontainers features for PHP (4 weeks ago)
+- [FriendsOfShopware/FroshTypesense](https://github.com/FriendsOfShopware/FroshTypesense) - Typesense (4 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.57.13414-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.57.13414-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 3 days ago) - Doctrine Database Abstraction Layer
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([3.0.7](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/3.0.7), 5 days ago) - This plugin allows you to use twig mails in Shopware 6.
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.10](https://github.com/cachix/devenv/releases/tag/v1.10), 5 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.57.13429-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.57.13429-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [muety/wakapi](https://github.com/muety/wakapi) ([2.16.0](https://github.com/muety/wakapi/releases/tag/2.16.0), 1 day ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 4 days ago) - Doctrine Database Abstraction Layer
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([3.0.7](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/3.0.7), 6 days ago) - This plugin allows you to use twig mails in Shopware 6.
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.10](https://github.com/cachix/devenv/releases/tag/v1.10), 6 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.12.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.12.0), 1 week ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.5.5](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.5.5), 1 week ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.2), 1 week ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.4), 1 week ago) - Shopware Shop Monitoring
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.4](https://github.com/symfony/symfony/releases/tag/v7.3.4), 2 weeks ago) - The Symfony PHP framework
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.4), 2 weeks ago) - Shopware Shop Monitoring
 
 ---
 
