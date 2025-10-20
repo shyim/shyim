@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (today)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools. (1 week ago)
 - [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (1 week ago)
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (2 weeks ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 weeks ago)
 - [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (3 weeks ago)
 - [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (1 month ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.58.13611-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.58.13611-241-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.58.13611-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.58.13611-241-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.16.0](https://github.com/muety/wakapi/releases/tag/2.16.0), 1 week ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 1 week ago) - Doctrine Database Abstraction Layer
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([3.0.7](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/3.0.7), 1 week ago) - This plugin allows you to use twig mails in Shopware 6.
@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 - [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.12.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.12.0), 2 weeks ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
 - [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.5.5](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.5.5), 2 weeks ago) - This plugin allows you to archive your mails.
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.2), 2 weeks ago) - A collection of useful tools for Shopware 6
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.4), 2 weeks ago) - Shopware Shop Monitoring
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.4](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.4), 3 weeks ago) - Shopware Shop Monitoring
 
 ---
 
