@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools. (2 weeks ago)
 - [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (2 weeks ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (2 weeks ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.58.13695-241-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.58.13695-241-nightly), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.58.13729-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.58.13729-243-nightly), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.16.0](https://github.com/muety/wakapi/releases/tag/2.16.0), 1 week ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 2 weeks ago) - Doctrine Database Abstraction Layer
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([3.0.7](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/3.0.7), 2 weeks ago) - This plugin allows you to use twig mails in Shopware 6.
