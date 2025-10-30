@@ -8,11 +8,11 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (5 days ago)
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools. (3 weeks ago)
 - [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (3 weeks ago)
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) - This plugin allows you to use twig mails in Shopware 6. (3 weeks ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (4 weeks ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 month ago)
 - [FriendsOfShopware/homebrew-tap](https://github.com/FriendsOfShopware/homebrew-tap) - Homebrew tap for shopware-cli (1 month ago)
 - [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (1 month ago)
 - [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (1 month ago)
@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 1 day ago) - The Symfony PHP framework
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.53.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.53.0), 4 days ago) - Spell check action
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.58.13729-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.58.13729-243-nightly), 5 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 2 days ago) - The Symfony PHP framework
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.53.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.53.0), 5 days ago) - Spell check action
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.5.58.13729-243-nightly](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.5.58.13729-243-nightly), 6 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.16.0](https://github.com/muety/wakapi/releases/tag/2.16.0), 2 weeks ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 2 weeks ago) - Doctrine Database Abstraction Layer
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.3.4](https://github.com/doctrine/dbal/releases/tag/4.3.4), 3 weeks ago) - Doctrine Database Abstraction Layer
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([3.0.7](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/3.0.7), 3 weeks ago) - This plugin allows you to use twig mails in Shopware 6.
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.10](https://github.com/cachix/devenv/releases/tag/v1.10), 3 weeks ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.12.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.12.0), 3 weeks ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
