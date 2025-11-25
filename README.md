@@ -9,21 +9,21 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (2 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (3 days ago)
-- [shyim/stackoverflow](https://github.com/shyim/stackoverflow) - Stackoverflow Scraper (4 days ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (4 days ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (5 days ago)
-- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) - CLI for Shopmon as a Companion (1 week ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (1 day ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
+- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (3 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (4 days ago)
+- [shyim/stackoverflow](https://github.com/shyim/stackoverflow) - Stackoverflow Scraper (5 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (5 days ago)
+- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 3 days ago) - The Symfony PHP framework
-- [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 5 days ago) - Dependency Manager for PHP
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 4 days ago) - The Symfony PHP framework
+- [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 6 days ago) - Dependency Manager for PHP
 - [symfony/flex](https://github.com/symfony/flex) ([v2.10.0](https://github.com/symfony/flex/releases/tag/v2.10.0), 1 week ago) - Composer plugin for Symfony
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.5.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.5.0), 1 week ago) - Official PHP Client for OpenSearch
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 1 week ago) - Shopware Shop Monitoring
