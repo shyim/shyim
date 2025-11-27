@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
-- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (4 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (5 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (6 days ago)
-- [shyim/stackoverflow](https://github.com/shyim/stackoverflow) - Stackoverflow Scraper (6 days ago)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 week ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 day ago)
+- [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (1 day ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (3 days ago)
+- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (5 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (6 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (6 days ago)
+- [shyim/stackoverflow](https://github.com/shyim/stackoverflow) - Stackoverflow Scraper (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.11.1](https://github.com/cachix/devenv/releases/tag/v1.11.1), today) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 5 days ago) - The Symfony PHP framework
+- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.36.0](https://github.com/shivammathur/setup-php/releases/tag/2.36.0), 1 day ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.11.1](https://github.com/cachix/devenv/releases/tag/v1.11.1), 1 day ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC3](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC3), 6 days ago) - The Symfony PHP framework
 - [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 1 week ago) - Dependency Manager for PHP
 - [symfony/flex](https://github.com/symfony/flex) ([v2.10.0](https://github.com/symfony/flex/releases/tag/v2.10.0), 1 week ago) - Composer plugin for Symfony
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.5.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.5.0), 1 week ago) - Official PHP Client for OpenSearch
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 1 week ago) - Shopware Shop Monitoring
-- [FriendsOfShopware/FroshShopmon](https://github.com/FriendsOfShopware/FroshShopmon) ([0.1.3](https://github.com/FriendsOfShopware/FroshShopmon/releases/tag/0.1.3), 2 weeks ago) - 
+- [FriendsOfShopware/FroshShopmon](https://github.com/FriendsOfShopware/FroshShopmon) ([0.1.3](https://github.com/FriendsOfShopware/FroshShopmon/releases/tag/0.1.3), 3 weeks ago) - 
 - [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.54.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.54.0), 3 weeks ago) - Spell check action
-- [FriendsOfShopware/FroshPlatformFilterSearch](https://github.com/FriendsOfShopware/FroshPlatformFilterSearch) ([3.1.0](https://github.com/FriendsOfShopware/FroshPlatformFilterSearch/releases/tag/3.1.0), 3 weeks ago) - This plugin allows you to filter search results.
 
 ---
 
