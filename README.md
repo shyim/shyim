@@ -8,11 +8,11 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (3 days ago)
-- [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (3 days ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (5 days ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (3 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (4 days ago)
+- [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (4 days ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (6 days ago)
 - [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (1 week ago)
 - [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
 - [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 week ago)
@@ -22,15 +22,15 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.55.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.55.0), 2 days ago) - Spell check action
-- [cachix/devenv](https://github.com/cachix/devenv) ([v1.11.2](https://github.com/cachix/devenv/releases/tag/v1.11.2), 2 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 2 days ago) - The Symfony PHP framework
-- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.36.0](https://github.com/shivammathur/setup-php/releases/tag/2.36.0), 3 days ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.0](https://github.com/doctrine/dbal/releases/tag/4.4.0), 1 day ago) - Doctrine Database Abstraction Layer
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.55.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.55.0), 3 days ago) - Spell check action
+- [cachix/devenv](https://github.com/cachix/devenv) ([v1.11.2](https://github.com/cachix/devenv/releases/tag/v1.11.2), 3 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.4.0](https://github.com/symfony/symfony/releases/tag/v7.4.0), 3 days ago) - The Symfony PHP framework
+- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.36.0](https://github.com/shivammathur/setup-php/releases/tag/2.36.0), 4 days ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 1 week ago) - Dependency Manager for PHP
-- [symfony/flex](https://github.com/symfony/flex) ([v2.10.0](https://github.com/symfony/flex/releases/tag/v2.10.0), 1 week ago) - Composer plugin for Symfony
+- [symfony/flex](https://github.com/symfony/flex) ([v2.10.0](https://github.com/symfony/flex/releases/tag/v2.10.0), 2 weeks ago) - Composer plugin for Symfony
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.5.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.5.0), 2 weeks ago) - Official PHP Client for OpenSearch
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.3.6](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.3.6), 2 weeks ago) - Shopware Shop Monitoring
-- [FriendsOfShopware/FroshShopmon](https://github.com/FriendsOfShopware/FroshShopmon) ([0.1.3](https://github.com/FriendsOfShopware/FroshShopmon/releases/tag/0.1.3), 3 weeks ago) - 
 
 ---
 
