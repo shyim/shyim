@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (2 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (3 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (5 days ago)
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (1 week ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 weeks ago)
 - [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (2 weeks ago)
@@ -22,15 +22,15 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 4 days ago) - Rector rules for Shopware 6
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 5 days ago) - The Symfony PHP framework
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 5 days ago) - Rector rules for Shopware 6
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 6 days ago) - The Symfony PHP framework
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.1](https://github.com/doctrine/dbal/releases/tag/4.4.1), 1 week ago) - Doctrine Database Abstraction Layer
 - [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.55.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.55.0), 2 weeks ago) - Spell check action
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.11.2](https://github.com/cachix/devenv/releases/tag/v1.11.2), 2 weeks ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.36.0](https://github.com/shivammathur/setup-php/releases/tag/2.36.0), 2 weeks ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
 - [composer/composer](https://github.com/composer/composer) ([2.9.2](https://github.com/composer/composer/releases/tag/2.9.2), 3 weeks ago) - Dependency Manager for PHP
-- [symfony/flex](https://github.com/symfony/flex) ([v2.10.0](https://github.com/symfony/flex/releases/tag/v2.10.0), 3 weeks ago) - Composer plugin for Symfony
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.5.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.5.0), 4 weeks ago) - Official PHP Client for OpenSearch
+- [symfony/flex](https://github.com/symfony/flex) ([v2.10.0](https://github.com/symfony/flex/releases/tag/v2.10.0), 4 weeks ago) - Composer plugin for Symfony
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.5.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.5.0), 1 month ago) - Official PHP Client for OpenSearch
 
 ---
 
