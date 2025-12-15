@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (5 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (3 days ago)
+- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (4 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (5 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (6 days ago)
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (1 week ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 weeks ago)
 - [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (2 weeks ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (2 weeks ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 weeks ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (3 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 5 days ago) - Rector rules for Shopware 6
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 6 days ago) - The Symfony PHP framework
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 6 days ago) - Rector rules for Shopware 6
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.1](https://github.com/doctrine/dbal/releases/tag/4.4.1), 1 week ago) - Doctrine Database Abstraction Layer
 - [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.55.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.55.0), 2 weeks ago) - Spell check action
 - [cachix/devenv](https://github.com/cachix/devenv) ([v1.11.2](https://github.com/cachix/devenv/releases/tag/v1.11.2), 2 weeks ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
