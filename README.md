@@ -9,21 +9,21 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
-- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (2 days ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (3 days ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 day ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (1 day ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 day ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (1 day ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 days ago)
+- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (3 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (4 days ago)
 - [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 week ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (1 week ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (1 week ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (2 weeks ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (3 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.3), 2 days ago) - A collection of useful tools for Shopware 6
-- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.13.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.13.0), 3 days ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.3](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.3), 3 days ago) - A collection of useful tools for Shopware 6
+- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.13.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.13.0), 4 days ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
 - [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 1 week ago) - Rector rules for Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 1 week ago) - The Symfony PHP framework
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.1](https://github.com/doctrine/dbal/releases/tag/4.4.1), 2 weeks ago) - Doctrine Database Abstraction Layer
