@@ -9,22 +9,22 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (1 day ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
-- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (3 days ago)
-- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (3 days ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (3 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (4 days ago)
-- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (5 days ago)
-- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (6 days ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (3 days ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (4 days ago)
+- [shyim/shopware](https://github.com/shyim/shopware) - Shopware 6 Docker Image (4 days ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (4 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (5 days ago)
+- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (6 days ago)
+- [FriendsOfShopware/shopware-static-data](https://github.com/FriendsOfShopware/shopware-static-data) - Static JSON information about Shopware (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.4), 2 days ago) - A collection of useful tools for Shopware 6
-- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.13.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.13.0), 6 days ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 1 week ago) - Rector rules for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.2.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.2.4), 3 days ago) - A collection of useful tools for Shopware 6
+- [sjinks/opentelemetry-plugin-better-sqlite3](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3) ([v1.13.0](https://github.com/sjinks/opentelemetry-plugin-better-sqlite3/releases/tag/v1.13.0), 1 week ago) - OpenTelemetry better-sqlite3 automatic instrumentation package
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.5.8](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.5.8), 2 weeks ago) - Rector rules for Shopware 6
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.2](https://github.com/symfony/symfony/releases/tag/v8.0.2), 2 weeks ago) - The Symfony PHP framework
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.1](https://github.com/doctrine/dbal/releases/tag/4.4.1), 2 weeks ago) - Doctrine Database Abstraction Layer
 - [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.55.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.55.0), 3 weeks ago) - Spell check action
