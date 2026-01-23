@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (1 day ago)
-- [FriendsOfShopware/jetpack](https://github.com/FriendsOfShopware/jetpack) - Jetpack is a rapid development framework for Shopware 6 administration (1 day ago)
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (2 days ago)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (2 days ago)
-- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) - This plugin allows your customers to compare products. (3 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 days ago)
-- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (3 days ago)
-- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (4 days ago)
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 day ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
+- [FriendsOfShopware/jetpack](https://github.com/FriendsOfShopware/jetpack) - Jetpack is a rapid development framework for Shopware 6 administration (2 days ago)
+- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (2 days ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 days ago)
+- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) - This plugin allows your customers to compare products. (4 days ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (4 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (4 days ago)
+- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [muety/wakapi](https://github.com/muety/wakapi) ([2.17.1](https://github.com/muety/wakapi/releases/tag/2.17.1), 1 day ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
-- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/4.0.0), 1 day ago) - This plugin allows you to use twig mails in Shopware 6.
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.58.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.58.0), 2 days ago) - Spell check action
-- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.3.1](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.3.1), 2 days ago) - 
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.12.0](https://github.com/openpubkey/opkssh/releases/tag/v0.12.0), 3 days ago) - opkssh (OpenPubkey SSH)
-- [FriendsOfShopware/jetpack](https://github.com/FriendsOfShopware/jetpack) ([0.0.2](https://github.com/FriendsOfShopware/jetpack/releases/tag/0.0.2), 3 days ago) - Jetpack is a rapid development framework for Shopware 6 administration
-- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) ([4.0.1](https://github.com/FriendsOfShopware/FroshProductCompare/releases/tag/4.0.1), 3 days ago) - This plugin allows your customers to compare products.
-- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) ([1.0.2](https://github.com/shyim/check-if-email-exists/releases/tag/1.0.2), 4 days ago) - 
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.5.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.5.1), 5 days ago) - Official PHP Client for OpenSearch
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.3.2](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.3.2), 1 day ago) - 
+- [composer/composer](https://github.com/composer/composer) ([2.9.4](https://github.com/composer/composer/releases/tag/2.9.4), 1 day ago) - Dependency Manager for PHP
+- [muety/wakapi](https://github.com/muety/wakapi) ([2.17.1](https://github.com/muety/wakapi/releases/tag/2.17.1), 2 days ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
+- [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/4.0.0), 2 days ago) - This plugin allows you to use twig mails in Shopware 6.
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.58.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.58.0), 3 days ago) - Spell check action
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.12.0](https://github.com/openpubkey/opkssh/releases/tag/v0.12.0), 4 days ago) - opkssh (OpenPubkey SSH)
+- [FriendsOfShopware/jetpack](https://github.com/FriendsOfShopware/jetpack) ([0.0.2](https://github.com/FriendsOfShopware/jetpack/releases/tag/0.0.2), 4 days ago) - Jetpack is a rapid development framework for Shopware 6 administration
+- [FriendsOfShopware/FroshProductCompare](https://github.com/FriendsOfShopware/FroshProductCompare) ([4.0.1](https://github.com/FriendsOfShopware/FroshProductCompare/releases/tag/4.0.1), 4 days ago) - This plugin allows your customers to compare products.
+- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) ([1.0.2](https://github.com/shyim/check-if-email-exists/releases/tag/1.0.2), 5 days ago) - 
 
 ---
 
