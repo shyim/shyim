@@ -9,9 +9,9 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/cloudflare-tui](https://github.com/shyim/cloudflare-tui) - Terminal UI for Cloudflare DNS (2 days ago)
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (5 days ago)
-- [shyim/ci-test-repo](https://github.com/shyim/ci-test-repo) -  (6 days ago)
+- [shyim/cloudflare-tui](https://github.com/shyim/cloudflare-tui) - Terminal UI for Cloudflare DNS (3 days ago)
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (6 days ago)
+- [shyim/ci-test-repo](https://github.com/shyim/ci-test-repo) -  (1 week ago)
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (1 week ago)
 - [FriendsOfShopware/jetpack](https://github.com/FriendsOfShopware/jetpack) - Jetpack is a rapid development framework for Shopware 6 administration (1 week ago)
 - [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (1 week ago)
@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.3.0](https://github.com/carthage-software/mago/releases/tag/1.3.0), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 1 day ago) - Dependency Manager for PHP
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 2 days ago) - The Symfony PHP framework
-- [squirrelphp/twig-php-syntax](https://github.com/squirrelphp/twig-php-syntax) ([v2.0](https://github.com/squirrelphp/twig-php-syntax/releases/tag/v2.0), 3 days ago) - Adds common PHP syntax to twig templates, like ===, foreach and strtotime
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.3.0](https://github.com/carthage-software/mago/releases/tag/1.3.0), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [composer/composer](https://github.com/composer/composer) ([2.9.5](https://github.com/composer/composer/releases/tag/2.9.5), 2 days ago) - Dependency Manager for PHP
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.5](https://github.com/symfony/symfony/releases/tag/v8.0.5), 3 days ago) - The Symfony PHP framework
+- [squirrelphp/twig-php-syntax](https://github.com/squirrelphp/twig-php-syntax) ([v2.0](https://github.com/squirrelphp/twig-php-syntax/releases/tag/v2.0), 4 days ago) - Adds common PHP syntax to twig templates, like ===, foreach and strtotime
 - [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.3.2](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.3.2), 1 week ago) - 
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.17.1](https://github.com/muety/wakapi/releases/tag/2.17.1), 1 week ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [FriendsOfShopware/FroshPlatformTemplateMail](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail) ([4.0.0](https://github.com/FriendsOfShopware/FroshPlatformTemplateMail/releases/tag/4.0.0), 1 week ago) - This plugin allows you to use twig mails in Shopware 6.
