@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (1 day ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (3 days ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (4 days ago)
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (4 days ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (5 days ago)
 - [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) - CLI for Shopmon as a Companion (1 week ago)
 - [shyim/whereismycar](https://github.com/shyim/whereismycar) -  (1 week ago)
 - [shyim/mysql-gpui](https://github.com/shyim/mysql-gpui) -  (1 week ago)
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 week ago)
 - [FriendsOfShopware/agent-skills](https://github.com/FriendsOfShopware/agent-skills) - Agent Skills (1 week ago)
-- [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) - Adminer plugin for Shopware Platform (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.2.19-canary.916](https://github.com/toeverything/AFFiNE/releases/tag/v2026.2.19-canary.916), 2 days ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.9.1](https://github.com/carthage-software/mago/releases/tag/1.9.1), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) ([0.0.1](https://github.com/FriendsOfShopware/shopmon-cli/releases/tag/0.0.1), 6 days ago) - CLI for Shopmon as a Companion
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v0.26.3-beta.3](https://github.com/toeverything/AFFiNE/releases/tag/v0.26.3-beta.3), 1 day ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.9.1](https://github.com/carthage-software/mago/releases/tag/1.9.1), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) ([0.0.1](https://github.com/FriendsOfShopware/shopmon-cli/releases/tag/0.0.1), 1 week ago) - CLI for Shopmon as a Companion
 - [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.4.4](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.4.4), 1 week ago) - A collection of useful tools for Shopware 6
 - [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) ([2.2.2](https://github.com/FriendsOfShopware/FroshPlatformAdminer/releases/tag/2.2.2), 1 week ago) - Adminer plugin for Shopware Platform
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.13.0](https://github.com/openpubkey/opkssh/releases/tag/v0.13.0), 2 weeks ago) - opkssh (OpenPubkey SSH)
