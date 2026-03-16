@@ -9,28 +9,28 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) - CLI for Shopmon as a Companion (1 day ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 day ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (1 day ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (3 days ago)
-- [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) -  (3 days ago)
-- [shyim/mysql-gpui](https://github.com/shyim/mysql-gpui) -  (3 days ago)
-- [shyim/composer-semver-ts](https://github.com/shyim/composer-semver-ts) - Composer-style semantic version parsing and constraint matching for JavaScript (4 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (4 days ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
+- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) - CLI for Shopmon as a Companion (2 days ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (2 days ago)
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (4 days ago)
+- [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) -  (4 days ago)
+- [shyim/mysql-gpui](https://github.com/shyim/mysql-gpui) -  (4 days ago)
+- [shyim/composer-semver-ts](https://github.com/shyim/composer-semver-ts) - Composer-style semantic version parsing and constraint matching for JavaScript (5 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (5 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) ([0.0.9](https://github.com/FriendsOfShopware/shopmon-cli/releases/tag/0.0.9), 1 day ago) - CLI for Shopmon as a Companion
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.60.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.60.0), 1 day ago) - Spell check action
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.14.1](https://github.com/carthage-software/mago/releases/tag/1.14.1), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.3.13-canary.913](https://github.com/toeverything/AFFiNE/releases/tag/v2026.3.13-canary.913), 2 days ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) ([v2.0.0](https://github.com/shyim/1password-load-secrets-action/releases/tag/v2.0.0), 3 days ago) - 
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.8](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.8), 3 days ago) - https://www.testcontainers.org implementation for PHP
-- [cachix/devenv](https://github.com/cachix/devenv) ([v2.0.4](https://github.com/cachix/devenv/releases/tag/v2.0.4), 4 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [shyim/composer-semver-ts](https://github.com/shyim/composer-semver-ts) ([0.1.1](https://github.com/shyim/composer-semver-ts/releases/tag/0.1.1), 4 days ago) - Composer-style semantic version parsing and constraint matching for JavaScript
-- [digilist/dependency-graph](https://github.com/digilist/dependency-graph) ([v0.4.3](https://github.com/digilist/dependency-graph/releases/tag/v0.4.3), 5 days ago) - Dependency Graph Resolver in PHP
+- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.37.0](https://github.com/shivammathur/setup-php/releases/tag/2.37.0), 1 day ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.3.15-canary.910](https://github.com/toeverything/AFFiNE/releases/tag/v2026.3.15-canary.910), 1 day ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) ([0.0.9](https://github.com/FriendsOfShopware/shopmon-cli/releases/tag/0.0.9), 2 days ago) - CLI for Shopmon as a Companion
+- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.60.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.60.0), 2 days ago) - Spell check action
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.14.1](https://github.com/carthage-software/mago/releases/tag/1.14.1), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) ([v2.0.0](https://github.com/shyim/1password-load-secrets-action/releases/tag/v2.0.0), 4 days ago) - 
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.8](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.8), 4 days ago) - https://www.testcontainers.org implementation for PHP
+- [cachix/devenv](https://github.com/cachix/devenv) ([v2.0.4](https://github.com/cachix/devenv/releases/tag/v2.0.4), 5 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [shyim/composer-semver-ts](https://github.com/shyim/composer-semver-ts) ([0.1.1](https://github.com/shyim/composer-semver-ts/releases/tag/0.1.1), 5 days ago) - Composer-style semantic version parsing and constraint matching for JavaScript
 
 ---
 
