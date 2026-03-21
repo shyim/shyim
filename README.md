@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
-- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (1 day ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
-- [shyim/dockable](https://github.com/shyim/dockable) - A native macOS app for managing Docker containers, Compose stacks, images, volumes, and networks (2 days ago)
-- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) - CLI for Shopmon as a Companion (6 days ago)
-- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (6 days ago)
-- [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) -  (1 week ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (1 week ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (1 day ago)
+- [shyim/dockable](https://github.com/shyim/dockable) - A native macOS app for managing Docker containers, Compose stacks, images, volumes, and networks (1 day ago)
+- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (2 days ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (3 days ago)
+- [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
+- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) - CLI for Shopmon as a Companion (1 week ago)
 - [shyim/mysql-gpui](https://github.com/shyim/mysql-gpui) -  (1 week ago)
+- [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) -  (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.15.2](https://github.com/carthage-software/mago/releases/tag/1.15.2), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 2 days ago) - Shopware Shop Monitoring
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.3.18-canary.918](https://github.com/toeverything/AFFiNE/releases/tag/v2026.3.18-canary.918), 2 days ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [shyim/dockable](https://github.com/shyim/dockable) ([0.0.3](https://github.com/shyim/dockable/releases/tag/0.0.3), 2 days ago) - A native macOS app for managing Docker containers, Compose stacks, images, volumes, and networks
-- [cachix/devenv](https://github.com/cachix/devenv) ([v2.0.5](https://github.com/cachix/devenv/releases/tag/v2.0.5), 4 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.37.0](https://github.com/shivammathur/setup-php/releases/tag/2.37.0), 5 days ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
-- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) ([0.0.9](https://github.com/FriendsOfShopware/shopmon-cli/releases/tag/0.0.9), 6 days ago) - CLI for Shopmon as a Companion
-- [rojopolis/spellcheck-github-actions](https://github.com/rojopolis/spellcheck-github-actions) ([0.60.0](https://github.com/rojopolis/spellcheck-github-actions/releases/tag/0.60.0), 6 days ago) - Spell check action
-- [shyim/1password-load-secrets-action](https://github.com/shyim/1password-load-secrets-action) ([v2.0.0](https://github.com/shyim/1password-load-secrets-action/releases/tag/v2.0.0), 1 week ago) - 
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.15.3](https://github.com/carthage-software/mago/releases/tag/1.15.3), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.3.20-canary.913](https://github.com/toeverything/AFFiNE/releases/tag/v2026.3.20-canary.913), 1 day ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [shyim/dockable](https://github.com/shyim/dockable) ([0.0.4](https://github.com/shyim/dockable/releases/tag/0.0.4), 1 day ago) - A native macOS app for managing Docker containers, Compose stacks, images, volumes, and networks
+- [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.3](https://github.com/doctrine/dbal/releases/tag/4.4.3), 1 day ago) - Doctrine Database Abstraction Layer
+- [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.12](https://github.com/shyim/danger-php/releases/tag/0.3.12), 1 day ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 3 days ago) - Shopware Shop Monitoring
+- [cachix/devenv](https://github.com/cachix/devenv) ([v2.0.5](https://github.com/cachix/devenv/releases/tag/v2.0.5), 5 days ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.37.0](https://github.com/shivammathur/setup-php/releases/tag/2.37.0), 6 days ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+- [FriendsOfShopware/shopmon-cli](https://github.com/FriendsOfShopware/shopmon-cli) ([0.0.9](https://github.com/FriendsOfShopware/shopmon-cli/releases/tag/0.0.9), 1 week ago) - CLI for Shopmon as a Companion
 
 ---
 
