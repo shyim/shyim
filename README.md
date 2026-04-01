@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (1 day ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (3 days ago)
-- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (3 days ago)
-- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (3 days ago)
-- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (4 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (4 days ago)
-- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (4 days ago)
-- [shyim/dockable](https://github.com/shyim/dockable) - A native macOS app for managing Docker containers, Compose stacks, images, volumes, and networks (5 days ago)
-- [shyim/go-queue](https://github.com/shyim/go-queue) - Type-safe message queue library for Go with generics (5 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
+- [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (4 days ago)
+- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (4 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
+- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (5 days ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (5 days ago)
+- [shyim/shopware-docker-images](https://github.com/shyim/shopware-docker-images) - Contains all Docker images for https://github.com/shyim/shopware-docker (6 days ago)
+- [shyim/go-queue](https://github.com/shyim/go-queue) - Type-safe message queue library for Go with generics (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.16.0](https://github.com/carthage-software/mago/releases/tag/1.16.0), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.0), 6 days ago) - A collection of useful tools for Shopware 6
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 1 day ago) - The Symfony PHP framework
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.17.0](https://github.com/carthage-software/mago/releases/tag/1.17.0), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.3.30-canary.932](https://github.com/toeverything/AFFiNE/releases/tag/v2026.3.30-canary.932), 1 day ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.5.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.5.0), 1 week ago) - A collection of useful tools for Shopware 6
 - [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.6.0](https://github.com/opensearch-project/opensearch-php/releases/tag/2.6.0), 1 week ago) - Official PHP Client for OpenSearch
 - [cachix/devenv](https://github.com/cachix/devenv) ([v2.0.6](https://github.com/cachix/devenv/releases/tag/v2.0.6), 1 week ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.3.20-canary.913](https://github.com/toeverything/AFFiNE/releases/tag/v2026.3.20-canary.913), 1 week ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [shyim/dockable](https://github.com/shyim/dockable) ([0.0.4](https://github.com/shyim/dockable/releases/tag/0.0.4), 1 week ago) - A native macOS app for managing Docker containers, Compose stacks, images, volumes, and networks
 - [doctrine/dbal](https://github.com/doctrine/dbal) ([4.4.3](https://github.com/doctrine/dbal/releases/tag/4.4.3), 1 week ago) - Doctrine Database Abstraction Layer
 - [shyim/danger-php](https://github.com/shyim/danger-php) ([0.3.12](https://github.com/shyim/danger-php/releases/tag/0.3.12), 1 week ago) - Danger runs during your CI process, and gives teams the chance to automate common code review chores.
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([0.6.0](https://github.com/FriendsOfShopware/shopmon/releases/tag/0.6.0), 1 week ago) - Shopware Shop Monitoring
 
 ---
 
