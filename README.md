@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (2 days ago)
-- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (2 days ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
-- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (3 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (3 days ago)
+- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (3 days ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (3 days ago)
+- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (4 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (6 days ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 weeks ago)
 - [shyim/check-if-email-exists](https://github.com/shyim/check-if-email-exists) -  (3 weeks ago)
-- [shyim/local-s3](https://github.com/shyim/local-s3) - Lightweight S3-compatible server for local development and testing (3 weeks ago)
+- [shyim/shopware-docker-images](https://github.com/shyim/shopware-docker-images) - Contains all Docker images for https://github.com/shyim/shopware-docker (3 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.22.0](https://github.com/carthage-software/mago/releases/tag/1.22.0), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 5 days ago) - Dependency Manager for PHP
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.23.1](https://github.com/carthage-software/mago/releases/tag/1.23.1), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 6 days ago) - Dependency Manager for PHP
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.4.10-canary.928](https://github.com/toeverything/AFFiNE/releases/tag/v2026.4.10-canary.928), 1 week ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 - [muety/wakapi](https://github.com/muety/wakapi) ([2.17.3](https://github.com/muety/wakapi/releases/tag/2.17.3), 2 weeks ago) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [shyim/docker-backup](https://github.com/shyim/docker-backup) ([0.1.1](https://github.com/shyim/docker-backup/releases/tag/0.1.1), 2 weeks ago) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard.
