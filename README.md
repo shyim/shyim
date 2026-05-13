@@ -8,9 +8,9 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (3 days ago)
-- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (4 days ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (5 days ago)
+- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (4 days ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (5 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (6 days ago)
 - [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (1 week ago)
 - [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (3 weeks ago)
 - [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (4 weeks ago)
@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.26.0](https://github.com/carthage-software/mago/releases/tag/1.26.0), 6 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 6 days ago) - The Symfony PHP framework
-- [cachix/devenv](https://github.com/cachix/devenv) ([v2.1](https://github.com/cachix/devenv/releases/tag/v2.1), 1 week ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.27.0](https://github.com/carthage-software/mago/releases/tag/1.27.0), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [cachix/devenv](https://github.com/cachix/devenv) ([v2.1.1](https://github.com/cachix/devenv/releases/tag/v2.1.1), 1 day ago) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [shyim/docker-backup](https://github.com/shyim/docker-backup) ([0.2.0](https://github.com/shyim/docker-backup/releases/tag/0.2.0), 1 week ago) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard.
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) ([v0.14.0](https://github.com/openpubkey/opkssh/releases/tag/v0.14.0), 2 weeks ago) - opkssh (OpenPubkey SSH)
 - [composer/composer](https://github.com/composer/composer) ([2.9.7](https://github.com/composer/composer/releases/tag/2.9.7), 4 weeks ago) - Dependency Manager for PHP
