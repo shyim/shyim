@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (1 day ago)
+- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (1 day ago)
 - [shyim/akari](https://github.com/shyim/akari) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead. (1 day ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (4 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (2 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (5 days ago)
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (1 week ago)
 - [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (1 week ago)
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API (1 week ago)
-- [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (1 week ago)
 - [shyim/mjml-php](https://github.com/shyim/mjml-php) -  (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 1 day ago) - The Symfony PHP framework
-- [composer/composer](https://github.com/composer/composer) ([2.10.0](https://github.com/composer/composer/releases/tag/2.10.0), 2 days ago) - Dependency Manager for PHP
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.1), 4 days ago) - A collection of useful tools for Shopware 6
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 2 days ago) - The Symfony PHP framework
+- [composer/composer](https://github.com/composer/composer) ([2.10.0](https://github.com/composer/composer/releases/tag/2.10.0), 3 days ago) - Dependency Manager for PHP
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.1), 5 days ago) - A collection of useful tools for Shopware 6
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.29.0](https://github.com/carthage-software/mago/releases/tag/1.29.0), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) ([2.2.4](https://github.com/FriendsOfShopware/FroshPlatformAdminer/releases/tag/2.2.4), 1 week ago) - Adminer plugin for Shopware Platform
 - [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 2 weeks ago) - 
