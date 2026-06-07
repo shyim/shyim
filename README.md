@@ -8,25 +8,25 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (1 day ago)
+- [shyim/go-queue](https://github.com/shyim/go-queue) - Type-safe message queue library for Go with generics (1 day ago)
 - [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (1 day ago)
-- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (2 days ago)
-- [shyim/openshot-hono-worker](https://github.com/shyim/openshot-hono-worker) -  (2 days ago)
-- [shyim/php-lua](https://github.com/shyim/php-lua) - A native, pure-PHP tree-walking interpreter for Lua 5.4 - no compilation, no FFI, no extensions. (2 days ago)
-- [FriendsOfShopware/api-doc](https://github.com/FriendsOfShopware/api-doc) - Hosting the Swagger for Shopware 6 (3 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 days ago)
-- [shyim/go-spdx](https://github.com/shyim/go-spdx) - Go library for validating SPDX license expressions. Zero dependencies, pure Go standard library. (4 days ago)
+- [shyim/akari](https://github.com/shyim/akari) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead. (1 day ago)
+- [FriendsOfShopware/shopmon-packages](https://github.com/FriendsOfShopware/shopmon-packages) - A Cloudflare Worker based Composer Package Server (2 days ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (2 days ago)
+- [shyim/php-lua](https://github.com/shyim/php-lua) - A native, pure-PHP tree-walking interpreter for Lua 5.4 - no compilation, no FFI, no extensions. (3 days ago)
+- [shyim/openshot-hono-worker](https://github.com/shyim/openshot-hono-worker) -  (3 days ago)
+- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (3 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.30.0](https://github.com/carthage-software/mago/releases/tag/1.30.0), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.6.4-canary.1018](https://github.com/toeverything/AFFiNE/releases/tag/v2026.6.4-canary.1018), 2 days ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 2 days ago) - Dependency Manager for PHP
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.2), 3 days ago) - A collection of useful tools for Shopware 6
-- [shyim/go-version](https://github.com/shyim/go-version) ([0.3.0](https://github.com/shyim/go-version/releases/tag/0.3.0), 4 days ago) - Zero-dependency Go library that ports PHP Composer&#39;s version parsing and constraint semantics — caret (^), tilde (~), wildcards, hyphen ranges, stability flags, prerelease comparison, and constraint intersection for dependency solvers.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.30.0](https://github.com/carthage-software/mago/releases/tag/1.30.0), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.6.4-canary.1018](https://github.com/toeverything/AFFiNE/releases/tag/v2026.6.4-canary.1018), 3 days ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 3 days ago) - Dependency Manager for PHP
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.7.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.7.2), 4 days ago) - A collection of useful tools for Shopware 6
+- [shyim/go-version](https://github.com/shyim/go-version) ([0.3.0](https://github.com/shyim/go-version/releases/tag/0.3.0), 5 days ago) - Zero-dependency Go library that ports PHP Composer&#39;s version parsing and constraint semantics — caret (^), tilde (~), wildcards, hyphen ranges, stability flags, prerelease comparison, and constraint intersection for dependency solvers.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), 1 week ago) - The Symfony PHP framework
 - [FriendsOfShopware/FroshPlatformAdminer](https://github.com/FriendsOfShopware/FroshPlatformAdminer) ([2.2.4](https://github.com/FriendsOfShopware/FroshPlatformAdminer/releases/tag/2.2.4), 2 weeks ago) - Adminer plugin for Shopware Platform
 - [FriendsOfShopware/FroshFlowBuilderInsights](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights) ([1.0.0](https://github.com/FriendsOfShopware/FroshFlowBuilderInsights/releases/tag/1.0.0), 3 weeks ago) - 
