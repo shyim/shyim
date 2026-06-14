@@ -8,26 +8,26 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (1 day ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (1 day ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 days ago)
-- [shyim/mjml-php](https://github.com/shyim/mjml-php) - Native PHP port of MJML — convert MJML markup into responsive HTML emails, no Node.js required (4 days ago)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (5 days ago)
-- [shyim/akari](https://github.com/shyim/akari) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead. (5 days ago)
-- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (5 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (5 days ago)
-- [shyim/php-extension-builder](https://github.com/shyim/php-extension-builder) - Rust CLI for building distributable PHP extension binaries across Linux and macOS (5 days ago)
+- [shyim/shyim.me](https://github.com/shyim/shyim.me) - My personal Knowledgebase for Shopware (2 days ago)
+- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (3 days ago)
+- [shyim/mjml-php](https://github.com/shyim/mjml-php) - Native PHP port of MJML — convert MJML markup into responsive HTML emails, no Node.js required (5 days ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (6 days ago)
+- [shyim/akari](https://github.com/shyim/akari) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead. (6 days ago)
+- [FriendsOfShopware/FroshMjml](https://github.com/FriendsOfShopware/FroshMjml) - MJML Email Templates for Shopware 6 – WYSIWYG editor with drag-and-drop, reusable components, and automatic MJML-to-HTML compilation (6 days ago)
+- [shyim/php-extension-builder](https://github.com/shyim/php-extension-builder) - Rust CLI for building distributable PHP extension binaries across Linux and macOS (6 days ago)
+- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (6 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.2), 2 days ago) - A collection of useful tools for Shopware 6
-- [shyim/mjml-php](https://github.com/shyim/mjml-php) ([0.1.1](https://github.com/shyim/mjml-php/releases/tag/0.1.1), 4 days ago) - Native PHP port of MJML — convert MJML markup into responsive HTML emails, no Node.js required
-- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.37.2](https://github.com/shivammathur/setup-php/releases/tag/2.37.2), 5 days ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
-- [shyim/php-extension-builder](https://github.com/shyim/php-extension-builder) ([v0.2.0](https://github.com/shyim/php-extension-builder/releases/tag/v0.2.0), 5 days ago) - Rust CLI for building distributable PHP extension binaries across Linux and macOS
-- [shyim/akari](https://github.com/shyim/akari) ([0.1.1](https://github.com/shyim/akari/releases/tag/0.1.1), 6 days ago) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead.
-- [shyim/scssphp-compat](https://github.com/shyim/scssphp-compat) ([1.13.1](https://github.com/shyim/scssphp-compat/releases/tag/1.13.1), 6 days ago) - scssphp/scssphp 1.x but with sass:math support
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.8.2](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.8.2), 3 days ago) - A collection of useful tools for Shopware 6
+- [shyim/mjml-php](https://github.com/shyim/mjml-php) ([0.1.1](https://github.com/shyim/mjml-php/releases/tag/0.1.1), 5 days ago) - Native PHP port of MJML — convert MJML markup into responsive HTML emails, no Node.js required
+- [shivammathur/setup-php](https://github.com/shivammathur/setup-php) ([2.37.2](https://github.com/shivammathur/setup-php/releases/tag/2.37.2), 6 days ago) - GitHub action to set up PHP with extensions, php.ini configuration, coverage drivers, and various tools.
+- [shyim/php-extension-builder](https://github.com/shyim/php-extension-builder) ([v0.2.0](https://github.com/shyim/php-extension-builder/releases/tag/v0.2.0), 6 days ago) - Rust CLI for building distributable PHP extension binaries across Linux and macOS
+- [shyim/akari](https://github.com/shyim/akari) ([0.1.1](https://github.com/shyim/akari/releases/tag/0.1.1), 1 week ago) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead.
+- [shyim/scssphp-compat](https://github.com/shyim/scssphp-compat) ([1.13.1](https://github.com/shyim/scssphp-compat/releases/tag/1.13.1), 1 week ago) - scssphp/scssphp 1.x but with sass:math support
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.30.0](https://github.com/carthage-software/mago/releases/tag/1.30.0), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [composer/composer](https://github.com/composer/composer) ([2.10.1](https://github.com/composer/composer/releases/tag/2.10.1), 1 week ago) - Dependency Manager for PHP
 - [shyim/go-version](https://github.com/shyim/go-version) ([0.3.0](https://github.com/shyim/go-version/releases/tag/0.3.0), 1 week ago) - Zero-dependency Go library that ports PHP Composer&#39;s version parsing and constraint semantics — caret (^), tilde (~), wildcards, hyphen ranges, stability flags, prerelease comparison, and constraint intersection for dependency solvers.
