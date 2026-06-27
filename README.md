@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
+- [shyim/php-sasso](https://github.com/shyim/php-sasso) - PHP extension compiling SCSS/Sass to CSS natively in-process — a thin ext-php-rs binding around the pure-Rust sasso compiler (no Node, no Dart VM, no subprocess). (1 day ago)
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (1 day ago)
+- [shyim/akari](https://github.com/shyim/akari) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead. (1 day ago)
 - [shyim/shopware-redis-cli-helper](https://github.com/shyim/shopware-redis-cli-helper) - Fast CLI to inspect and clean up a Shopware/Symfony Redis cache: namespace/key insights, value inspection with auto-decompression, and orphaned-tag cleanup. (1 day ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
-- [shyim/mochi](https://github.com/shyim/mochi) -  (1 day ago)
-- [shyim/wolfi-php](https://github.com/shyim/wolfi-php) - Additional PHP packages for Wolfi-OS (2 days ago)
-- [shyim/danger-php](https://github.com/shyim/danger-php) - Danger runs during your CI process, and gives teams the chance to automate common code review chores. (2 days ago)
-- [FriendsOfShopware/nur-packages](https://github.com/FriendsOfShopware/nur-packages) -  (3 days ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (3 days ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (3 days ago)
+- [FriendsOfShopware/shopware-demo-environment](https://github.com/FriendsOfShopware/shopware-demo-environment) -  (1 day ago)
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (1 day ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (2 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 days ago)
+- [shyim/mochi](https://github.com/shyim/mochi) -  (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.6.3](https://github.com/momiji-rs/sasso/releases/tag/v0.6.3), 1 day ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib &#43; CLI.
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.5](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.5), 1 day ago) - Shopware Shop Monitoring
-- [shyim/shopware-redis-cli-helper](https://github.com/shyim/shopware-redis-cli-helper) ([v0.1.0](https://github.com/shyim/shopware-redis-cli-helper/releases/tag/v0.1.0), 1 day ago) - Fast CLI to inspect and clean up a Shopware/Symfony Redis cache: namespace/key insights, value inspection with auto-decompression, and orphaned-tag cleanup.
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.6.25-canary.1003](https://github.com/toeverything/AFFiNE/releases/tag/v2026.6.25-canary.1003), 1 day ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.9.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.9.0), 1 day ago) - A collection of useful tools for Shopware 6
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.40.2](https://github.com/carthage-software/mago/releases/tag/1.40.2), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) ([0.1.2](https://github.com/shyim/sitespeed.io-api/releases/tag/0.1.2), 3 days ago) - 
-- [shyim/go-mailer](https://github.com/shyim/go-mailer) ([v0.1.0](https://github.com/shyim/go-mailer/releases/tag/v0.1.0), 4 days ago) - An idiomatic, stdlib-first email library for Go: SMTP/sendmail transports, MIME, DSN config, middleware, routing, and OpenTelemetry.
-- [shyim/docker-backup](https://github.com/shyim/docker-backup) ([0.3.0](https://github.com/shyim/docker-backup/releases/tag/0.3.0), 4 days ago) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard.
+- [shyim/shopware-redis-cli-helper](https://github.com/shyim/shopware-redis-cli-helper) ([v0.2.0](https://github.com/shyim/shopware-redis-cli-helper/releases/tag/v0.2.0), 1 day ago) - Fast CLI to inspect and clean up a Shopware/Symfony Redis cache: namespace/key insights, value inspection with auto-decompression, and orphaned-tag cleanup.
+- [shyim/akari](https://github.com/shyim/akari) ([0.1.3](https://github.com/shyim/akari/releases/tag/0.1.3), 1 day ago) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead.
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.0.9](https://github.com/testcontainers/testcontainers-php/releases/tag/1.0.9), 1 day ago) - https://www.testcontainers.org implementation for PHP
+- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.6.3](https://github.com/momiji-rs/sasso/releases/tag/v0.6.3), 2 days ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib &#43; CLI.
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.5](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.5), 2 days ago) - Shopware Shop Monitoring
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) ([v2026.6.25-canary.1003](https://github.com/toeverything/AFFiNE/releases/tag/v2026.6.25-canary.1003), 2 days ago) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.9.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.9.0), 2 days ago) - A collection of useful tools for Shopware 6
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.40.2](https://github.com/carthage-software/mago/releases/tag/1.40.2), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) ([0.1.2](https://github.com/shyim/sitespeed.io-api/releases/tag/0.1.2), 4 days ago) - 
 
 ---
 
