@@ -13,13 +13,6 @@ Curious what I've been working on recently?
 
 ---
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 9}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
----
-
 #### 📊 My stats
 
 <img align="right" alt="shyim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shyim&count_private=1&show_icons=true&" />
