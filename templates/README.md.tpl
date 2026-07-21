@@ -7,9 +7,12 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 9}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+{{recentContributions}}
+
+---
+
+#### 🔭 Latest releases I've contributed to
+{{recentReleases}}
 
 ---
 
