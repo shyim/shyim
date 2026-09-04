@@ -7,27 +7,27 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) - MariaDB running in WASM (1 day ago)
-- [shyim/go-queue](https://github.com/shyim/go-queue) - Type-safe message queue library for Go with generics (1 day ago)
-- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (1 day ago)
-- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) -  (1 day ago)
-- [shyim/go-pie](https://github.com/shyim/go-pie) -  (1 day ago)
 - [shopware/shopware-cli](https://github.com/shopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 day ago)
-- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (2 days ago)
-- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (2 days ago)
+- [FriendsOfShopware/shopware-playground](https://github.com/FriendsOfShopware/shopware-playground) - Shopware running entirely in the browser — PHP WASM + MariaDB WASM playground (1 day ago)
+- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) - MariaDB running in WASM (1 day ago)
+- [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (2 days ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
+- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) -  (2 days ago)
+- [shyim/go-queue](https://github.com/shyim/go-queue) - Type-safe message queue library for Go with generics (2 days ago)
+- [shyim/go-pie](https://github.com/shyim/go-pie) -  (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ([v1.11.3](https://github.com/alibaba/open-code-review/releases/tag/v1.11.3), today) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.17.0-rc.4-251](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.17.0-rc.4-251), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) ([v0.1.1](https://github.com/shyim/lite4mariadb/releases/tag/v0.1.1), 1 day ago) - MariaDB running in WASM
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) ([v1.27.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.27.1), 1 day ago) - Docker image for Golang cross-compiling with CGO
-- [shopware/phpstan-shopware](https://github.com/shopware/phpstan-shopware) ([0.2.4](https://github.com/shopware/phpstan-shopware/releases/tag/0.2.4), 1 day ago) - PhpStan Rules for Shopware
-- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.9.1](https://github.com/momiji-rs/sasso/releases/tag/v0.9.1), 2 days ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
-- [shyim/riff](https://github.com/shyim/riff) ([v0.0.7](https://github.com/shyim/riff/releases/tag/v0.0.7), 3 days ago) - Riff is a fast, standalone Composer-compatible package manager written in Rust.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 4 days ago) - The Symfony PHP framework
-- [symfony/http-kernel](https://github.com/symfony/http-kernel) ([v8.1.6](https://github.com/symfony/http-kernel/releases/tag/v8.1.6), 4 days ago) - Provides a structured process for converting a Request into a Response
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), today) - Shopware Shop Monitoring
+- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) ([v0.1.2](https://github.com/shyim/lite4mariadb/releases/tag/v0.1.2), 1 day ago) - MariaDB running in WASM
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ([v1.11.3](https://github.com/alibaba/open-code-review/releases/tag/v1.11.3), 1 day ago) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.17.0-rc.4-251](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.17.0-rc.4-251), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) ([v1.27.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.27.1), 2 days ago) - Docker image for Golang cross-compiling with CGO
+- [shopware/phpstan-shopware](https://github.com/shopware/phpstan-shopware) ([0.2.4](https://github.com/shopware/phpstan-shopware/releases/tag/0.2.4), 2 days ago) - PhpStan Rules for Shopware
+- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.9.1](https://github.com/momiji-rs/sasso/releases/tag/v0.9.1), 3 days ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
+- [shyim/riff](https://github.com/shyim/riff) ([v0.0.7](https://github.com/shyim/riff/releases/tag/v0.0.7), 4 days ago) - Riff is a fast, standalone Composer-compatible package manager written in Rust.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 5 days ago) - The Symfony PHP framework
 
 ---
 
