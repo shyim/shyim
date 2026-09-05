@@ -7,27 +7,28 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 day ago)
-- [FriendsOfShopware/shopware-playground](https://github.com/FriendsOfShopware/shopware-playground) - Shopware running entirely in the browser — PHP WASM + MariaDB WASM playground (1 day ago)
-- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) - MariaDB running in WASM (1 day ago)
+- [stefanpoensgen/shopware-sentry-bundle](https://github.com/stefanpoensgen/shopware-sentry-bundle) -  (2 days ago)
+- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) - MariaDB running in WASM (2 days ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (2 days ago)
+- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) -  (1 day ago)
+- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (2 days ago)
+- [FriendsOfShopware/FroshAppWebDav](https://github.com/FriendsOfShopware/FroshAppWebDav) - This plugin allows you to access with WebDav the Shopware media manager (2 days ago)
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) -  (2 days ago)
 - [shopware/shopware](https://github.com/shopware/shopware) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions (2 days ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
-- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) -  (2 days ago)
-- [shyim/go-queue](https://github.com/shyim/go-queue) - Type-safe message queue library for Go with generics (2 days ago)
-- [shyim/go-pie](https://github.com/shyim/go-pie) -  (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), today) - Shopware Shop Monitoring
-- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) ([v0.1.2](https://github.com/shyim/lite4mariadb/releases/tag/v0.1.2), 1 day ago) - MariaDB running in WASM
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ([v1.11.3](https://github.com/alibaba/open-code-review/releases/tag/v1.11.3), 1 day ago) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.17.0-rc.4-251](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.17.0-rc.4-251), 2 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) ([v1.27.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.27.1), 2 days ago) - Docker image for Golang cross-compiling with CGO
-- [shopware/phpstan-shopware](https://github.com/shopware/phpstan-shopware) ([0.2.4](https://github.com/shopware/phpstan-shopware/releases/tag/0.2.4), 2 days ago) - PhpStan Rules for Shopware
-- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.9.1](https://github.com/momiji-rs/sasso/releases/tag/v0.9.1), 3 days ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
-- [shyim/riff](https://github.com/shyim/riff) ([v0.0.7](https://github.com/shyim/riff/releases/tag/v0.0.7), 4 days ago) - Riff is a fast, standalone Composer-compatible package manager written in Rust.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 5 days ago) - The Symfony PHP framework
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ([v1.11.5](https://github.com/alibaba/open-code-review/releases/tag/v1.11.5), today) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.17.0-rc.6-251](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.17.0-rc.6-251), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/legato](https://github.com/shyim/legato) ([v0.1.0](https://github.com/shyim/legato/releases/tag/v0.1.0), 1 day ago) - Backward compatibility checker for PHP libraries, implemented in Rust
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.17](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.17), 1 day ago) - Shopware Shop Monitoring
+- [FriendsOfShopware/shopware-sentry-bundle](https://github.com/FriendsOfShopware/shopware-sentry-bundle) ([0.4.0](https://github.com/FriendsOfShopware/shopware-sentry-bundle/releases/tag/0.4.0), 2 days ago) - 
+- [shyim/lite4mariadb](https://github.com/shyim/lite4mariadb) ([v0.1.2](https://github.com/shyim/lite4mariadb/releases/tag/v0.1.2), 2 days ago) - MariaDB running in WASM
+- [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) ([v1.27.1](https://github.com/goreleaser/goreleaser-cross/releases/tag/v1.27.1), 3 days ago) - Docker image for Golang cross-compiling with CGO
+- [shopware/phpstan-shopware](https://github.com/shopware/phpstan-shopware) ([0.2.4](https://github.com/shopware/phpstan-shopware/releases/tag/0.2.4), 3 days ago) - PhpStan Rules for Shopware
+- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.9.1](https://github.com/momiji-rs/sasso/releases/tag/v0.9.1), 4 days ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
 
 ---
 
