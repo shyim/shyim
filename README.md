@@ -7,25 +7,23 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (today)
-- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) -  (today)
-- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (today)
-- [shyim/go-pie](https://github.com/shyim/go-pie) -  (1 day ago)
-- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (1 day ago)
-- [shyim/go-phplint](https://github.com/shyim/go-phplint) - Pure-Go PHP syntax and compile-time linter for PHP 7.2 through 8.6 (1 day ago)
+- [shopware/docs](https://github.com/shopware/docs) - Shopware 6 developer docs (today)
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (1 day ago)
+- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) -  (1 day ago)
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) - Official PHP Client for OpenSearch (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-- [shopwareLabs/go-shopware-http-client](https://github.com/shopwareLabs/go-shopware-http-client) ([0.1.0](https://github.com/shopwareLabs/go-shopware-http-client/releases/tag/0.1.0), today) - Standalone Go HTTP client for the Shopware Admin API: OAuth (integration + password grants), DAL Criteria builder, typed EntityRepository, typed aggregations.
-- [goddard-ai/goddard](https://github.com/goddard-ai/goddard) ([v0.7.0](https://github.com/goddard-ai/goddard/releases/tag/v0.7.0), 1 day ago) - Rust GUI for agent orchestration — Blazing fast UX for cracked developers — macOS/Windows/Linux — Codex, Claude, Devin, OpenCode, and more
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.8](https://github.com/shopware/deployment-helper/releases/tag/0.1.8), 1 day ago) - Simplify Shopware Deployments
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 2 days ago) - A collection of useful tools for Shopware 6
-- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) ([0.3.60](https://github.com/shopware/shopware-lsp/releases/tag/0.3.60), 2 days ago) - 
-- [shopware/web-installer](https://github.com/shopware/web-installer) ([0.1.11](https://github.com/shopware/web-installer/releases/tag/0.1.11), 2 days ago) - The new updater for Shopware
-- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.18.0](https://github.com/momiji-rs/sasso/releases/tag/v0.18.0), 4 days ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.18.0-rc.6-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.18.0-rc.6-261-linux-arm64), 6 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shopware/SwagExtensionStore](https://github.com/shopware/SwagExtensionStore) ([7.0.0](https://github.com/shopware/SwagExtensionStore/releases/tag/7.0.0), 1 week ago) - The integrated Shopware Store for Shopware 6
+- [goddard-ai/goddard](https://github.com/goddard-ai/goddard) ([v0.8.0](https://github.com/goddard-ai/goddard/releases/tag/v0.8.0), 1 day ago) - Rust GUI for agent orchestration — Blazing fast UX for cracked developers — macOS/Windows/Linux — Codex, Claude, Devin, OpenCode, and more
+- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([v0.18.5](https://github.com/shopware/shopware-cli/releases/tag/v0.18.5), 1 day ago) - CLI for Shopware Account and Shopware 6
+- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([v0.1.9](https://github.com/shopware/deployment-helper/releases/tag/v0.1.9), 1 day ago) - Simplify Shopware Deployments
+- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.26](https://github.com/shopware/shopware/releases/tag/v6.6.10.26), 1 day ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
+- [shopwareLabs/go-shopware-http-client](https://github.com/shopwareLabs/go-shopware-http-client) ([0.3.0](https://github.com/shopwareLabs/go-shopware-http-client/releases/tag/0.3.0), 1 day ago) - Standalone Go HTTP client for the Shopware Admin API: OAuth (integration + password grants), DAL Criteria builder, typed EntityRepository, typed aggregations.
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 3 days ago) - A collection of useful tools for Shopware 6
+- [shopware/shopware-lsp](https://github.com/shopware/shopware-lsp) ([0.3.60](https://github.com/shopware/shopware-lsp/releases/tag/0.3.60), 3 days ago) - 
+- [shopware/web-installer](https://github.com/shopware/web-installer) ([0.1.11](https://github.com/shopware/web-installer/releases/tag/0.1.11), 3 days ago) - The new updater for Shopware
+- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.18.0](https://github.com/momiji-rs/sasso/releases/tag/v0.18.0), 5 days ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
 
 ---
 
