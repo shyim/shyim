@@ -7,27 +7,24 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) - Simplify Shopware Deployments (today)
-- [shyim/mochi](https://github.com/shyim/mochi) -  (today)
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (today)
-- [shopware/docker](https://github.com/shopware/docker) - Running Shopware in Docker for Production (today)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (1 day ago)
-- [shyim/herdr-gpui](https://github.com/shyim/herdr-gpui) - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon. (3 days ago)
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) - CLI for Shopware Account and Shopware 6 (3 days ago)
-- [shyim/akari](https://github.com/shyim/akari) - A high-performance PHP observability extension. Automatic OpenTelemetry tracing, sampling, and profiling — zero-config, near-zero overhead. (3 days ago)
+- [shyim/hakobin](https://github.com/shyim/hakobin) - Hakobin Package manages DEB and RPM repositories on S3-compatible storage (today)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (today)
+- [shyim/composer](https://github.com/shyim/composer) - Dependency Manager for PHP (1 day ago)
+- [shyim/riff](https://github.com/shyim/riff) - Riff is a fast, standalone Composer-compatible package manager written in Rust. (1 day ago)
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (1 day ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-- [shopware/deployment-helper](https://github.com/shopware/deployment-helper) ([0.1.10](https://github.com/shopware/deployment-helper/releases/tag/0.1.10), today) - Simplify Shopware Deployments
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.20](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.20), 1 day ago) - Shopware Shop Monitoring
-- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) ([v20260927.1](https://github.com/penso/herdr-gpui/releases/tag/v20260927.1), 1 day ago) - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) ([0.1.4](https://github.com/shyim/sitespeed.io-api/releases/tag/0.1.4), 1 day ago) - 
-- [goddard-ai/goddard](https://github.com/goddard-ai/goddard) ([v0.12.0](https://github.com/goddard-ai/goddard/releases/tag/v0.12.0), 3 days ago) - Rust GUI for agent orchestration — Blazing fast UX for cracked developers — macOS/Windows/Linux — Codex, Claude, Devin, OpenCode, and more
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.19.0-rc.1-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.19.0-rc.1-261-linux-arm64), 4 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shopware/shopware](https://github.com/shopware/shopware) ([v6.6.10.27](https://github.com/shopware/shopware/releases/tag/v6.6.10.27), 4 days ago) - Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions
-- [shopware/shopware-cli](https://github.com/shopware/shopware-cli) ([v0.18.5](https://github.com/shopware/shopware-cli/releases/tag/v0.18.5), 5 days ago) - CLI for Shopware Account and Shopware 6
-- [shopwareLabs/go-shopware-http-client](https://github.com/shopwareLabs/go-shopware-http-client) ([0.3.0](https://github.com/shopwareLabs/go-shopware-http-client/releases/tag/0.3.0), 5 days ago) - Standalone Go HTTP client for the Shopware Admin API: OAuth (integration + password grants), DAL Criteria builder, typed EntityRepository, typed aggregations.
+- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.19.1](https://github.com/momiji-rs/sasso/releases/tag/v0.19.1), today) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.19.0-rc.2-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.19.0-rc.2-261-linux-arm64), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) ([v20260928.3](https://github.com/penso/herdr-gpui/releases/tag/v20260928.3), 1 day ago) - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
+- [goddard-ai/goddard](https://github.com/goddard-ai/goddard) ([v0.13.0](https://github.com/goddard-ai/goddard/releases/tag/v0.13.0), 1 day ago) - Rust GUI for agent orchestration — Blazing fast UX for cracked developers — macOS/Windows/Linux — Codex, Claude, Devin, OpenCode, and more
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.20](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.20), 2 days ago) - Shopware Shop Monitoring
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) ([0.1.4](https://github.com/shyim/sitespeed.io-api/releases/tag/0.1.4), 2 days ago) - 
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 1 week ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([3.0.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/3.0.2), 2 weeks ago) - Helpful development tools
+- [opensearch-project/opensearch-php](https://github.com/opensearch-project/opensearch-php) ([2.7.1](https://github.com/opensearch-project/opensearch-php/releases/tag/2.7.1), 2 weeks ago) - Official PHP Client for OpenSearch
 
 ---
 
