@@ -7,22 +7,23 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (today)
-- [shyim/mochi](https://github.com/shyim/mochi) -  (2 days ago)
-- [shyim/pi-orcarouter](https://github.com/shyim/pi-orcarouter) - OrcaRouter provider plugin for the Pi coding agent — registers OrcaRouter's OpenAI-compatible model catalog with real per-token cost tracking (3 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
+- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (2 days ago)
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) - Shopware Shop Monitoring (3 days ago)
+- [shyim/mochi](https://github.com/shyim/mochi) -  (3 days ago)
+- [shyim/pi-orcarouter](https://github.com/shyim/pi-orcarouter) - OrcaRouter provider plugin for the Pi coding agent — registers OrcaRouter's OpenAI-compatible model catalog with real per-token cost tracking (4 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.21.0](https://github.com/momiji-rs/sasso/releases/tag/v0.21.0), today) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
-- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) ([v20261002.2](https://github.com/penso/herdr-gpui/releases/tag/v20261002.2), 1 day ago) - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.19.0-rc.4-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.19.0-rc.4-261-linux-arm64), 3 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shyim/pi-orcarouter](https://github.com/shyim/pi-orcarouter) ([v0.2.0](https://github.com/shyim/pi-orcarouter/releases/tag/v0.2.0), 3 days ago) - OrcaRouter provider plugin for the Pi coding agent — registers OrcaRouter's OpenAI-compatible model catalog with real per-token cost tracking
-- [goddard-ai/goddard](https://github.com/goddard-ai/goddard) ([v0.13.0](https://github.com/goddard-ai/goddard/releases/tag/v0.13.0), 5 days ago) - A fast, native workspace for coding agents on macOS, Windows, and Linux. Run Codex, Claude Code, and more in parallel, with isolated worktrees and built-in review.
-- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.20](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.20), 6 days ago) - Shopware Shop Monitoring
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) ([0.1.4](https://github.com/shyim/sitespeed.io-api/releases/tag/0.1.4), 6 days ago) - 
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.14.1](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.14.1), 1 week ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.15.0](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.15.0), 1 day ago) - A collection of useful tools for Shopware 6
+- [penso/herdr-gpui](https://github.com/penso/herdr-gpui) ([v20261003.1](https://github.com/penso/herdr-gpui/releases/tag/v20261003.1), 1 day ago) - Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.
+- [momiji-rs/sasso](https://github.com/momiji-rs/sasso) ([v0.21.0](https://github.com/momiji-rs/sasso/releases/tag/v0.21.0), 1 day ago) - A pure-Rust SCSS to CSS compiler (a dart-sass alternative). Zero dependencies, wasm-friendly, lib + CLI.
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.19.0-rc.4-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.19.0-rc.4-261-linux-arm64), 4 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [shyim/pi-orcarouter](https://github.com/shyim/pi-orcarouter) ([v0.2.0](https://github.com/shyim/pi-orcarouter/releases/tag/v0.2.0), 4 days ago) - OrcaRouter provider plugin for the Pi coding agent — registers OrcaRouter's OpenAI-compatible model catalog with real per-token cost tracking
+- [goddard-ai/goddard](https://github.com/goddard-ai/goddard) ([v0.13.0](https://github.com/goddard-ai/goddard/releases/tag/v0.13.0), 6 days ago) - A fast, native workspace for coding agents on macOS, Windows, and Linux. Run Codex, Claude Code, and more in parallel, with isolated worktrees and built-in review.
+- [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.20](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.20), 1 week ago) - Shopware Shop Monitoring
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) ([0.1.4](https://github.com/shyim/sitespeed.io-api/releases/tag/0.1.4), 1 week ago) - 
 - [FriendsOfShopware/FroshDevelopmentHelper](https://github.com/FriendsOfShopware/FroshDevelopmentHelper) ([3.0.2](https://github.com/FriendsOfShopware/FroshDevelopmentHelper/releases/tag/3.0.2), 2 weeks ago) - Helpful development tools
 
 ---
