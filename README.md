@@ -7,28 +7,28 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (2 days ago)
-- [shyim/hakobin](https://github.com/shyim/hakobin) - Hakobin Package manages DEB and RPM repositories on S3-compatible storage (2 days ago)
-- [shyim/go-queue](https://github.com/shyim/go-queue) - Type-safe message queue library for Go with generics (2 days ago)
-- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (2 days ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
-- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (2 days ago)
-- [shyim/shopware-upgrader-bot](https://github.com/shyim/shopware-upgrader-bot) - Opens pull requests with shopware-lsp check --fix results (3 days ago)
-- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (3 days ago)
-- [FriendsOfShopware/automation-bot](https://github.com/FriendsOfShopware/automation-bot) -  (2 days ago)
+- [Schrank/shopware-cli](https://github.com/Schrank/shopware-cli) - CLI for Shopware Account (1 day ago)
+- [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) - https://www.testcontainers.org implementation for PHP (3 days ago)
+- [shyim/docker-backup](https://github.com/shyim/docker-backup) - A powerful, label-driven backup daemon for Docker containers with scheduled backups, multiple storage backends, and a beautiful web dashboard. (3 days ago)
+- [shyim/mochi](https://github.com/shyim/mochi) -  (1 day ago)
+- [shyim/hakobin](https://github.com/shyim/hakobin) - Hakobin Package manages DEB and RPM repositories on S3-compatible storage (1 day ago)
+- [shyim/sitespeed.io-api](https://github.com/shyim/sitespeed.io-api) -  (3 days ago)
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) - This plugin allows you to archive your mails. (1 day ago)
+- [shyim/go-pie](https://github.com/shyim/go-pie) -  (3 days ago)
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (2 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.17.7](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.17.7), 1 day ago) - A collection of useful tools for Shopware 6
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.21.1-rc.5-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.21.1-rc.5-261-linux-arm64), 3 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.7.1](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.7.1), 5 days ago) - Rector rules for Shopware 6
-- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 6 days ago) - Dependency Manager for PHP
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.21.1-rc.6-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.21.1-rc.6-261-linux-arm64), 1 day ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [trefeon/pi-freeflow](https://github.com/trefeon/pi-freeflow) ([v1.46.0](https://github.com/trefeon/pi-freeflow/releases/tag/v1.46.0), 1 day ago) - 🌊 33 verified free AI models (plus dynamically discovered Kilo models, up to 1M context) for Oh My Pi & Pi. Thin by design — model list, relay proxy, tool-call diagnostics — add your own relays to spread requests across more IPs.
+- [FriendsOfShopware/FroshPlatformMailArchive](https://github.com/FriendsOfShopware/FroshPlatformMailArchive) ([3.9.0](https://github.com/FriendsOfShopware/FroshPlatformMailArchive/releases/tag/3.9.0), 1 day ago) - This plugin allows you to archive your mails.
+- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) ([3.17.7](https://github.com/FriendsOfShopware/FroshTools/releases/tag/3.17.7), 2 days ago) - A collection of useful tools for Shopware 6
+- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.7.1](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.7.1), 6 days ago) - Rector rules for Shopware 6
+- [composer/composer](https://github.com/composer/composer) ([2.11.2](https://github.com/composer/composer/releases/tag/2.11.2), 1 week ago) - Dependency Manager for PHP
 - [FriendsOfShopware/shopmon](https://github.com/FriendsOfShopware/shopmon) ([1.0.26](https://github.com/FriendsOfShopware/shopmon/releases/tag/1.0.26), 1 week ago) - Shopware Shop Monitoring
-- [trefeon/pi-freeflow](https://github.com/trefeon/pi-freeflow) ([v1.45.0](https://github.com/trefeon/pi-freeflow/releases/tag/v1.45.0), 1 week ago) - 🌊 30 free curated AI models (up to 1M context) for Oh My Pi & Pi. Thin by design — model list, relay proxy, tool-call diagnostics — add your own relays to spread requests across more IPs.
 - [testcontainers/testcontainers-php](https://github.com/testcontainers/testcontainers-php) ([1.2.1](https://github.com/testcontainers/testcontainers-php/releases/tag/1.2.1), 1 week ago) - https://www.testcontainers.org implementation for PHP
 - [shyim/riff](https://github.com/shyim/riff) ([v0.0.8](https://github.com/shyim/riff/releases/tag/v0.0.8), 1 week ago) - Riff is a fast, standalone Composer-compatible package manager written in Rust.
-- [shyim/composer-transport-oci](https://github.com/shyim/composer-transport-oci) ([v0.1.0](https://github.com/shyim/composer-transport-oci/releases/tag/v0.1.0), 1 week ago) - Publish Composer packages to OCI registries and install them with Composer.
 
 ---
 
