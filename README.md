@@ -7,24 +7,27 @@ Curious what I've been working on recently?
 ---
 
 #### 👷 Check out what I'm currently working on
-- [shyim/mochi](https://github.com/shyim/mochi) -  (today)
-- [shyim/buildkit](https://github.com/shyim/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (2 days ago)
 - [shyim/openxcloud](https://github.com/shyim/openxcloud) - Native Xbox Cloud Gaming client for macOS and Linux, built with Rust. Browse your games, stream with WebRTC, and upscale with AMD FSR or Apple MetalFX. (1 day ago)
-- [FriendsOfShopware/FroshTools](https://github.com/FriendsOfShopware/FroshTools) - A collection of useful tools for Shopware 6 (1 day ago)
-- [shyim/local-s3](https://github.com/shyim/local-s3) - Lightweight S3-compatible server for local development and testing (4 days ago)
+- [shyim/symfony](https://github.com/shyim/symfony) - The Symfony PHP framework (2 days ago)
+- [FriendsOfShopware/vitest-shopware-admin-bridge](https://github.com/FriendsOfShopware/vitest-shopware-admin-bridge) - Vitest bridge for Shopware 6 Administration extensions (2 days ago)
+- [shyim/hakobin](https://github.com/shyim/hakobin) - Hakobin Package manages DEB and RPM repositories on S3-compatible storage (1 day ago)
+- [shyim/agm](https://github.com/shyim/agm) - Multi-account CLI for Antigravity (agy / IDE / desktop) (4 days ago)
+- [shyim/go-phplint](https://github.com/shyim/go-phplint) - Pure-Go PHP syntax and compile-time linter for PHP 7.2 through 8.6 (1 day ago)
+- [shyim/mochi](https://github.com/shyim/mochi) -  (1 day ago)
+- [shyim/buildkit](https://github.com/shyim/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit (3 days ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
-- [trefeon/pi-freeflow](https://github.com/trefeon/pi-freeflow) ([v1.48.0](https://github.com/trefeon/pi-freeflow/releases/tag/v1.48.0), 1 day ago) - 🌊 32 verified free models (plus dynamically discovered Kilo models, up to 1M context) for Oh My Pi & Pi. Thin by design — model list, relay proxy, tool-call diagnostics — add your own relays to spread requests across more IPs.
-- [shyim/openxcloud](https://github.com/shyim/openxcloud) ([v0.1.2](https://github.com/shyim/openxcloud/releases/tag/v0.1.2), 1 day ago) - Native Xbox Cloud Gaming client for macOS and Linux, built with Rust. Browse your games, stream with WebRTC, and upscale with AMD FSR or Apple MetalFX.
-- [FriendsOfShopware/vitest-shopware-admin-bridge](https://github.com/FriendsOfShopware/vitest-shopware-admin-bridge) ([v0.2.2](https://github.com/FriendsOfShopware/vitest-shopware-admin-bridge/releases/tag/v0.2.2), 1 day ago) - Vitest bridge for Shopware 6 Administration extensions
-- [shyim/local-s3](https://github.com/shyim/local-s3) ([v0.1.3](https://github.com/shyim/local-s3/releases/tag/v0.1.3), 4 days ago) - Lightweight S3-compatible server for local development and testing
-- [shyim/go-composer](https://github.com/shyim/go-composer) ([v0.1.4](https://github.com/shyim/go-composer/releases/tag/v0.1.4), 5 days ago) - Go library for reading and manipulating Composer files: composer.json, composer.lock and auth.json — with typed models, unknown-field round-tripping, and dotted-path access to the extra section
-- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.21.2-nightly.39716-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.21.2-nightly.39716-261-linux-arm64), 5 days ago) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
-- [shyim/go-spdx](https://github.com/shyim/go-spdx) ([1.0.0](https://github.com/shyim/go-spdx/releases/tag/1.0.0), 5 days ago) - Go library for validating SPDX license expressions. Zero dependencies, pure Go standard library.
-- [FriendsOfShopware/shopware-rector](https://github.com/FriendsOfShopware/shopware-rector) ([0.7.2](https://github.com/FriendsOfShopware/shopware-rector/releases/tag/0.7.2), 5 days ago) - Rector rules for Shopware 6
-- [shyim/mjml-php](https://github.com/shyim/mjml-php) ([0.2.2](https://github.com/shyim/mjml-php/releases/tag/0.2.2), 6 days ago) - Native PHP port of MJML — convert MJML markup into responsive HTML emails, no Node.js required
+- [composer/composer](https://github.com/composer/composer) ([2.11.3](https://github.com/composer/composer/releases/tag/2.11.3), today) - Dependency Manager for PHP
+- [shyim/openxcloud](https://github.com/shyim/openxcloud) ([v0.2.0](https://github.com/shyim/openxcloud/releases/tag/v0.2.0), today) - Native Xbox Cloud Gaming client for macOS and Linux, built with Rust. Browse your games, stream with WebRTC, and upscale with AMD FSR or Apple MetalFX.
+- [shyim/jetbrains-github-copilot-patcher](https://github.com/shyim/jetbrains-github-copilot-patcher) ([1.22.0-rc.2-261-linux-arm64](https://github.com/shyim/jetbrains-github-copilot-patcher/releases/tag/1.22.0-rc.2-261-linux-arm64), today) - Patcher for Github Copilot to work with Jetbrain IDE EAP versions
+- [jdx/communique](https://github.com/jdx/communique) ([v1.9.0](https://github.com/jdx/communique/releases/tag/v1.9.0), 1 day ago) - Editorialized release notes powered by AI
+- [trefeon/pi-freeflow](https://github.com/trefeon/pi-freeflow) ([v1.48.0](https://github.com/trefeon/pi-freeflow/releases/tag/v1.48.0), 2 days ago) - 🌊 32 verified free models (plus dynamically discovered Kilo models, up to 1M context) for Oh My Pi & Pi. Thin by design — model list, relay proxy, tool-call diagnostics — add your own relays to spread requests across more IPs.
+- [FriendsOfShopware/vitest-shopware-admin-bridge](https://github.com/FriendsOfShopware/vitest-shopware-admin-bridge) ([v0.2.2](https://github.com/FriendsOfShopware/vitest-shopware-admin-bridge/releases/tag/v0.2.2), 2 days ago) - Vitest bridge for Shopware 6 Administration extensions
+- [shyim/local-s3](https://github.com/shyim/local-s3) ([v0.1.3](https://github.com/shyim/local-s3/releases/tag/v0.1.3), 5 days ago) - Lightweight S3-compatible server for local development and testing
+- [shyim/go-composer](https://github.com/shyim/go-composer) ([v0.1.4](https://github.com/shyim/go-composer/releases/tag/v0.1.4), 6 days ago) - Go library for reading and manipulating Composer files: composer.json, composer.lock and auth.json — with typed models, unknown-field round-tripping, and dotted-path access to the extra section
+- [shyim/go-spdx](https://github.com/shyim/go-spdx) ([1.0.0](https://github.com/shyim/go-spdx/releases/tag/1.0.0), 6 days ago) - Go library for validating SPDX license expressions. Zero dependencies, pure Go standard library.
 
 ---
 
